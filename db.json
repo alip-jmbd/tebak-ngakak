@@ -1,0 +1,7007 @@
+[
+  {
+    "questions": "Hewan yang sering digunakan petani untuk membajak sawah?",
+    "answers": "Pasrah",
+    "clues": "Bukan tentang kekuatan tapi perasaan"
+  },
+  {
+    "questions": "Seseorang yang memimpin sebuah desa, biasanya dipanggil pak?",
+    "answers": "Noleh",
+    "clues": "Ini adalah sebuah gerakan"
+  },
+  {
+    "questions": "Ikan bernafas di air dengan?",
+    "answers": "Tenang",
+    "clues": "Sebuah kondisi pikiran"
+  },
+  {
+    "questions": "Selain mobil, bus, pesawat, orang pergi dari Jakarta ke Surabaya biasanya menggunakan?",
+    "answers": "Celana",
+    "clues": "Sesuatu yang melekat di badan"
+  },
+  {
+    "questions": "Di rumah makan padang, selain pakai sendok kita makan pakai?",
+    "answers": "Tenaga",
+    "clues": "Dibutuhkan untuk melakukan aktivitas"
+  },
+  {
+    "questions": "Biasa digunakan untuk menyalakan atau mematikan TV dan AC?",
+    "answers": "Tolong",
+    "clues": "Sebuah kata permintaan"
+  },
+  {
+    "questions": "Makan duit rakyat disebut?",
+    "answers": "Debus",
+    "clues": "Sebuah pertunjukan ekstrem"
+  },
+  {
+    "questions": "Binatang yang hinggap di makanan?",
+    "answers": "Lapar",
+    "clues": "Perasaan di perut"
+  },
+  {
+    "questions": "Di dalam perpustakaan tidak boleh?",
+    "answers": "Keramas",
+    "clues": "Aktivitas di kamar mandi"
+  },
+  {
+    "questions": "Senikmat-nikmatnya makan diluar lebih nikmat makan di?",
+    "answers": "Telan",
+    "clues": "Proses setelah mengunyah"
+  },
+  {
+    "questions": "Saat syukuran biasanya kita menyediakan?",
+    "answers": "Ruangan",
+    "clues": "Hal paling dasar untuk sebuah acara"
+  },
+  {
+    "questions": "Burung bisa terbang karena memiliki?",
+    "answers": "Bakat",
+    "clues": "Kemampuan alami"
+  },
+  {
+    "questions": "Sebelum jadi katak, anak katak disebut ?",
+    "answers": "Remaja",
+    "clues": "Fase kehidupan manusia"
+  },
+  {
+    "questions": "Gajah naik motor keliatan apanya?",
+    "answers": "Bohongnya",
+    "clues": "Sebuah ketidakmungkinan"
+  },
+  {
+    "questions": "Jauh di mata, tapi dekat di hati, apakah itu?",
+    "answers": "Usus",
+    "clues": "Organ dalam tubuh"
+  },
+  {
+    "questions": "Pintu apa yang didorong lima orang tetap tidak mau terbuka?",
+    "answers": "Pintu 'tarik'",
+    "clues": "Baca petunjuknya"
+  },
+  {
+    "questions": "Permen apa yang bagian gulanya ada di luar, tapi bungkusnya justru di dalam?",
+    "answers": "Permen salah",
+    "clues": "Sebuah kesalahan produksi"
+  },
+  {
+    "questions": "Hewan laut yang jalannya miring dan bersembunyi di batu atau pasir biasanya?",
+    "answers": "Lagi malu",
+    "clues": "Sebuah perasaan"
+  },
+  {
+    "questions": "Kerbau adalah binatang yang memiliki?",
+    "answers": "Huruf K",
+    "clues": "Ada di awal namanya"
+  },
+  {
+    "questions": "Saat naik pesawat kita dilarang membawa..?",
+    "answers": "Sendiri",
+    "clues": "Lebih baik bersama-sama"
+  },
+  {
+    "questions": "Seorang istri akan merasa terkejut bila di hari ulang tahun dibelikan?",
+    "answers": "Beruang",
+    "clues": "Hadiah yang tidak biasa"
+  },
+  {
+    "questions": "Seorang barber mencukur rambut pelanggan dengan?",
+    "answers": "Gantian",
+    "clues": "Sebuah sistem antrian"
+  },
+  {
+    "questions": "Buah yang dipotong-potong, diuleg campur gula jawa dan cabai, jadinya?",
+    "answers": "Rusak",
+    "clues": "Kondisi setelah diproses"
+  },
+  {
+    "questions": "Mie ramen adalah makanan khas yang berasal dari?",
+    "answers": "Mentah",
+    "clues": "Kondisi sebelum dimasak"
+  },
+  {
+    "questions": "Nasi yang enak buat sarapan, biasanya nasi?",
+    "answers": "Matang",
+    "clues": "Sudah melewati proses masak"
+  },
+  {
+    "questions": "Hewan yang sehari-harinya memakan daging, dan hidup di rawa-rawa, namanya?",
+    "answers": "Butuh",
+    "clues": "Dia pasti makan"
+  },
+  {
+    "questions": "Yang dilakukan atlet sebelum bertanding?",
+    "answers": "Pamitan",
+    "clues": "Izin kepada keluarga"
+  },
+  {
+    "questions": "Bertamu lebih dari 2x24 jam harus?",
+    "answers": "Makan",
+    "clues": "Kebutuhan dasar manusia"
+  },
+  {
+    "questions": "Koran disebut surat ?",
+    "answers": "Salah",
+    "clues": "Koran bukan surat"
+  },
+  {
+    "questions": "Salah satu contoh hewan yang jalannya lambat?",
+    "answers": "Serigala",
+    "clues": "Kalau lagi nyantai"
+  },
+  {
+    "questions": "Lawannya gemuk ?",
+    "answers": "Takut",
+    "clues": "Perasaan saat bertemu yang besar"
+  },
+  {
+    "questions": "Buah buah apa yang tua ?",
+    "answers": "Singkong",
+    "clues": "Bisa jadi tape"
+  },
+  {
+    "questions": "Pedagang kaki lima bubar karena ada …?",
+    "answers": "Macan",
+    "clues": "Semua pasti lari"
+  },
+  {
+    "questions": "Cermin jika di lap jadi …?",
+    "answers": "Cermin",
+    "clues": "Tidak berubah wujud"
+  },
+  {
+    "questions": "Cuci piring harus?",
+    "answers": "Sadar",
+    "clues": "Jangan sambil melamun"
+  },
+  {
+    "questions": "Dari Bandung ke Surabaya pake?",
+    "answers": "Celana",
+    "clues": "Dipakai di kaki"
+  },
+  {
+    "questions": "Beli obat di?",
+    "answers": "Minum",
+    "clues": "Tujuan membeli obat"
+  },
+  {
+    "questions": "Kalau semut kecil, gajah...?",
+    "answers": "Hewan",
+    "clues": "Sebuah klasifikasi"
+  },
+  {
+    "questions": "Apa yang bulat, kecil, kadang hitam, kadang putih, terus kalau dipencet bisa keluar orangnya?",
+    "answers": "Bel rumah",
+    "clues": "Ada di depan pintu"
+  },
+  {
+    "questions": "Kita tidak bisa menelepon, kalau handphone-nya nggak ada?",
+    "answers": "Angka",
+    "clues": "Untuk menekan nomor"
+  },
+  {
+    "questions": "Yang dibeli seorang cowok untuk pasangannya di saat Valentine biasanya?",
+    "answers": "Bayar",
+    "clues": "Aktivitas di kasir"
+  },
+  {
+    "questions": "Saat ke Jakarta naik kereta, kita bisa turun di?",
+    "answers": "Lantai",
+    "clues": "Tempat kita berpijak"
+  },
+  {
+    "questions": "Seorang pejabat akan terkena masalah kalau tersangkut?",
+    "answers": "Jemuran",
+    "clues": "Bisa bikin malu"
+  },
+  {
+    "questions": "Neil Amstrong adalah astronot yang pernah menginjakkan kakinya di?",
+    "answers": "Rumah",
+    "clues": "Tempat dia tinggal"
+  },
+  {
+    "questions": "Alat musik yang ditiup?",
+    "answers": "Debu",
+    "clues": "Biar bersih"
+  },
+  {
+    "questions": "Temannya nobita?",
+    "answers": "Sedikit",
+    "clues": "Hanya beberapa orang"
+  },
+  {
+    "questions": "Motor yang selalu salah?",
+    "answers": "Yamaha",
+    "clues": "Ya maha maaf"
+  },
+  {
+    "questions": "Ibu yang baik harusnya?",
+    "answers": "Ibukita",
+    "clues": "Lagu nasional"
+  },
+  {
+    "questions": "Tempat ngopi disebut?",
+    "answers": "Kali",
+    "clues": "Berapa kali sehari"
+  },
+  {
+    "questions": "Yang mengatur lalu lintas?",
+    "answers": "Wajar",
+    "clues": "Sudah sewajarnya"
+  },
+  {
+    "questions": "Api dipegang terasa?",
+    "answers": "Susah",
+    "clues": "Coba saja kalau bisa"
+  },
+  {
+    "questions": "Air beriak tanda tak?",
+    "answers": "Mulus",
+    "clues": "Permukaannya tidak rata"
+  },
+  {
+    "questions": "Yang sering potong rambut tapi nggak botak-botak?",
+    "answers": "Tukang cukur",
+    "clues": "Profesi"
+  },
+  {
+    "questions": "Kalau haus minum?",
+    "answers": "Aja",
+    "clues": "Tinggal lakukan"
+  },
+  {
+    "questions": "Yang membantu dokter?",
+    "answers": "Sembuh",
+    "clues": "Harapan pasien"
+  },
+  {
+    "questions": "Cicak jatuh ke?",
+    "answers": "Bawah",
+    "clues": "Arah gravitasi"
+  },
+  {
+    "questions": "Kendaraan yang diawali huruf B?",
+    "answers": "Mobil",
+    "clues": "Karena rodanya dari ban"
+  },
+  {
+    "questions": "Orang yang tinggal di sebelah rumah disebut?",
+    "answers": "Manusia",
+    "clues": "Bukan alien"
+  },
+  {
+    "questions": "Matahari terbit dari?",
+    "answers": "Pagi",
+    "clues": "Waktu"
+  },
+  {
+    "questions": "Gajah terbang dengan?",
+    "answers": "Susah",
+    "clues": "Sangat sulit"
+  },
+  {
+    "questions": "Orang bingung biasanya?",
+    "answers": "Mikir",
+    "clues": "Aktivitas otak"
+  },
+  {
+    "questions": "Hujan turun dari?",
+    "answers": "Atas",
+    "clues": "Arah datangnya"
+  },
+  {
+    "questions": "Matahari tenggelam di sebelah?",
+    "answers": "Gawat",
+    "clues": "Karena jadi gelap"
+  },
+  {
+    "questions": "Galang menyimpan buku di?",
+    "answers": "Mas",
+    "clues": "Masukin tas"
+  },
+  {
+    "questions": "Bersatu kita teguh bercerai kita?",
+    "answers": "Sedih",
+    "clues": "Perasaan setelah putus"
+  },
+  {
+    "questions": "Apabila mengendarai mobil wajib bawa?",
+    "answers": "Satu",
+    "clues": "Tidak boleh bawa dua mobil sekaligus"
+  },
+  {
+    "questions": "Seekor ayam 'terkurung' di kandang macan",
+    "answers": "Aman",
+    "clues": "Macannya di dalam kandang"
+  },
+  {
+    "questions": "Ikan yang bisa terbang?",
+    "answers": "Pilot",
+    "clues": "Profesi di udara"
+  },
+  {
+    "questions": "Tidak makan tapi kenyang?",
+    "answers": "Angin",
+    "clues": "Bisa masuk ke perut"
+  },
+  {
+    "questions": "Yang bikin harum?",
+    "answers": "Tukang parfum",
+    "clues": "Orang yang menjualnya"
+  },
+  {
+    "questions": "Burung adalah hewan yang bisa?",
+    "answers": "Temenan",
+    "clues": "Hidup berkelompok"
+  },
+  {
+    "questions": "Seekor rusa memiliki?",
+    "answers": "Teman",
+    "clues": "Makhluk sosial"
+  },
+  {
+    "questions": "Bendera NKRI warnanya?",
+    "answers": "Cuma dua",
+    "clues": "Jumlah warnanya"
+  },
+  {
+    "questions": "Ketika apa orang biasanya makan?",
+    "answers": "Marah",
+    "clues": "Biar nggak marah"
+  },
+  {
+    "questions": "Kenapa orang makan dengan tangan kanan?",
+    "answers": "Karena makanan",
+    "clues": "Kalau pakai tangan kiri juga bisa"
+  },
+  {
+    "questions": "Hewan berkaki seribu kalau belok kakinya berapa?",
+    "answers": "Tetap seribu",
+    "clues": "Tidak ada yang copot"
+  },
+  {
+    "questions": "Hewan apa yang paling aneh?",
+    "answers": "Belalang kupu-kupu",
+    "clues": "Kalau siang makan nasi kalau malam minum susu"
+  },
+  {
+    "questions": "Telur apa yang diinjak nggak pecah?",
+    "answers": "Telortoar",
+    "clues": "Ada di pinggir jalan"
+  },
+  {
+    "questions": "Kenapa air laut asin?",
+    "answers": "Karena ikan",
+    "clues": "Ikannya keringetan"
+  },
+  {
+    "questions": "Ada bebek 10 dikali 2 jadi berapa?",
+    "answers": "8",
+    "clues": "Yang 2 ada di kali"
+  },
+  {
+    "questions": "Kebo apa yang bikin capek?",
+    "answers": "Kebogor",
+    "clues": "Kalau jalan kaki"
+  },
+  {
+    "questions": "Sandal apa yang paling enak?",
+    "answers": "Sandal terasi",
+    "clues": "Bikin nagih"
+  },
+  {
+    "questions": "Rambut putih namanya uban, rambut merah namanya pirang, kalo rambut hijau namanya apa?",
+    "answers": "Rambutan",
+    "clues": "Buah yang belum matang"
+  },
+  {
+    "questions": "Apa bedanya sarung dan kotak?",
+    "answers": "Beda",
+    "clues": "Sarung bisa kotak-kotak"
+  },
+  {
+    "questions": "Ayam, ayam apa yang nggak bisa makan dan nggak bisa jalan?",
+    "answers": "Ayam-ayaman",
+    "clues": "Sebuah mainan"
+  },
+  {
+    "questions": "Sepatu, sepatu apa yang bisa di pakai masak?",
+    "answers": "Sepatula",
+    "clues": "Alat dapur"
+  },
+  {
+    "questions": "Jam, jam apa yang jarumnya muter ke kiri?",
+    "answers": "Jam kidal",
+    "clues": "Tidak biasa"
+  },
+  {
+    "questions": "Buah apa yang bisa menampung banyak barang?",
+    "answers": "Leci meja",
+    "clues": "Ada di perabotan"
+  },
+  {
+    "questions": "Buah apa yang pernah menjajah Indonesia?",
+    "answers": "Terong Belanda",
+    "clues": "Ada nama negaranya"
+  },
+  {
+    "questions": "Buah apa yang lucu suka bikin ketawa?",
+    "answers": "Buahahahaha",
+    "clues": "Suara tertawa"
+  },
+  {
+    "questions": "Penyanyi luar negeri yang suka bersepeda?",
+    "answers": "Selena Gowes",
+    "clues": "Aktivitas olahraga"
+  },
+  {
+    "questions": "Penyanyi yang sering gak sadar diri?",
+    "answers": "Pingsan Mambo",
+    "clues": "Kehilangan kesadaran"
+  },
+  {
+    "questions": "Gubernur apa yang suka nyanyi?",
+    "answers": "Biduan Kamil",
+    "clues": "Penyanyi dangdut"
+  },
+  {
+    "questions": "Wakil presiden yang sering nonton streaming?",
+    "answers": "Muhammad Kalla",
+    "clues": "Nontonnya di stream"
+  },
+  {
+    "questions": "Siapa yang paling capek kalo ada acara 17an?",
+    "answers": "Panitia",
+    "clues": "Yang mengurus acara"
+  },
+  {
+    "questions": "Kenapa zombi kalo nyerang bareng-bareng?",
+    "answers": "Karena zomblo",
+    "clues": "Kalau sendiri namanya beda"
+  },
+  {
+    "questions": "Hewan apa yang paling tidak sopan?",
+    "answers": "Kutu",
+    "clues": "Suka di atas kepala"
+  },
+  {
+    "questions": "Lagu 'potong bebek angsa' diciptakan oleh?",
+    "answers": "Orang",
+    "clues": "Bukan oleh hewan"
+  },
+  {
+    "questions": "Benda apa yang kalau dipotong malah jadi tinggi?",
+    "answers": "Celana",
+    "clues": "Bagian bawahnya"
+  },
+  {
+    "questions": "Bulu apa yang dinaikin orang?",
+    "answers": "Bulutangkis",
+    "clues": "Sebuah olahraga"
+  },
+  {
+    "questions": "Apa bahasa Jepangnya 'saya dicopet'?",
+    "answers": "Sakukudiraba",
+    "clues": "Rasanya tak ada"
+  },
+  {
+    "questions": "Telor apa yang sangar?",
+    "answers": "Telor asin",
+    "clues": "Ada tatonya"
+  },
+  {
+    "questions": "Ban apa yang udaranya dingin?",
+    "answers": "Bandung",
+    "clues": "Nama kota"
+  },
+  {
+    "questions": "Penyanyi yang suka nahan buang air?",
+    "answers": "Titi DJ",
+    "clues": "Hati-hati di jalan"
+  },
+  {
+    "questions": "Hewan apa yang selalu benar?",
+    "answers": "Kucingguk",
+    "clues": "Bunyinya meyakinkan"
+  },
+  {
+    "questions": "Ikan apa yang matanya banyak?",
+    "answers": "Ikan teri",
+    "clues": "Kalau sekilo"
+  },
+  {
+    "questions": "Buah apa yang durhaka?",
+    "answers": "Melon kundang",
+    "clues": "Sebuah legenda"
+  },
+  {
+    "questions": "Sayur apa yang paling suci?",
+    "answers": "Kailan",
+    "clues": "Mirip nama Tuhan"
+  },
+  {
+    "questions": "Pocong apa yang paling disukai ibu-ibu?",
+    "answers": "Pocongan harga",
+    "clues": "Diskon"
+  },
+  {
+    "questions": "Benda apa yang keluar waktu diputar?",
+    "answers": "Lipstik",
+    "clues": "Alat make up"
+  },
+  {
+    "questions": "Tahu apa yang paling besar?",
+    "answers": "Tahu Sumedang",
+    "clues": "Ukurannya besar"
+  },
+  {
+    "questions": "Binatang apa yang paling panjang?",
+    "answers": "Ular ngantri",
+    "clues": "Kalau lagi antri beras"
+  },
+  {
+    "questions": "Bagian tubuh mana yang paling sering disapa?",
+    "answers": "Pundak",
+    "clues": "Hai pundak"
+  },
+  {
+    "questions": "Nasi apa yang gak bakal basi?",
+    "answers": "Nasihat",
+    "clues": "Nasi untuk jiwa"
+  },
+  {
+    "questions": "Kera apa yang bikin heboh?",
+    "answers": "Keracunan",
+    "clues": "Masalah makanan"
+  },
+  {
+    "questions": "Kunci apa yang bisa bikin orang joget?",
+    "answers": "Kunci-kunci",
+    "clues": "Lagu India"
+  },
+  {
+    "questions": "Kalau gajah jadi semut, terus singa jadi semut, dan sapi jadi semut, maka ayam jadi apa?",
+    "answers": "Jadi banyak",
+    "clues": "Jumlah semutnya"
+  },
+  {
+    "questions": "Monyet apa yang paling nyebelin?",
+    "answers": "Monyetel TV",
+    "clues": "Tapi nggak ditonton"
+  },
+  {
+    "questions": "Bis apa yang menyesatkan?",
+    "answers": "Bisikan setan",
+    "clues": "Suara gaib"
+  },
+  {
+    "questions": "Gerakan apa yang paling susah dilakuin?",
+    "answers": "Move on",
+    "clues": "Tentang perasaan"
+  },
+  {
+    "questions": "Rombongan apa yang paling ditakuti ibu-ibu?",
+    "answers": "Rombongan tagihan",
+    "clues": "Setiap akhir bulan"
+  },
+  {
+    "questions": "Tukang apa yang kalau dipanggil malah lari?",
+    "answers": "Tukang copet",
+    "clues": "Bukan tukang dagang"
+  },
+  {
+    "questions": "Bebek apa yang jalannya selalu muter ke kiri terus?",
+    "answers": "Bebek dikunci",
+    "clues": "Stangnya"
+  },
+  {
+    "questions": "Kenapa babi bau?",
+    "answers": "Karena keteknya",
+    "clues": "Ada empat"
+  },
+  {
+    "questions": "Apa bedanya kacang panjang dengan celana panjang?",
+    "answers": "Kalau dipotong",
+    "clues": "Namanya jadi beda"
+  },
+  {
+    "questions": "Kopi apa yang bisa menggigit?",
+    "answers": "Kopiting",
+    "clues": "Hewan bercapit"
+  },
+  {
+    "questions": "Gajah apa yang belalainya pendek?",
+    "answers": "Gajah pesek",
+    "clues": "Hidungnya"
+  },
+  {
+    "questions": "Monyet apa yang ada di pinggir jalan?",
+    "answers": "Monyetop angkot",
+    "clues": "Memberhentikan kendaraan"
+  },
+  {
+    "questions": "Kucing apa yang kuno?",
+    "answers": "Kucinggalan zaman",
+    "clues": "Tidak modern"
+  },
+  {
+    "questions": "Ban apa yang enak dimakan?",
+    "answers": "Bandeng presto",
+    "clues": "Makanan dari ikan"
+  },
+  {
+    "questions": "Oli apa yang bisa bikin cewek seneng?",
+    "answers": "Oli lop yu",
+    "clues": "Ungkapan cinta"
+  },
+  {
+    "questions": "Buah apa yang paling kaya?",
+    "answers": "Sri kaya",
+    "clues": "Bahan selai"
+  },
+  {
+    "questions": "Pulau apa yang disayang orang tua?",
+    "answers": "Pulau-pulau",
+    "clues": "Pulau-pulau sama adik"
+  },
+  {
+    "questions": "Telor apa yang paling bahaya?",
+    "answers": "Telor-teloran",
+    "clues": "Telor-teloran sama preman"
+  },
+  {
+    "questions": "Kenapa dinosaurus punah?",
+    "answers": "Karena merokok",
+    "clues": "Kebiasaan buruk"
+  },
+  {
+    "questions": "Kenapa nyamuk bunyinya 'nging'?",
+    "answers": "Karena hisap",
+    "clues": "hisap darah bukan ganja"
+  },
+  {
+    "questions": "Tiang apa yang bikin seger?",
+    "answers": "Tiang-tiang",
+    "clues": "Tiang-tiang minum es"
+  },
+  {
+    "questions": "Kenapa anak kodok suka loncat-loncat?",
+    "answers": "Namanya juga",
+    "clues": "Namanya juga anak-anak"
+  },
+  {
+    "questions": "Kenapa bebek goreng rasanya enak?",
+    "answers": "Karena huruf B",
+    "clues": "Coba kalau hurufnya diganti"
+  },
+  {
+    "questions": "Kalau semua jenis hewan sekolah, siapa yang sering terlambat?",
+    "answers": "Kaki seribu",
+    "clues": "Pakai sepatunya lama"
+  },
+  {
+    "questions": "Hitam, putih, merah, apakah itu?",
+    "answers": "Zebra",
+    "clues": "Habis dikerokin"
+  },
+  {
+    "questions": "Kenapa baju Superman ada huruf S?",
+    "answers": "Karena M atau L",
+    "clues": "Kebesaran"
+  },
+  {
+    "questions": "Kenapa di dalam bajaj nggak ada nyamuk?",
+    "answers": "Nyamuk takut",
+    "clues": "Nyamuk takut tiga roda"
+  },
+  {
+    "questions": "Siapa wanita Indonesia yang paling kuat?",
+    "answers": "Nyonya Meneer",
+    "clues": "Berdiri sejak 1918"
+  },
+  {
+    "questions": "Ada berapa huruf dalam abjad?",
+    "answers": "Lima",
+    "clues": "Hitung saja A-B-J-A-D"
+  },
+  {
+    "questions": "Kota apa yang nilainya selalu bagus?",
+    "answers": "Ciamis",
+    "clues": "Selalu A"
+  },
+  {
+    "questions": "Benda apa yang kalau dilihat kotak, tapi dipegang bulat?",
+    "answers": "Logo SCTV",
+    "clues": "Tontonan televisi"
+  },
+  {
+    "questions": "Kue apa yang bagian tengahnya nggak ada rasanya?",
+    "answers": "Donat",
+    "clues": "Karena bolong"
+  },
+  {
+    "questions": "Hewan apa yang bersaudara?",
+    "answers": "Katak beradik",
+    "clues": "Hubungan keluarga"
+  },
+  {
+    "questions": "Penyanyi apa yang suka naik sepeda?",
+    "answers": "Selena Gowes",
+    "clues": "Nama plesetan"
+  },
+  {
+    "questions": "Hewan apa yang namanya cuma 2 huruf?",
+    "answers": "U dan G",
+    "clues": "Sebuah serangga"
+  },
+  {
+    "questions": "Sayur apa yang dingin?",
+    "answers": "Kembang cold",
+    "clues": "Bahasa Inggris dingin"
+  },
+  {
+    "questions": "Nasi rames kalau lauknya dihilangin jadi apa?",
+    "answers": "Nasi sepi",
+    "clues": "Tidak ada teman"
+  },
+  {
+    "questions": "Apa bedanya sepatu sama jengkol?",
+    "answers": "Kalau sepatu",
+    "clues": "Kalau sepatu disemir jengkol disemur"
+  },
+  {
+    "questions": "Apa bedanya matahari sama bulan?",
+    "answers": "Matahari",
+    "clues": "Matahari ada diskon"
+  },
+  {
+    "questions": "Lemari apa yang bisa masuk kantong?",
+    "answers": "Lemaribuan",
+    "clues": "Nominal uang"
+  },
+  {
+    "questions": "Monyet apa yang berdiri di tepi jalan?",
+    "answers": "Monyetop taksi",
+    "clues": "Lagi cari tumpangan"
+  },
+  {
+    "questions": "Pemain bola apa yang beratnya 3 kg?",
+    "answers": "Bambang tabung",
+    "clues": "Bambang tabung gas"
+  },
+  {
+    "questions": "Gubernur apa yang pinter ngelawak?",
+    "answers": "Sule prikitiew",
+    "clues": "Seorang komedian"
+  },
+  {
+    "questions": "Presiden yang imut?",
+    "answers": "Kim Jong Unch",
+    "clues": "Pemimpin negara"
+  },
+  {
+    "questions": "Hewan apa yang kalau diinjek nggak marah?",
+    "answers": "Kera mik",
+    "clues": "Bahan lantai"
+  },
+  {
+    "questions": "Buah apa yang paling sopan?",
+    "answers": "Manggis",
+    "clues": "Ada kata 'mangga'"
+  },
+  {
+    "questions": "Ikan apa yang nggak bisa berenang?",
+    "answers": "Ikan goblok",
+    "clues": "Tidak pintar"
+  },
+  {
+    "questions": "Benda kecil apa yang bisa ngeluarin orang?",
+    "answers": "Bel rumah",
+    "clues": "Ada di depan rumah"
+  },
+  {
+    "questions": "Gajah mati meninggalkan gading, harimau mati meninggalkan belang, manusia mati meninggalkan?",
+    "answers": "Hutang",
+    "clues": "Harus dilunasi"
+  },
+  {
+    "questions": "Kalau tidur, kenapa mata ditutup?",
+    "answers": "Karena kalau",
+    "clues": "Karena kalau ditutup hidung gabisa napas"
+  },
+  {
+    "questions": "Negara apa yang paling banyak permennya?",
+    "answers": "Swedia",
+    "clues": "Swedish candy"
+  },
+  {
+    "questions": "Apa yang ada di ujung langit?",
+    "answers": "Huruf T",
+    "clues": "Lihat katanya"
+  },
+  {
+    "questions": "Kentang apa yang bisa bikin bayi ketawa?",
+    "answers": "Kentang-ting-tung",
+    "clues": "Bunyi-bunyian"
+  },
+  {
+    "questions": "Apa perbedaan rok dengan roket?",
+    "answers": "Makin ke atas",
+    "clues": "Makin ke atas makin kelihatan"
+  },
+  {
+    "questions": "Kenapa di keyboard komputer ada tulisan ENTER?",
+    "answers": "Kalau ENTAR",
+    "clues": "Kalau ENTAR programnya gak jalan"
+  },
+  {
+    "questions": "Perbedaan Superman dengan Ultraman apa?",
+    "answers": "Dadanya",
+    "clues": "Yang satu bidang satu lagi empuk"
+  },
+  {
+    "questions": "Es apa yang bikin panas dingin dan pusing- pusing?",
+    "answers": "Esai guru",
+    "clues": "Tugas sekolah"
+  },
+  {
+    "questions": "Benda apa yang walaupun palsu, tetap dibeli orang?",
+    "answers": "Gigi",
+    "clues": "Ada di mulut"
+  },
+  {
+    "questions": "Kalau presiden jadi tukang becak, polisi jadi tukang becak, dokter jadi tukang becak, tukang becak jadi apa?",
+    "answers": "Jadi banyak",
+    "clues": "Jumlah tukang becaknya"
+  },
+  {
+    "questions": "Lima orang berjalan di bawah satu payung kecil, tapi kenapa tidak ada yang kehujanan?",
+    "answers": "Tidak hujan",
+    "clues": "Cuacanya cerah"
+  },
+  {
+    "questions": "Apa yang walaupun dipotong berkali-kali tetap panjang?",
+    "answers": "Kacang panjang",
+    "clues": "Jenis sayuran"
+  },
+  {
+    "questions": "Waktu hidup dinyanyiin, waktu mati ditepukin, hayo apa?",
+    "answers": "Lilin",
+    "clues": "Saat ulang tahun"
+  },
+  {
+    "questions": "Ayam apa yang paling besar?",
+    "answers": "Ayam semesta",
+    "clues": "Meliputi segalanya"
+  },
+  {
+    "questions": "Kue apa yang bungkusnya di dalam, isinya di luar?",
+    "answers": "Kue salah",
+    "clues": "Kue salah bikin"
+  },
+  {
+    "questions": "Apa bukti wortel baik untuk kesehatan mata?",
+    "answers": "Kelinci",
+    "clues": "Pernah lihat kelinci pakai kacamata"
+  },
+  {
+    "questions": "Orang apa yang berenang tapi rambutnya tak pernah basah?",
+    "answers": "Orang botak",
+    "clues": "Tidak punya rambut"
+  },
+  {
+    "questions": "Jika orang sakit dibawa ke rumah sakit, tetapi jika rumah sakit yang sakit dibawa ke mana?",
+    "answers": "Tukang bangunan",
+    "clues": "Yang bisa memperbaiki"
+  },
+  {
+    "questions": "Mobil ditabrak dari belakang, yang turun duluan apanya?",
+    "answers": "Speedometer",
+    "clues": "Jarumnya"
+  },
+  {
+    "questions": "Hewan apa yang paling alim?",
+    "answers": "Kadal",
+    "clues": "Kadalan sholat"
+  },
+  {
+    "questions": "Benda apa yang kalau baru namanya tinggi, kalau bekas jadi pendek?",
+    "answers": "Lilin",
+    "clues": "Terbakar"
+  },
+  {
+    "questions": "Susu apa yang warnanya hijau?",
+    "answers": "Susu-buh",
+    "clues": "Waktu pagi"
+  },
+  {
+    "questions": "Kalau mau masukin gajah ke kulkas, gimana caranya?",
+    "answers": "Buka kulkas",
+    "clues": "Lalu masukkan"
+  },
+  {
+    "questions": "Kalau mau masukin jerapah ke kulkas, gimana caranya?",
+    "answers": "Keluarkan gajah",
+    "clues": "Baru masukkan jerapah"
+  },
+  {
+    "questions": "Raja hutan mengadakan rapat, semua hewan datang kecuali satu, hewan apa itu?",
+    "answers": "Jerapah",
+    "clues": "Masih di kulkas"
+  },
+  {
+    "questions": "Seorang nenek mau menyebrang sungai yang banyak buayanya, gimana caranya?",
+    "answers": "Nyebrang aja",
+    "clues": "Buayanya lagi rapat"
+  },
+  {
+    "questions": "Apa bahasa Arabnya 'nenek-nenek jatuh ke jurang'?",
+    "answers": "Innalillahi",
+    "clues": "Ucapan duka"
+  },
+  {
+    "questions": "Apa bahasa Cinanya 'celana dalam'?",
+    "answers": "Chingkrang",
+    "clues": "Terlalu pendek"
+  },
+  {
+    "questions": "Kota apa yang suka bernyanyi?",
+    "answers": "Sing-kawang",
+    "clues": "Bahasa Inggris bernyanyi"
+  },
+  {
+    "questions": "Hewan apa yang bisa kaya?",
+    "answers": "Ber-uang",
+    "clues": "Punya uang"
+  },
+  {
+    "questions": "Apa bedanya apel dengan upil?",
+    "answers": "Letaknya",
+    "clues": "Satu di atas meja satu di bawah"
+  },
+  {
+    "questions": "Kenapa dokter bedah kalau operasi mulutnya ditutup?",
+    "answers": "Kalau mata",
+    "clues": "Kalau mata yang ditutup gak kelihatan"
+  },
+  {
+    "questions": "Sebutkan satu kalimat yang bikin orang langsung kaya?",
+    "answers": "Anda menang",
+    "clues": "Anda menang undian 1 Miliar"
+  },
+  {
+    "questions": "Buah apa yang banyak dosa?",
+    "answers": "Salak-an saja",
+    "clues": "Menyalahkan orang"
+  },
+  {
+    "questions": "Kera apa yang warnanya banyak?",
+    "answers": "Kerayon",
+    "clues": "Alat mewarnai"
+  },
+  {
+    "questions": "Kecoa apa yang masuk rumah sakit?",
+    "answers": "Kecoalakaan",
+    "clues": "Sebuah insiden"
+  },
+  {
+    "questions": "Kenapa mayat dibungkus kain kafan?",
+    "answers": "Kalau batik",
+    "clues": "Kalau batik ntar kondangan"
+  },
+  {
+    "questions": "Bangun tidur ku terus?",
+    "answers": "Melek",
+    "clues": "Membuka mata"
+  },
+  {
+    "questions": "Sabun apa yang genit?",
+    "answers": "Sabun colek",
+    "clues": "Suka menyentuh"
+  },
+  {
+    "questions": "Kenapa air mata warnanya bening?",
+    "answers": "Kalau hijau",
+    "clues": "Kalau hijau namanya air matcha"
+  },
+  {
+    "questions": "Hewan apa yang paling pendiam?",
+    "answers": "Semute",
+    "clues": "Tidak bersuara"
+  },
+  {
+    "questions": "Ngemil apa yang paling asyik?",
+    "answers": "Ngemilikin kamu",
+    "clues": "Tentang cinta"
+  },
+  {
+    "questions": "Kenapa pohon kelapa di depan rumah harus ditebang?",
+    "answers": "Kalau dicabut",
+    "clues": "Kalau dicabut berat"
+  },
+  {
+    "questions": "Belut apa yang paling bahaya?",
+    "answers": "Belutang",
+    "clues": "Belutang banyak sama rentenir"
+  },
+  {
+    "questions": "Gula apa yang bukan gula?",
+    "answers": "Gula-gula",
+    "clues": "Permen"
+  },
+  {
+    "questions": "Kenapa kalau abis makan harus berdoa?",
+    "answers": "Karena ada",
+    "clues": "Karena ada organ-organ"
+  },
+  {
+    "questions": "Tank apa yang moncongnya di bawah?",
+    "answers": "Tank-kurep",
+    "clues": "Posisi badan"
+  },
+  {
+    "questions": "Apa bahasa inggrisnya nenek-nenek gaul?",
+    "answers": "Hangout grandma",
+    "clues": "Suka jalan-jalan"
+  },
+  {
+    "questions": "Ikan apa yang bisa bikin baper?",
+    "answers": "Ikan-ngan dirimu",
+    "clues": "Selalu teringat"
+  },
+  {
+    "questions": "Hewan apa yang paling sering terlambat sekolah?",
+    "answers": "Ulat bulu",
+    "clues": "Rambutnya"
+  },
+  {
+    "questions": "Sate apa yang bisa terbang?",
+    "answers": "Satelit",
+    "clues": "Benda di luar angkasa"
+  },
+  {
+    "questions": "Kenapa ayam kalau berkokok matanya merem?",
+    "answers": "Sudah hafal",
+    "clues": "Sudah hafal teksnya"
+  },
+  {
+    "questions": "Lele apa yang ada di pinggir jalan?",
+    "answers": "Lele-pon umum",
+    "clues": "Alat komunikasi"
+  },
+  {
+    "questions": "Tari apa yang paling menakutkan?",
+    "answers": "Taring harimau",
+    "clues": "Gigi tajam"
+  },
+  {
+    "questions": "Kuda apa yang bikin capek?",
+    "answers": "Kudaki gunung",
+    "clues": "Kudaki gunung sambil jongkok"
+  },
+  {
+    "questions": "Kenapa orang lebih suka beli sandal baru?",
+    "answers": "Kalau bekas",
+    "clues": "Kalau bekas ukurannya tinggal satu"
+  },
+  {
+    "questions": "Apa yang dilakukan polisi di tengah jalan?",
+    "answers": "Tidur",
+    "clues": "Kalau ada polisi tidur"
+  },
+  {
+    "questions": "Kenapa sepeda motor mereknya 'Yamaha'?",
+    "answers": "Kalau 'Yathriller'",
+    "clues": "Kalau 'Yathriller' jadi serem"
+  },
+  {
+    "questions": "Orang apa yang kalau dipukul gak sakit?",
+    "answers": "Orang-orangan",
+    "clues": "Orang-orangan sawah"
+  },
+  {
+    "questions": "Kopi apa yang bikin capek?",
+    "answers": "Kopi-kiran",
+    "clues": "Kopi-kiran tugas"
+  },
+  {
+    "questions": "Tukang apa yang kalau kerja teriak-teriak?",
+    "answers": "Tukang parkir",
+    "clues": "Mengatur kendaraan"
+  },
+  {
+    "questions": "Panda apa yang paling imut?",
+    "answers": "Pandangin kamu",
+    "clues": "Sebuah gombalan"
+  },
+  {
+    "questions": "Batu apa yang bisa dimakan?",
+    "answers": "Batu-gor",
+    "clues": "Jajanan Bandung"
+  },
+  {
+    "questions": "Benda apa yang kalau diikat baru bisa jalan?",
+    "answers": "Tali sepatu",
+    "clues": "Aksesoris alas kaki"
+  },
+  {
+    "questions": "Sapi apa yang bisa nulis?",
+    "answers": "Sapi-dol",
+    "clues": "Alat tulis"
+  },
+  {
+    "questions": "Apa yang lebih berat dari 12 gajah?",
+    "answers": "13 gajah",
+    "clues": "Jumlahnya lebih banyak"
+  },
+  {
+    "questions": "Hewan apa yang jago komputer?",
+    "answers": "Mouse",
+    "clues": "Alat input"
+  },
+  {
+    "questions": "Kalau ada bus kecelakaan, pesawat jatuh, kapal tenggelam, munculnya di mana?",
+    "answers": "Di TV",
+    "clues": "Berita"
+  },
+  {
+    "questions": "Masak apa yang ragu-ragu?",
+    "answers": "Masak iya?",
+    "clues": "Sebuah pertanyaan"
+  },
+  {
+    "questions": "Buah apa yang ditakuti mahasiswa?",
+    "answers": "Belimbingan",
+    "clues": "Belimbingan skripsi"
+  },
+  {
+    "questions": "Hewan apa yang cintanya ditolak?",
+    "answers": "Kambing",
+    "clues": "Suaranya sedih"
+  },
+  {
+    "questions": "Benda apa yang lebih pinter dari dokter?",
+    "answers": "Kamus",
+    "clues": "Tahu banyak kata"
+  },
+  {
+    "questions": "Kalau dipegang empuk, kalau ditepuk berbunyi, apakah itu?",
+    "answers": "Kasur",
+    "clues": "Tempat tidur"
+  },
+  {
+    "questions": "Tinta apa yang tidak bisa luntur?",
+    "answers": "Tintaku padamu",
+    "clues": "Cinta sejati"
+  },
+  {
+    "questions": "Apa bedanya jam 12 siang sama jam 12 malam?",
+    "answers": "Bunyinya",
+    "clues": "Satu 'niiing' satu 'ninggalin'"
+  },
+  {
+    "questions": "Sayur apa yang romantis?",
+    "answers": "Toge-ther",
+    "clues": "Toge-ther with you"
+  },
+  {
+    "questions": "Jus apa yang menyakitkan?",
+    "answers": "Jus a friend",
+    "clues": "Hanya teman"
+  },
+  {
+    "questions": "Kenapa kalau orang takut ketinggian?",
+    "answers": "Karena aneh",
+    "clues": "Karena aneh kalau takut kerendahan"
+  },
+  {
+    "questions": "Bis apa yang isinya artis semua?",
+    "answers": "Bis-millah",
+    "clues": "Isinya Roma Irama"
+  },
+  {
+    "questions": "Benda apa yang kalau dipencet keluar?",
+    "answers": "Pasta gigi",
+    "clues": "Untuk sikat gigi"
+  },
+  {
+    "questions": "Raja apa yang kepalanya sering dipegang-pegang?",
+    "answers": "Raja catur",
+    "clues": "Sebuah permainan"
+  },
+  {
+    "questions": "Kunci apa yang ada di atas?",
+    "answers": "Kunci-langit",
+    "clues": "Tempat bintang"
+  },
+  {
+    "questions": "Apa yang dilakukan sebelum tidur?",
+    "answers": "Merem",
+    "clues": "Menutup mata"
+  },
+  {
+    "questions": "Hewan apa yang paling sopan di jalan?",
+    "answers": "Kura-kura",
+    "clues": "Selalu minggir"
+  },
+  {
+    "questions": "Game apa yang serem?",
+    "answers": "Game-pa bumi",
+    "clues": "Bencana alam"
+  },
+  {
+    "questions": "Nenek-nenek jatuh di kali, munculnya di mana?",
+    "answers": "Di koran",
+    "clues": "Jadi berita"
+  },
+  {
+    "questions": "Kenapa tuyul botak?",
+    "answers": "Kalau gondrong",
+    "clues": "Kalau gondrong namanya tuyul rock n roll"
+  },
+  {
+    "questions": "Kenapa motor berhenti di lampu merah?",
+    "answers": "Karena direm",
+    "clues": "Bukan karena lampunya"
+  },
+  {
+    "questions": "Pulau apa yang isinya roti?",
+    "answers": "Pulau-mes",
+    "clues": "Isian roti"
+  },
+  {
+    "questions": "Apa yang sebesar gajah tetapi beratnya 0 kg?",
+    "answers": "Bayangan gajah",
+    "clues": "Hanya pantulan"
+  },
+  {
+    "questions": "Apa persamaan tukang sate dan tukang soto?",
+    "answers": "Sama-sama",
+    "clues": "Sama-sama gak jual bakso"
+  },
+  {
+    "questions": "Apa perbedaan aksi dengan demo?",
+    "answers": "Rodanya",
+    "clues": "Yang satu empat yang satu tiga"
+  },
+  {
+    "questions": "Penyanyi yang seringnya di kamar mandi?",
+    "answers": "Gayung-ga",
+    "clues": "Alat mandi"
+  },
+  {
+    "questions": "Jamu apa yang paling pahit?",
+    "answers": "Jamu-kan semua",
+    "clues": "Jamu-kan semua kenangan kita"
+  },
+  {
+    "questions": "Monyet apa yang suka marah?",
+    "answers": "Monyet-rum",
+    "clues": "Listrik"
+  },
+  {
+    "questions": "Benda apa yang kalau dibalik jadi rusak?",
+    "answers": "Kasur",
+    "clues": "Coba baca terbalik"
+  },
+  {
+    "questions": "Kenapa kita harus berhenti menuntut ilmu?",
+    "answers": "Karena ilmu",
+    "clues": "Karena ilmu tidak bersalah"
+  },
+  {
+    "questions": "Kota apa yang isinya orang sabar?",
+    "answers": "Antapani",
+    "clues": "Selalu antri"
+  },
+  {
+    "questions": "Gigi apa yang gak bisa makan?",
+    "answers": "Gigi motor",
+    "clues": "Bagian mesin"
+  },
+  {
+    "questions": "Hewan apa yang paling hemat?",
+    "answers": "Ikan patin",
+    "clues": "Selalu menawar"
+  },
+  {
+    "questions": "Siapakah yang menemukan dompet kulit?",
+    "answers": "Orang",
+    "clues": "Orang yang kehilangan"
+  },
+  {
+    "questions": "Apa yang dilakukan ketika kita punya 10 apel dan diminta 3?",
+    "answers": "Memberikan",
+    "clues": "Memberikan dengan ikhlas"
+  },
+  {
+    "questions": "Kenapa anak kucing dan anak anjing suka berantem?",
+    "answers": "Namanya juga",
+    "clues": "Namanya juga anak-anak"
+  },
+  {
+    "questions": "Apa bahasa inggrisnya 'monyet lagi manjat pohon'?",
+    "answers": "Monkey business",
+    "clues": "Istilah bisnis"
+  },
+  {
+    "questions": "Ikan apa yang paling ganteng?",
+    "answers": "Ikan-mu",
+    "clues": "Ikan-mu di hatiku"
+  },
+  {
+    "questions": "Makanan apa yang namanya sama dengan yang jual?",
+    "answers": "Tahu Sumedang",
+    "clues": "Asal daerah"
+  },
+  {
+    "questions": "Benda apa yang kalau dipakai jadi teman, kalau dibuang jadi musuh?",
+    "answers": "Paku",
+    "clues": "Bisa menusuk"
+  },
+  {
+    "questions": "Kenapa air hujan selalu turun dari atas?",
+    "answers": "Kalau dari bawah",
+    "clues": "Kalau dari bawah namanya air mancur"
+  },
+  {
+    "questions": "Apa yang paling ditakuti oleh para astronot?",
+    "answers": "Kehabisan pulsa",
+    "clues": "Gak bisa telepon"
+  },
+  {
+    "questions": "Hewan apa yang suka menunda pekerjaan?",
+    "answers": "Kera",
+    "clues": "Kerjakan nanti saja"
+  },
+  {
+    "questions": "Kenapa sumur airnya dingin?",
+    "answers": "Karena",
+    "clues": "Karena dikelilingi tembok"
+  },
+  {
+    "questions": "Daun apa yang tidak pernah gugur?",
+    "answers": "Daun telinga",
+    "clues": "Bagian tubuh"
+  },
+  {
+    "questions": "Mata apa yang tidak bisa melihat?",
+    "answers": "Mata kaki",
+    "clues": "Ada di bawah"
+  },
+  {
+    "questions": "Kenapa bumi panas?",
+    "answers": "Karena matahari",
+    "clues": "Karena matahari buka cabang"
+  },
+  {
+    "questions": "Sapi apa yang suka menolong?",
+    "answers": "Sapi-m (Satpam)",
+    "clues": "Penjaga keamanan"
+  },
+  {
+    "questions": "Kera apa yang bisa dimakan?",
+    "answers": "Kerak telor",
+    "clues": "Makanan khas Betawi"
+  },
+  {
+    "questions": "Apa yang dilakukan saat ulang tahun?",
+    "answers": "Bertambah tua",
+    "clues": "Proses alami"
+  },
+  {
+    "questions": "Kenapa donat tengahnya bolong?",
+    "answers": "Karena yang utuh",
+    "clues": "Karena yang utuh cintaku padamu"
+  },
+  {
+    "questions": "Kenapa kijang tidak punya tanduk?",
+    "answers": "Belum cukup",
+    "clues": "Belum cukup umur"
+  },
+  {
+    "questions": "Apa bahasa Arabnya 'diskon'?",
+    "answers": "Al-khatir",
+    "clues": "Jangan khawatir"
+  },
+  {
+    "questions": "Hewan apa yang suka kebersihan?",
+    "answers": "Gajah",
+    "clues": "Punya belalai"
+  },
+  {
+    "questions": "Kenapa burung terbang ke selatan saat musim dingin?",
+    "answers": "Kalau jalan",
+    "clues": "Kalau jalan kaki kejauhan"
+  },
+  {
+    "questions": "Apa yang selalu datang tapi tidak pernah tiba?",
+    "answers": "Hari esok",
+    "clues": "Selalu di depan"
+  },
+  {
+    "questions": "Telor apa yang ada tatonya?",
+    "answers": "Telor asin",
+    "clues": "Warnanya biru"
+  },
+  {
+    "questions": "Kenapa api itu panas?",
+    "answers": "Kalau dingin",
+    "clues": "Kalau dingin namanya es"
+  },
+  {
+    "questions": "Benda apa yang kalau semakin diisi semakin ringan?",
+    "answers": "Balon",
+    "clues": "Diisi udara"
+  },
+  {
+    "questions": "Artis apa yang suka minta minum?",
+    "answers": "Haus-sy",
+    "clues": "Penyanyi"
+  },
+  {
+    "questions": "Kenapa di rel kereta api ditaruh batu?",
+    "answers": "Kalau ditaruh",
+    "clues": "Kalau ditaruh duit ntar diambil"
+  },
+  {
+    "questions": "Malam apa yang paling indah?",
+    "answers": "Malamar kamu",
+    "clues": "Sebuah lamaran"
+  },
+  {
+    "questions": "Kenapa superman pakai jubahnya di belakang?",
+    "answers": "Kalau di depan",
+    "clues": "Kalau di depan dikira mau lap makan"
+  },
+  {
+    "questions": "Benda apa yang kalau dibeli warnanya hitam, dipake warnanya merah, dibuang warnanya abu-abu?",
+    "answers": "Arang",
+    "clues": "Untuk membakar"
+  },
+  {
+    "questions": "Kecil di Jakarta, besar di Aceh. Apakah itu?",
+    "answers": "Huruf A",
+    "clues": "Perhatikan katanya"
+  },
+  {
+    "questions": "Kenapa patung liberty jarinya nunjuk ke atas?",
+    "answers": "Kalau ke bawah",
+    "clues": "Kalau ke bawah ntar dikira ngupil"
+  },
+  {
+    "questions": "Apa yang punya kepala merah, badan hijau, tapi bukan naga?",
+    "answers": "Obat nyamuk",
+    "clues": "Untuk mengusir serangga"
+  },
+  {
+    "questions": "Tukang apa yang kalau dipanggil, nengoknya ke atas?",
+    "answers": "Tukang gali",
+    "clues": "Tukang gali sumur"
+  },
+  {
+    "questions": "Hewan apa yang paling kaya di dunia?",
+    "answers": "Singa",
+    "clues": "Raja hutan"
+  },
+  {
+    "questions": "Apa bedanya semut sama orang?",
+    "answers": "Orang bisa",
+    "clues": "Orang bisa kesemutan"
+  },
+  {
+    "questions": "Jika ada 1 kg batu dan 1 kg kapas, ketika dijatuhkan ke kaki, mana yang lebih sakit?",
+    "answers": "Kaki kita",
+    "clues": "Yang merasakan sakit"
+  },
+  {
+    "questions": "Ikan apa yang suka berhenti?",
+    "answers": "Ikan pause",
+    "clues": "Tombol di remote"
+  },
+  {
+    "questions": "Kota apa di Indonesia yang ceweknya gak sabaran?",
+    "answers": "Ciamis",
+    "clues": "Miss you"
+  },
+  {
+    "questions": "Apa bedanya telepon, tiang listrik, dan monyet?",
+    "answers": "Bunyinya",
+    "clues": "Satu kring satu nging satu nyengir"
+  },
+  {
+    "questions": "Kenapa pohon pisang gak punya daun pintu?",
+    "answers": "Gak punya",
+    "clues": "Gak punya rumah"
+  },
+  {
+    "questions": "Apa yang paling cepat di dunia?",
+    "answers": "Kentut",
+    "clues": "Bunyi dulu baru bau"
+  },
+  {
+    "questions": "Benda apa yang kalau dipukul bunyinya 'dor'?",
+    "answers": "Bedug",
+    "clues": "Di masjid"
+  },
+  {
+    "questions": "Hewan apa yang paling banyak di kebun binatang?",
+    "answers": "Zebra",
+    "clues": "Karena belang-belang"
+  },
+  {
+    "questions": "Kenapa cicak suka mutusin ekornya?",
+    "answers": "Kalau mutusin",
+    "clues": "Kalau mutusin pacar galau"
+  },
+  {
+    "questions": "Kalau ayam jago jadi ayam goreng, ayam betina jadi apa?",
+    "answers": "Jadi ayam",
+    "clues": "Jadi ayam penyet"
+  },
+  {
+    "questions": "Kenapa komputer bisa makin pintar?",
+    "answers": "Banyak memori",
+    "clues": "Punya banyak kenangan"
+  },
+  {
+    "questions": "Apa bahasa inggrisnya 'orang lagi jalan-jalan di mall'?",
+    "answers": "People walking",
+    "clues": "Terjemahan langsung"
+  },
+  {
+    "questions": "Siapa nama kecilnya Jendral Sudirman?",
+    "answers": "Sudir-boy",
+    "clues": "Panggilan akrab"
+  },
+  {
+    "questions": "Kuda apa yang punya sayap?",
+    "answers": "Kuda-pat",
+    "clues": "Kuda-pat tiket pesawat"
+  },
+  {
+    "questions": "Kenapa nyamuk lebih kurus dari lalat?",
+    "answers": "Suka begadang",
+    "clues": "Aktif di malam hari"
+  },
+  {
+    "questions": "Apa yang membuat kita bisa melihat menembus tembok?",
+    "answers": "Jendela",
+    "clues": "Ada di dinding"
+  },
+  {
+    "questions": "Apa yang selalu ada di dalam telur?",
+    "answers": "Huruf L",
+    "clues": "Eja katanya"
+  },
+  {
+    "questions": "Apa yang dilakukan ketika kita lupa kata sandi?",
+    "answers": "Klik Lupa",
+    "clues": "Klik Lupa Kata Sandi"
+  },
+  {
+    "questions": "Kapan waktu yang tepat untuk membuka pintu?",
+    "answers": "Saat tertutup",
+    "clues": "Logika sederhana"
+  },
+  {
+    "questions": "Kenapa bantal disebut bantal?",
+    "answers": "Kalau guling",
+    "clues": "Kalau guling ya jadi guling"
+  },
+  {
+    "questions": "Apa yang lebih besar dari gajah tapi tidak punya berat?",
+    "answers": "Bayangannya",
+    "clues": "Tidak berwujud"
+  },
+  {
+    "questions": "Benda apa yang bisa bicara semua bahasa?",
+    "answers": "Telepon",
+    "clues": "Menghubungkan orang"
+  },
+  {
+    "questions": "Apa yang selalu berakhir dengan 'E'?",
+    "answers": "Mie",
+    "clues": "Makanan"
+  },
+  {
+    "questions": "Kenapa air laut rasanya asin?",
+    "answers": "Kalau manis",
+    "clues": "Kalau manis namanya air gula"
+  },
+  {
+    "questions": "Apa yang punya banyak gigi tapi tidak bisa makan?",
+    "answers": "Sisir",
+    "clues": "Untuk merapikan rambut"
+  },
+  {
+    "questions": "Apa yang punya leher tanpa kepala, dan punggung tanpa badan?",
+    "answers": "Botol",
+    "clues": "Wadah air"
+  },
+  {
+    "questions": "Kenapa dokter selalu pakai masker saat operasi?",
+    "answers": "Biar gak",
+    "clues": "Biar gak kenalan sama pasien"
+  },
+  {
+    "questions": "Apa yang selalu naik tapi tidak pernah turun?",
+    "answers": "Umur",
+    "clues": "Terus bertambah"
+  },
+  {
+    "questions": "Benda apa yang kalau kotor warnanya putih, kalau bersih warnanya hitam?",
+    "answers": "Papan tulis",
+    "clues": "Alat belajar"
+  },
+  {
+    "questions": "Kenapa ikan hidup di air?",
+    "answers": "Kalau di darat",
+    "clues": "Kalau di darat namanya bukan ikan"
+  },
+  {
+    "questions": "Apa yang bisa kita pegang dengan tangan kanan, tapi tidak dengan tangan kiri?",
+    "answers": "Siku kiri",
+    "clues": "Bagian tubuh"
+  },
+  {
+    "questions": "Kenapa lambang di mobil BMW baling-baling?",
+    "answers": "Kalau bambu",
+    "clues": "Kalau bambu ntar terbang"
+  },
+  {
+    "questions": "Di mana letak laut yang kering?",
+    "answers": "Di peta",
+    "clues": "Sebuah gambar"
+  },
+  {
+    "questions": "Kenapa macan tutul larinya cepat?",
+    "answers": "Kalau lambat",
+    "clues": "Kalau lambat namanya macan 'tunggu'"
+  },
+  {
+    "questions": "Benda apa yang semakin banyak isinya, semakin ringan?",
+    "answers": "Balon gas",
+    "clues": "Bisa terbang"
+  },
+  {
+    "questions": "Kenapa anak panah bisa melesat?",
+    "answers": "Kalau 'males-at'",
+    "clues": "Kalau 'males-at' ya gak kemana-mana"
+  },
+  {
+    "questions": "Apa yang selalu di depan mata tapi tidak terlihat?",
+    "answers": "Hidung",
+    "clues": "Bagian wajah"
+  },
+  {
+    "questions": "Kenapa zombie suka makan otak?",
+    "answers": "Gak ada",
+    "clues": "Gak ada yang jual sate padang"
+  },
+  {
+    "questions": "Gubernur apa yang paling ganteng?",
+    "answers": "Gubernur-nur",
+    "clues": "Gubernur-nur ilahi"
+  },
+  {
+    "questions": "Apa yang selalu kita injak tapi tidak pernah marah?",
+    "answers": "Tanah",
+    "clues": "Tempat berpijak"
+  },
+  {
+    "questions": "Kenapa panda suka makan bambu?",
+    "answers": "Kalau beton",
+    "clues": "Kalau beton giginya rontok"
+  },
+  {
+    "questions": "Apa yang bisa terbang tanpa sayap?",
+    "answers": "Waktu",
+    "clues": "Terus berjalan"
+  },
+  {
+    "questions": "Kenapa tukang bakso pukul mangkok?",
+    "answers": "Kalau pukul",
+    "clues": "Kalau pukul pelanggan ntar lari"
+  },
+  {
+    "questions": "Benda apa yang punya banyak mata tapi tidak bisa melihat?",
+    "answers": "Jala ikan",
+    "clues": "Alat nelayan"
+  },
+  {
+    "questions": "Kenapa kucing kalau lari suka nengok ke belakang?",
+    "answers": "Gak punya",
+    "clues": "Gak punya spion"
+  },
+  {
+    "questions": "Apa yang selalu ada di akhir dari sebuah cerita?",
+    "answers": "Titik",
+    "clues": "Tanda baca"
+  },
+  {
+    "questions": "Kenapa ban motor belakang lebih cepat botak?",
+    "answers": "Karena mikirin",
+    "clues": "Karena mikirin ban depan"
+  },
+  {
+    "questions": "Apa yang bisa pecah tanpa disentuh?",
+    "answers": "Janji",
+    "clues": "Sebuah komitmen"
+  },
+  {
+    "questions": "Kenapa semut badannya kecil?",
+    "answers": "Kalau besar",
+    "clues": "Kalau besar namanya 'se-gajah'"
+  },
+  {
+    "questions": "Hewan apa yang paling sering ditemukan di dasar laut?",
+    "answers": "Hewan",
+    "clues": "Hewan yang tidak bisa berenang"
+  },
+  {
+    "questions": "Kenapa kalau ngetik di komputer, hurufnya muncul di layar?",
+    "answers": "Kalau di punggung",
+    "clues": "Kalau di punggung namanya kerokan"
+  },
+  {
+    "questions": "Apa yang punya 4 kaki dan bisa terbang?",
+    "answers": "Dua burung",
+    "clues": "Hitung kakinya"
+  },
+  {
+    "questions": "Kenapa orang minum pakai sedotan?",
+    "answers": "Biar keren",
+    "clues": "Gaya"
+  },
+  {
+    "questions": "Apa yang kalau kita sebut namanya, dia langsung hilang?",
+    "answers": "Hening",
+    "clues": "Keadaan sunyi"
+  },
+  {
+    "questions": "Kenapa kalau kita lagi mikir suka megang kepala?",
+    "answers": "Kalau megang",
+    "clues": "Kalau megang paha dikira cabul"
+  },
+  {
+    "questions": "Benda apa yang kalau kita butuh, kita buang. Kalau tidak butuh, kita simpan?",
+    "answers": "Jangkar",
+    "clues": "Alat di kapal"
+  },
+  {
+    "questions": "Kenapa hantu suka film horor?",
+    "answers": "Karena itu",
+    "clues": "Karena itu film dokumenter mereka"
+  },
+  {
+    "questions": "Apa bedanya pilot sama monyet?",
+    "answers": "Pilot",
+    "clues": "Pilot 'terbangkan' pesawat"
+  },
+  {
+    "questions": "Kenapa laba-laba pintar bikin jaring?",
+    "answers": "Karena profesinya",
+    "clues": "Karena profesinya 'web' designer"
+  },
+  {
+    "questions": "Apa yang kalau malam jadi atap, kalau siang jadi tiang?",
+    "answers": "Lampu jalan",
+    "clues": "Penerangan"
+  },
+  {
+    "questions": "Kenapa gorila hidungnya besar?",
+    "answers": "Karena jarinya",
+    "clues": "Karena jarinya juga besar"
+  },
+  {
+    "questions": "Apa yang selalu basah saat kering?",
+    "answers": "Handuk",
+    "clues": "Untuk mengeringkan"
+  },
+  {
+    "questions": "Kenapa bebek kakinya dua?",
+    "answers": "Kalau empat",
+    "clues": "Kalau empat jadi meja makan"
+  },
+  {
+    "questions": "Apa yang bisa mengelilingi dunia tanpa bergerak?",
+    "answers": "Perangko",
+    "clues": "Nempel di surat"
+  },
+  {
+    "questions": "Kenapa sirkus harus ada badut?",
+    "answers": "Kalau gak ada",
+    "clues": "Kalau gak ada namanya 'serius'"
+  },
+  {
+    "questions": "Apa yang selalu ada di tengah-tengah sawah?",
+    "answers": "Huruf W",
+    "clues": "Eja katanya"
+  },
+  {
+    "questions": "Kenapa kalau orang meninggal matanya ditutup?",
+    "answers": "Kalau dibuka",
+    "clues": "Kalau dibuka nanti lihat yang aneh-aneh"
+  },
+  {
+    "questions": "Apa bedanya soto sama bakso?",
+    "answers": "Hurufnya",
+    "clues": "S dan B"
+  },
+  {
+    "questions": "Kenapa kalau makan sambel, mulut terasa panas?",
+    "answers": "Karena sambelnya",
+    "clues": "Karena sambelnya baru diangkat dari kompor"
+  },
+  {
+    "questions": "Apa yang punya banyak lubang tapi bisa menampung air?",
+    "answers": "Spons",
+    "clues": "Untuk mencuci"
+  },
+  {
+    "questions": "Kenapa dinosaurus badannya besar?",
+    "answers": "Karena makannya",
+    "clues": "Karena makannya 4 sehat 5 sempurna"
+  },
+  {
+    "questions": "Apa yang bisa kita lihat sekali dalam semenit, dua kali dalam seminggu, tapi tidak pernah dalam sehari?",
+    "answers": "Huruf E",
+    "clues": "Perhatikan katanya"
+  },
+  {
+    "questions": "Kenapa di laut banyak ikan?",
+    "answers": "Kalau banyak",
+    "clues": "Kalau banyak kamu namanya 'lautan rindu'"
+  },
+  {
+    "questions": "Apa yang selalu jujur?",
+    "answers": "Cermin",
+    "clues": "Memantulkan apa adanya"
+  },
+  {
+    "questions": "Kenapa kalau kita bersin, orang bilang 'Alhamdulillah'?",
+    "answers": "Karena berkah",
+    "clues": "Sebuah anugerah"
+  },
+  {
+    "questions": "Benda apa yang kalau pecah lebih berguna?",
+    "answers": "Telur",
+    "clues": "Untuk dimasak"
+  },
+  {
+    "questions": "Kenapa di angkot ada tulisan 'Dilarang Merokok'?",
+    "answers": "Kalau boleh",
+    "clues": "Kalau boleh nanti supirnya minta"
+  },
+  {
+    "questions": "Apa yang punya satu mata, tapi tidak bisa melihat?",
+    "answers": "Jarum",
+    "clues": "Untuk menjahit"
+  },
+  {
+    "questions": "Kenapa pocong pakai kain kafan?",
+    "answers": "Kalau pakai",
+    "clues": "Kalau pakai jeans ketat"
+  },
+  {
+    "questions": "Apa yang selalu ada di atas presiden?",
+    "answers": "Peci",
+    "clues": "Penutup kepala"
+  },
+  {
+    "questions": "Kenapa saat hujan, petir menyambar?",
+    "answers": "Kalau menyapu",
+    "clues": "Kalau menyapu lantainya basah"
+  },
+  {
+    "questions": "Apa yang bisa lari tapi tidak punya kaki?",
+    "answers": "Ingus",
+    "clues": "Keluar dari hidung"
+  },
+  {
+    "questions": "Kenapa pelangi warnanya-warni?",
+    "answers": "Biar gak",
+    "clues": "Biar gak dikira senter"
+  },
+  {
+    "questions": "Benda apa yang kalau dingin bisa lari?",
+    "answers": "Es krim",
+    "clues": "Meleleh"
+  },
+  {
+    "questions": "Kenapa orang kalau jatuh, bangunnya lama?",
+    "answers": "Karena gravitasi",
+    "clues": "Ilmu fisika"
+  },
+  {
+    "questions": "Apa yang selalu kita lupakan saat akan pergi?",
+    "answers": "Sesuatu",
+    "clues": "Pasti ada saja"
+  },
+  {
+    "questions": "Kenapa bulan bentuknya bisa berubah-ubah?",
+    "answers": "Biar gak",
+    "clues": "Biar gak bosen"
+  },
+  {
+    "questions": "Hewan apa yang paling suka disakiti?",
+    "answers": "Nyamuk",
+    "clues": "Ditepuk-tepuk"
+  },
+  {
+    "questions": "Kenapa kalau mau ujian harus belajar?",
+    "answers": "Kalau nyontek",
+    "clues": "Kalau nyontek harus pintar"
+  },
+  {
+    "questions": "Apa yang lebih bau dari bangkai?",
+    "answers": "Dua bangkai",
+    "clues": "Jumlahnya lebih banyak"
+  },
+  {
+    "questions": "Kenapa kalau nonton film horor, musiknya serem?",
+    "answers": "Kalau dangdut",
+    "clues": "Kalau dangdut nanti pada joget"
+  },
+  {
+    "questions": "Hewan apa yang paling suka pamer?",
+    "answers": "Merak",
+    "clues": "Punya ekor indah"
+  },
+  {
+    "questions": "Kenapa kalau lapar, perut bunyi?",
+    "answers": "Minta diisi",
+    "clues": "Sebuah sinyal"
+  },
+  {
+    "questions": "Apa yang punya sayap tapi tidak bisa terbang?",
+    "answers": "Sayap mobil",
+    "clues": "Bagian kendaraan"
+  },
+  {
+    "questions": "Kenapa kalau orang marah, mukanya merah?",
+    "answers": "Karena malu",
+    "clues": "Karena malu sama kelakuannya"
+  },
+  {
+    "questions": "Benda apa yang kalau dimasukkan malah keluar?",
+    "answers": "Kancing baju",
+    "clues": "Melewati lubang"
+  },
+  {
+    "questions": "Kenapa kalau sudah dewasa, tidak boleh main ayunan?",
+    "answers": "Karena berat",
+    "clues": "Nanti rusak"
+  },
+  {
+    "questions": "Apa yang selalu kita lihat di akhir tahun?",
+    "answers": "Tanggal 31",
+    "clues": "Tanggal 31 Desember"
+  },
+  {
+    "questions": "Kenapa kalau tidur ngiler?",
+    "answers": "Karena mimpi",
+    "clues": "Karena mimpi minum es teh"
+  },
+  {
+    "questions": "Hewan apa yang paling kuat?",
+    "answers": "Siput",
+    "clues": "Bawa rumah kemana-mana"
+  },
+  {
+    "questions": "Kenapa kalau ada razia polisi, kita harus panik?",
+    "answers": "Biar seru",
+    "clues": "Menambah adrenalin"
+  },
+  {
+    "questions": "Apa yang bisa menulis tapi tidak bisa membaca?",
+    "answers": "Pena",
+    "clues": "Alat tulis"
+  },
+  {
+    "questions": "Kenapa kalau sakit, kita minum obat?",
+    "answers": "Karena kalau",
+    "clues": "Karena kalau dimakan keras"
+  },
+  {
+    "questions": "Hewan apa yang selalu sehat?",
+    "answers": "Ular",
+    "clues": "Ular-aga tiap hari"
+  },
+  {
+    "questions": "Kenapa kalau kita lupa, suka garuk-garuk kepala?",
+    "answers": "Mencari ide",
+    "clues": "Mencari ide yang hilang"
+  },
+  {
+    "questions": "Apa yang bisa naik dan turun tanpa bergerak?",
+    "answers": "Suhu",
+    "clues": "Ukuran temperatur"
+  },
+  {
+    "questions": "Kenapa kalau habis olahraga, badan pegal-pegal?",
+    "answers": "Karena ototnya",
+    "clues": "Karena ototnya lagi demo"
+  },
+  {
+    "questions": "Benda apa yang selalu berkata benar?",
+    "answers": "Timbangan",
+    "clues": "Menunjukkan berat asli"
+  },
+  {
+    "questions": "Kenapa di sekolah ada pelajaran matematika?",
+    "answers": "Biar pintar",
+    "clues": "Tujuan pendidikan"
+  },
+  {
+    "questions": "Apa yang punya ribuan kata tapi diam?",
+    "answers": "Buku",
+    "clues": "Sumber pengetahuan"
+  },
+  {
+    "questions": "Kenapa kalau masak, suka dicicipin dulu?",
+    "answers": "Biar gak",
+    "clues": "Biar gak salah rasa"
+  },
+  {
+    "questions": "Hewan apa yang paling sabar?",
+    "answers": "Singa",
+    "clues": "Singa-bar"
+  },
+  {
+    "questions": "Kenapa kalau ada kecelakaan, banyak yang nonton?",
+    "answers": "Karena gratis",
+    "clues": "Tontonan cuma-cuma"
+  },
+  {
+    "questions": "Apa yang punya jantung tapi tidak hidup?",
+    "answers": "Jantung pisang",
+    "clues": "Bagian dari pohon"
+  },
+  {
+    "questions": "Kenapa kalau kedinginan, kita menggigil?",
+    "answers": "Biar anget",
+    "clues": "Reaksi tubuh"
+  },
+  {
+    "questions": "Hewan apa yang paling suka baca buku?",
+    "answers": "Kutu buku",
+    "clues": "Sebuah julukan"
+  },
+  {
+    "questions": "Kenapa kalau ada masalah, kita harus tenang?",
+    "answers": "Biar gak",
+    "clues": "Biar gak panik"
+  },
+  {
+    "questions": "Apa yang bisa jalan tapi tidak punya kaki?",
+    "answers": "Jam",
+    "clues": "Jarumnya bergerak"
+  },
+  {
+    "questions": "Kenapa kalau mau foto, kita senyum?",
+    "answers": "Biar hasilnya",
+    "clues": "Biar hasilnya bagus"
+  },
+  {
+    "questions": "Hewan apa yang paling suka begadang?",
+    "answers": "Kalong",
+    "clues": "Hewan nokturnal"
+  },
+  {
+    "questions": "Kenapa kalau ada asap, pasti ada api?",
+    "answers": "Karena mereka",
+    "clues": "Karena mereka sahabatan"
+  },
+  {
+    "questions": "Apa yang punya banyak cabang tapi bukan pohon?",
+    "answers": "Bank",
+    "clues": "Lembaga keuangan"
+  },
+  {
+    "questions": "Kenapa kalau mau nyebrang lihat kanan kiri?",
+    "answers": "Kalau lihat",
+    "clues": "Kalau lihat atas ada pesawat"
+  },
+  {
+    "questions": "Hewan apa yang paling miskin?",
+    "answers": "Ayam",
+    "clues": "Ayam-pun"
+  },
+  {
+    "questions": "Kenapa kalau hujan, jalanan jadi basah?",
+    "answers": "Kalau kering",
+    "clues": "Kalau kering namanya kemarau"
+  },
+  {
+    "questions": "Apa yang punya lidah tapi tidak bisa bicara?",
+    "answers": "Sepatu",
+    "clues": "Bagian dalam alas kaki"
+  },
+  {
+    "questions": "Kenapa kalau ada petasan, kita tutup telinga?",
+    "answers": "Biar gak",
+    "clues": "Biar gak kaget"
+  },
+  {
+    "questions": "Hewan apa yang suka makan rumput?",
+    "answers": "Herbivora",
+    "clues": "Klasifikasi hewan"
+  },
+  {
+    "questions": "Kenapa kalau sudah malam, kita tidur?",
+    "answers": "Karena kalau",
+    "clues": "Karena kalau siang kerja"
+  },
+  {
+    "questions": "Apa yang bisa membedakan siang dan malam?",
+    "answers": "Matahari",
+    "clues": "Sumber cahaya"
+  },
+  {
+    "questions": "Kenapa kalau ada orang aneh, kita tertawa?",
+    "answers": "Karena lucu",
+    "clues": "Menghibur"
+  },
+  {
+    "questions": "Hewan apa yang paling jujur?",
+    "answers": "Anjing",
+    "clues": "Anjing-kan saja"
+  },
+  {
+    "questions": "Kenapa kalau ada lampu hijau, kita jalan?",
+    "answers": "Karena kalau",
+    "clues": "Karena kalau lari capek"
+  },
+  {
+    "questions": "Apa yang punya kepala tapi tidak punya otak?",
+    "answers": "Kepala paku",
+    "clues": "Bagian atas paku"
+  },
+  {
+    "questions": "Kenapa kalau ada gempa, kita harus keluar rumah?",
+    "answers": "Biar selamat",
+    "clues": "Tindakan evakuasi"
+  },
+  {
+    "questions": "Hewan apa yang paling suka ke mall?",
+    "answers": "Kupu-kupu",
+    "clues": "Kupu-kupu-li barang"
+  },
+  {
+    "questions": "Kenapa kalau sudah pagi, kita bangun?",
+    "answers": "Karena sudah",
+    "clues": "Karena sudah cukup tidur"
+  },
+  {
+    "questions": "Apa yang punya gigi tapi tidak bisa mengunyah?",
+    "answers": "Gergaji",
+    "clues": "Alat potong"
+  },
+  {
+    "questions": "Kenapa kalau ada kebakaran, kita panggil pemadam?",
+    "answers": "Kalau panggil",
+    "clues": "Kalau panggil 'sayang' gak datang"
+  },
+  {
+    "questions": "Hewan apa yang paling suka olahraga?",
+    "answers": "Kuda",
+    "clues": "Kuda-lari pagi"
+  },
+  {
+    "questions": "Kenapa kalau ada teman ulang tahun, kita kasih kado?",
+    "answers": "Biar senang",
+    "clues": "Sebuah perayaan"
+  },
+  {
+    "questions": "Apa yang punya tangan tapi tidak bisa memegang?",
+    "answers": "Jam tangan",
+    "clues": "Jarumnya"
+  },
+  {
+    "questions": "Kenapa kalau ada nyamuk, kita tepuk?",
+    "answers": "Biar mati",
+    "clues": "Mengganggu"
+  },
+  {
+    "questions": "Hewan apa yang paling suka musik?",
+    "answers": "Semut",
+    "clues": "Semut-sikan"
+  },
+  {
+    "questions": "Kenapa kalau ada guru, kita diam?",
+    "answers": "Karena sopan",
+    "clues": "Menghormati"
+  },
+  {
+    "questions": "Apa yang punya kuping tapi tidak bisa mendengar?",
+    "answers": "Panci",
+    "clues": "Gagang panci"
+  },
+  {
+    "questions": "Kenapa kalau ada banjir, kita mengungsi?",
+    "answers": "Biar aman",
+    "clues": "Menyelamatkan diri"
+  },
+  {
+    "questions": "Hewan apa yang paling suka film?",
+    "answers": "Ular",
+    "clues": "Ular-aga di bioskop"
+  },
+  {
+    "questions": "Kenapa kalau ada janji, kita harus tepati?",
+    "answers": "Biar dipercaya",
+    "clues": "Menjaga amanah"
+  },
+  {
+    "questions": "Apa yang punya punggung tapi tidak bisa membungkuk?",
+    "answers": "Buku",
+    "clues": "Bagian belakang buku"
+  },
+  {
+    "questions": "Kenapa kalau ada lalat, kita usir?",
+    "answers": "Biar pergi",
+    "clues": "Membawa kuman"
+  },
+  {
+    "questions": "Hewan apa yang paling suka jalan-jalan?",
+    "answers": "Kaki seribu",
+    "clues": "Punya banyak kaki"
+  },
+  {
+    "questions": "Kenapa kalau ada PR, kita kerjakan?",
+    "answers": "Biar dapat",
+    "clues": "Biar dapat nilai"
+  },
+  {
+    "questions": "Apa yang punya mulut tapi tidak bisa makan?",
+    "answers": "Goa",
+    "clues": "Pintu masuknya"
+  },
+  {
+    "questions": "Kenapa kalau ada teman sedih, kita hibur?",
+    "answers": "Biar ceria",
+    "clues": "Rasa peduli"
+  },
+  {
+    "questions": "Hewan apa yang paling suka masak?",
+    "answers": "Koki-lak",
+    "clues": "Mirip nama hewan"
+  },
+  {
+    "questions": "Kenapa kalau ada sampah, kita buang?",
+    "answers": "Biar bersih",
+    "clues": "Menjaga kebersihan"
+  },
+  {
+    "questions": "Apa yang punya leher tapi tidak punya kepala?",
+    "answers": "Gitar",
+    "clues": "Alat musik"
+  },
+  {
+    "questions": "Kenapa kalau ada yang salah, kita maafkan?",
+    "answers": "Biar damai",
+    "clues": "Tidak ada permusuhan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka menari?",
+    "answers": "Cacing",
+    "clues": "Cacing-cai"
+  },
+  {
+    "questions": "Kenapa kalau ada kesempatan, kita ambil?",
+    "answers": "Biar sukses",
+    "clues": "Tidak datang dua kali"
+  },
+  {
+    "questions": "Apa yang punya rumah tapi tidak punya pintu?",
+    "answers": "Sarang burung",
+    "clues": "Tempat tinggal hewan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang butuh, kita bantu?",
+    "answers": "Dapat pahala",
+    "clues": "Perbuatan baik"
+  },
+  {
+    "questions": "Hewan apa yang paling suka belajar?",
+    "answers": "Kutu",
+    "clues": "Kutu buku"
+  },
+  {
+    "questions": "Kenapa kalau ada cita-cita, kita kejar?",
+    "answers": "Biar tercapai",
+    "clues": "Masa depan"
+  },
+  {
+    "questions": "Apa yang punya air tapi tidak basah?",
+    "answers": "Air mata",
+    "clues": "Keluar saat menangis"
+  },
+  {
+    "questions": "Kenapa kalau ada ujian, kita gugup?",
+    "answers": "Takut gagal",
+    "clues": "Perasaan cemas"
+  },
+  {
+    "questions": "Hewan apa yang paling suka tidur?",
+    "answers": "Kelelawar",
+    "clues": "Aktif di malam hari"
+  },
+  {
+    "questions": "Kenapa kalau ada yang menang, kita beri selamat?",
+    "answers": "Menghargai",
+    "clues": "Bentuk apresiasi"
+  },
+  {
+    "questions": "Apa yang punya kota tapi tidak punya penduduk?",
+    "answers": "Peta",
+    "clues": "Hanya gambar"
+  },
+  {
+    "questions": "Kenapa kalau ada yang kalah, kita beri semangat?",
+    "answers": "Biar bangkit",
+    "clues": "Dukungan moral"
+  },
+  {
+    "questions": "Hewan apa yang paling suka nyanyi?",
+    "answers": "Burung",
+    "clues": "Suaranya merdu"
+  },
+  {
+    "questions": "Kenapa kalau ada yang baru, kita penasaran?",
+    "answers": "Ingin tahu",
+    "clues": "Sifat manusia"
+  },
+  {
+    "questions": "Apa yang punya laut tapi tidak punya air?",
+    "answers": "Lukisan",
+    "clues": "Karya seni"
+  },
+  {
+    "questions": "Kenapa kalau ada yang pergi, kita sedih?",
+    "answers": "Kehilangan",
+    "clues": "Perasaan duka"
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan?",
+    "answers": "Rakun",
+    "clues": "Suka mencuri makanan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang datang, kita senang?",
+    "answers": "Bertemu lagi",
+    "clues": "Melepas rindu"
+  },
+  {
+    "questions": "Apa yang punya hutan tapi tidak punya pohon?",
+    "answers": "Gambar",
+    "clues": "Ilustrasi"
+  },
+  {
+    "questions": "Kenapa kalau ada yang lucu, kita ketawa?",
+    "answers": "Terhibur",
+    "clues": "Reaksi spontan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka main?",
+    "answers": "Anjing",
+    "clues": "Sahabat manusia"
+  },
+  {
+    "questions": "Kenapa kalau ada yang sedih, kita ikut sedih?",
+    "answers": "Empati",
+    "clues": "Merasakan perasaan orang lain"
+  },
+  {
+    "questions": "Apa yang punya sungai tapi tidak punya ikan?",
+    "answers": "Denah",
+    "clues": "Peta lokasi"
+  },
+  {
+    "questions": "Kenapa kalau ada yang senang, kita ikut senang?",
+    "answers": "Bahagia",
+    "clues": "Bahagia itu menular"
+  },
+  {
+    "questions": "Hewan apa yang paling suka diam?",
+    "answers": "Kucing",
+    "clues": "Suka tidur"
+  },
+  {
+    "questions": "Kenapa kalau ada yang marah, kita takut?",
+    "answers": "Karena seram",
+    "clues": "Ekspresinya"
+  },
+  {
+    "questions": "Apa yang punya gunung tapi tidak punya puncak?",
+    "answers": "Gundukan tanah",
+    "clues": "Versi kecil"
+  },
+  {
+    "questions": "Kenapa kalau ada yang baik, kita suka?",
+    "answers": "Menyenangkan",
+    "clues": "Aura positif"
+  },
+  {
+    "questions": "Hewan apa yang paling suka lari?",
+    "answers": "Kuda",
+    "clues": "Hewan pacuan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang jahat, kita benci?",
+    "answers": "Merugikan",
+    "clues": "Perbuatan negatif"
+  },
+  {
+    "questions": "Apa yang punya danau tapi tidak punya air?",
+    "answers": "Foto",
+    "clues": "Kenangan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang benar, kita dukung?",
+    "answers": "Kebenaran",
+    "clues": "Kebenaran harus ditegakkan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka berenang?",
+    "answers": "Ikan",
+    "clues": "Habitatnya di air"
+  },
+  {
+    "questions": "Kenapa kalau ada yang salah, kita ingatkan?",
+    "answers": "Karena peduli",
+    "clues": "Tanda sayang"
+  },
+  {
+    "questions": "Apa yang punya pulau tapi tidak punya laut?",
+    "answers": "Atlas",
+    "clues": "Kumpulan peta"
+  },
+  {
+    "questions": "Kenapa kalau ada yang pintar, kita kagum?",
+    "answers": "Karena hebat",
+    "clues": "Menginspirasi"
+  },
+  {
+    "questions": "Hewan apa yang paling suka terbang?",
+    "answers": "Burung",
+    "clues": "Punya sayap"
+  },
+  {
+    "questions": "Kenapa kalau ada yang bodoh, kita ajari?",
+    "answers": "Biar pintar",
+    "clues": "Berbagi ilmu"
+  },
+  {
+    "questions": "Apa yang punya benua tapi tidak punya negara?",
+    "answers": "Globe",
+    "clues": "Tiruan bumi"
+  },
+  {
+    "questions": "Kenapa kalau ada yang kaya, kita iri?",
+    "answers": "Manusiawi",
+    "clues": "Sifat dasar"
+  },
+  {
+    "questions": "Hewan apa yang paling suka memanjat?",
+    "answers": "Monyet",
+    "clues": "Lincah"
+  },
+  {
+    "questions": "Kenapa kalau ada yang miskin, kita bantu?",
+    "answers": "Kemanusiaan",
+    "clues": "Jiwa sosial"
+  },
+  {
+    "questions": "Apa yang punya negara tapi tidak punya rakyat?",
+    "answers": "Maket",
+    "clues": "Miniatur"
+  },
+  {
+    "questions": "Kenapa kalau ada yang kuat, kita segan?",
+    "answers": "Berkuasa",
+    "clues": "Punya pengaruh"
+  },
+  {
+    "questions": "Hewan apa yang paling suka bersembunyi?",
+    "answers": "Bunglon",
+    "clues": "Bisa berubah warna"
+  },
+  {
+    "questions": "Kenapa kalau ada yang lemah, kita lindungi?",
+    "answers": "Kasih sayang",
+    "clues": "Naluri"
+  },
+  {
+    "questions": "Apa yang punya provinsi tapi tidak punya gubernur?",
+    "answers": "Buku IPS",
+    "clues": "Materi pelajaran"
+  },
+  {
+    "questions": "Kenapa kalau ada yang tua, kita hormati?",
+    "answers": "Berpengalaman",
+    "clues": "Lebih bijak"
+  },
+  {
+    "questions": "Hewan apa yang paling suka menggali?",
+    "answers": "Tikus",
+    "clues": "Membuat lubang"
+  },
+  {
+    "questions": "Kenapa kalau ada yang muda, kita sayangi?",
+    "answers": "Penerus bangsa",
+    "clues": "Generasi baru"
+  },
+  {
+    "questions": "Apa yang punya kabupaten tapi tidak punya bupati?",
+    "answers": "Peta buta",
+    "clues": "Tidak ada nama"
+  },
+  {
+    "questions": "Kenapa kalau ada yang cantik, kita suka?",
+    "answers": "Indah",
+    "clues": "Indah dipandang"
+  },
+  {
+    "questions": "Hewan apa yang paling suka menyengat?",
+    "answers": "Lebah",
+    "clues": "Punya racun"
+  },
+  {
+    "questions": "Kenapa kalau ada yang jelek, kita biasa saja?",
+    "answers": "Ciptaan Tuhan",
+    "clues": "Semua sama"
+  },
+  {
+    "questions": "Apa yang punya kecamatan tapi tidak punya camat?",
+    "answers": "Daftar isi",
+    "clues": "Di dalam buku"
+  },
+  {
+    "questions": "Kenapa kalau ada yang wangi, kita dekati?",
+    "answers": "Suka baunya",
+    "clues": "Aroma terapi"
+  },
+  {
+    "questions": "Hewan apa yang paling suka mengigit?",
+    "answers": "Nyamuk",
+    "clues": "Menghisap darah"
+  },
+  {
+    "questions": "Kenapa kalau ada yang bau, kita jauhi?",
+    "answers": "Tidak suka",
+    "clues": "Tidak suka baunya"
+  },
+  {
+    "questions": "Apa yang punya desa tapi tidak punya kepala desa?",
+    "answers": "Monopoli",
+    "clues": "Permainan papan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang bersih, kita senang?",
+    "answers": "Karena sehat",
+    "clues": "Lingkungan nyaman"
+  },
+  {
+    "questions": "Hewan apa yang paling suka melompat?",
+    "answers": "Katak",
+    "clues": "Amfibi"
+  },
+  {
+    "questions": "Kenapa kalau ada yang kotor, kita bersihkan?",
+    "answers": "Biar bersih",
+    "clues": "Tanggung jawab"
+  },
+  {
+    "questions": "Apa yang punya RT tapi tidak punya tetangga?",
+    "answers": "Buku tamu",
+    "clues": "Daftar hadir"
+  },
+  {
+    "questions": "Kenapa kalau ada yang rapi, kita suka?",
+    "answers": "Enak dilihat",
+    "clues": "Tertata"
+  },
+  {
+    "questions": "Hewan apa yang paling suka merayap?",
+    "answers": "Cicak",
+    "clues": "Di dinding"
+  },
+  {
+    "questions": "Kenapa kalau ada yang berantakan, kita rapikan?",
+    "answers": "Biar rapi",
+    "clues": "Kebiasaan baik"
+  },
+  {
+    "questions": "Apa yang punya RW tapi tidak punya warga?",
+    "answers": "Data",
+    "clues": "Data kependudukan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang terang, kita bisa melihat?",
+    "answers": "Ada cahaya",
+    "clues": "Sumber penerangan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka berkokok?",
+    "answers": "Ayam jantan",
+    "clues": "Membangunkan pagi"
+  },
+  {
+    "questions": "Kenapa kalau ada yang gelap, kita tidak bisa melihat?",
+    "answers": "Tidak ada",
+    "clues": "Tidak ada cahaya"
+  },
+  {
+    "questions": "Apa yang punya nama tapi tidak punya raga?",
+    "answers": "Angin",
+    "clues": "Bisa dirasakan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang panas, kita kepanasan?",
+    "answers": "Suhunya tinggi",
+    "clues": "Fisika"
+  },
+  {
+    "questions": "Hewan apa yang paling suka bertelur?",
+    "answers": "Ayam betina",
+    "clues": "Menghasilkan telur"
+  },
+  {
+    "questions": "Kenapa kalau ada yang dingin, kita kedinginan?",
+    "answers": "Suhunya rendah",
+    "clues": "Termometer"
+  },
+  {
+    "questions": "Apa yang punya suara tapi tidak punya mulut?",
+    "answers": "Radio",
+    "clues": "Media elektronik"
+  },
+  {
+    "questions": "Kenapa kalau ada yang manis, kita suka?",
+    "answers": "Karena enak",
+    "clues": "Rasa favorit"
+  },
+  {
+    "questions": "Hewan apa yang paling suka menyusui?",
+    "answers": "Sapi",
+    "clues": "Menghasilkan susu"
+  },
+  {
+    "questions": "Kenapa kalau ada yang pahit, kita tidak suka?",
+    "answers": "Tidak enak",
+    "clues": "Rasa obat"
+  },
+  {
+    "questions": "Apa yang punya gambar tapi tidak punya bingkai?",
+    "answers": "Bayangan",
+    "clues": "Siluet"
+  },
+  {
+    "questions": "Kenapa kalau ada yang asin, kita suka?",
+    "answers": "Karena gurih",
+    "clues": "Bikin nagih"
+  },
+  {
+    "questions": "Hewan apa yang paling suka mengejar?",
+    "answers": "Anjing",
+    "clues": "Mengejar kucing"
+  },
+  {
+    "questions": "Kenapa kalau ada yang asam, kita tidak suka?",
+    "answers": "Karena kecut",
+    "clues": "Bikin merem"
+  },
+  {
+    "questions": "Apa yang punya tulisan tapi tidak punya pena?",
+    "answers": "Keyboard",
+    "clues": "Untuk mengetik"
+  },
+  {
+    "questions": "Kenapa kalau ada yang pedas, kita kepedasan?",
+    "answers": "Ada cabainya",
+    "clues": "Bumbu dapur"
+  },
+  {
+    "questions": "Hewan apa yang paling suka dikejar?",
+    "answers": "Kucing",
+    "clues": "Dikejar anjing"
+  },
+  {
+    "questions": "Kenapa kalau ada yang hambar, kita tidak suka?",
+    "answers": "Tidak ada",
+    "clues": "Tidak ada rasanya"
+  },
+  {
+    "questions": "Apa yang punya angka tapi tidak bisa berhitung?",
+    "answers": "Jam dinding",
+    "clues": "Penunjuk waktu"
+  },
+  {
+    "questions": "Kenapa kalau ada yang enak, kita makan banyak?",
+    "answers": "Karena lapar",
+    "clues": "Nafsu makan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka sendiri?",
+    "answers": "Harimau",
+    "clues": "Hewan soliter"
+  },
+  {
+    "questions": "Kenapa kalau ada yang tidak enak, kita makan sedikit?",
+    "answers": "Tidak suka",
+    "clues": "Terpaksa"
+  },
+  {
+    "questions": "Apa yang punya huruf tapi tidak bisa membaca?",
+    "answers": "Kalender",
+    "clues": "Penunjuk tanggal"
+  },
+  {
+    "questions": "Kenapa kalau ada yang baru, kita coba?",
+    "answers": "Penasaran",
+    "clues": "Rasa ingin tahu"
+  },
+  {
+    "questions": "Hewan apa yang paling suka berkelompok?",
+    "answers": "Semut",
+    "clues": "Koloni"
+  },
+  {
+    "questions": "Kenapa kalau ada yang lama, kita bosan?",
+    "answers": "Sudah biasa",
+    "clues": "Butuh suasana baru"
+  },
+  {
+    "questions": "Apa yang punya lagu tapi tidak bisa bernyanyi?",
+    "answers": "MP3 player",
+    "clues": "Alat pemutar musik"
+  },
+  {
+    "questions": "Kenapa kalau ada yang mudah, kita kerjakan cepat?",
+    "answers": "Cepat selesai",
+    "clues": "Efisien"
+  },
+  {
+    "questions": "Hewan apa yang paling suka bekerja?",
+    "answers": "Lebah",
+    "clues": "Mengumpulkan nektar"
+  },
+  {
+    "questions": "Kenapa kalau ada yang sulit, kita kerjakan lama?",
+    "answers": "Butuh mikir",
+    "clues": "Tantangan"
+  },
+  {
+    "questions": "Apa yang punya film tapi tidak punya bioskop?",
+    "answers": "DVD",
+    "clues": "Kaset film"
+  },
+  {
+    "questions": "Kenapa kalau ada yang dekat, kita bisa lihat jelas?",
+    "answers": "Tidak rabun",
+    "clues": "Tidak rabun jauh"
+  },
+  {
+    "questions": "Hewan apa yang paling suka santai?",
+    "answers": "Koala",
+    "clues": "Banyak tidur"
+  },
+  {
+    "questions": "Kenapa kalau ada yang jauh, kita tidak bisa lihat jelas?",
+    "answers": "Rabun jauh",
+    "clues": "Masalah mata"
+  },
+  {
+    "questions": "Apa yang punya game tapi tidak bisa main?",
+    "answers": "Konsol",
+    "clues": "Perangkatnya"
+  },
+  {
+    "questions": "Kenapa kalau ada yang besar, kita lihat duluan?",
+    "answers": "Mencolok",
+    "clues": "Menarik perhatian"
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan bambu?",
+    "answers": "Panda",
+    "clues": "Hewan dari Tiongkok"
+  },
+  {
+    "questions": "Kenapa kalau ada yang kecil, kita tidak lihat duluan?",
+    "answers": "Tidak mencolok",
+    "clues": "Tersamar"
+  },
+  {
+    "questions": "Apa yang punya aplikasi tapi tidak bisa di-install?",
+    "answers": "Menu",
+    "clues": "Daftar pilihan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang tinggi, kita harus mendongak?",
+    "answers": "Biar kelihatan",
+    "clues": "Sudut pandang"
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan ikan?",
+    "answers": "Beruang",
+    "clues": "Di sungai"
+  },
+  {
+    "questions": "Kenapa kalau ada yang rendah, kita harus menunduk?",
+    "answers": "Biar tidak",
+    "clues": "Biar tidak terbentur"
+  },
+  {
+    "questions": "Apa yang punya kontak tapi tidak bisa menelepon?",
+    "answers": "Buku alamat",
+    "clues": "Hanya catatan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang berat, kita angkat berdua?",
+    "answers": "Biar ringan",
+    "clues": "Kerja sama"
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan daging?",
+    "answers": "Singa",
+    "clues": "Karnivora"
+  },
+  {
+    "questions": "Kenapa kalau ada yang ringan, kita angkat sendiri?",
+    "answers": "Karena kuat",
+    "clues": "Mampu"
+  },
+  {
+    "questions": "Apa yang punya email tapi tidak bisa mengirim?",
+    "answers": "Kartu nama",
+    "clues": "Tercetak"
+  },
+  {
+    "questions": "Kenapa kalau ada yang tajam, kita hati-hati?",
+    "answers": "Biar tidak",
+    "clues": "Biar tidak terluka"
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan buah?",
+    "answers": "Monyet",
+    "clues": "Frugivora"
+  },
+  {
+    "questions": "Kenapa kalau ada yang tumpul, kita tidak hati-hati?",
+    "answers": "Tidak berbahaya",
+    "clues": "Aman"
+  },
+  {
+    "questions": "Apa yang punya website tapi tidak bisa online?",
+    "answers": "Brosur",
+    "clues": "Media cetak"
+  },
+  {
+    "questions": "Kenapa kalau ada yang keras, kita pukul?",
+    "answers": "Biar pecah",
+    "clues": "Memecahkan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan madu?",
+    "answers": "Beruang madu",
+    "clues": "Sesuai namanya"
+  },
+  {
+    "questions": "Kenapa kalau ada yang lembek, kita remas?",
+    "answers": "Biar hancur",
+    "clues": "Mengubah bentuk"
+  },
+  {
+    "questions": "Apa yang punya password tapi tidak bisa login?",
+    "answers": "Gembok",
+    "clues": "Kunci kombinasi"
+  },
+  {
+    "questions": "Kenapa kalau ada yang basah, kita keringkan?",
+    "answers": "Tidak lembab",
+    "clues": "Biar tidak jamuran"
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan serangga?",
+    "answers": "Tokek",
+    "clues": "Merayap di dinding"
+  },
+  {
+    "questions": "Kenapa kalau ada yang kering, kita basahi?",
+    "answers": "Tidak dehidrasi",
+    "clues": "Seperti tanaman"
+  },
+  {
+    "questions": "Apa yang punya username tapi tidak bisa dipakai?",
+    "answers": "ID card",
+    "clues": "Kartu identitas"
+  },
+  {
+    "questions": "Kenapa kalau ada yang penuh, kita kurangi?",
+    "answers": "Tidak tumpah",
+    "clues": "Biar pas"
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan biji-bijian?",
+    "answers": "Burung",
+    "clues": "Mematuk"
+  },
+  {
+    "questions": "Kenapa kalau ada yang kosong, kita isi?",
+    "answers": "Bermanfaat",
+    "clues": "Supaya ada isinya"
+  },
+  {
+    "questions": "Apa yang punya baterai tapi tidak bisa menyala?",
+    "answers": "Baterai habis",
+    "clues": "Perlu diisi ulang"
+  },
+  {
+    "questions": "Kenapa kalau ada yang baru, kita jaga?",
+    "answers": "Biar awet",
+    "clues": "Merawat barang"
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan daun?",
+    "answers": "Jerapah",
+    "clues": "Lehernya panjang"
+  },
+  {
+    "questions": "Kenapa kalau ada yang lama, kita ganti?",
+    "answers": "Biar tidak",
+    "clues": "Biar tidak rusak"
+  },
+  {
+    "questions": "Apa yang punya kabel tapi tidak bisa mengisi daya?",
+    "answers": "Tali jemuran",
+    "clues": "Untuk menjemur"
+  },
+  {
+    "questions": "Kenapa kalau ada yang bagus, kita puji?",
+    "answers": "Biar senang",
+    "clues": "Memberi apresiasi"
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan wortel?",
+    "answers": "Kelinci",
+    "clues": "Telinganya panjang"
+  },
+  {
+    "questions": "Kenapa kalau ada yang jelek, kita kritik?",
+    "answers": "Biar lebih",
+    "clues": "Biar lebih baik"
+  },
+  {
+    "questions": "Apa yang punya sinyal tapi tidak bisa internetan?",
+    "answers": "Lampu lalin",
+    "clues": "Di jalan raya"
+  },
+  {
+    "questions": "Kenapa kalau ada yang benar, kita ikuti?",
+    "answers": "Tidak sesat",
+    "clues": "Jalan yang lurus"
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan pisang?",
+    "answers": "Monyet",
+    "clues": "Suka bergelantungan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang salah, kita perbaiki?",
+    "answers": "Biar benar",
+    "clues": "Proses belajar"
+  },
+  {
+    "questions": "Apa yang punya memori tapi tidak bisa mengingat?",
+    "answers": "Kartu memori",
+    "clues": "Untuk menyimpan data"
+  },
+  {
+    "questions": "Kenapa kalau ada yang menang, kita rayakan?",
+    "answers": "Karena prestasi",
+    "clues": "Pencapaian"
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan keju?",
+    "answers": "Tikus",
+    "clues": "Musuh kucing"
+  },
+  {
+    "questions": "Kenapa kalau ada yang kalah, kita evaluasi?",
+    "answers": "Belajar",
+    "clues": "Belajar dari kesalahan"
+  },
+  {
+    "questions": "Apa yang punya kamera tapi tidak bisa memotret?",
+    "answers": "CCTV rusak",
+    "clues": "Perlu diperbaiki"
+  },
+  {
+    "questions": "Kenapa kalau ada yang berhasil, kita contoh?",
+    "answers": "Ikut berhasil",
+    "clues": "Sebagai inspirasi"
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan rumput laut?",
+    "answers": "Penyu",
+    "clues": "Hidup di laut"
+  },
+  {
+    "questions": "Kenapa kalau ada yang gagal, kita jadikan pelajaran?",
+    "answers": "Tidak terulang",
+    "clues": "Pengalaman berharga"
+  },
+  {
+    "questions": "Apa yang punya speaker tapi tidak bisa bersuara?",
+    "answers": "Speaker rusak",
+    "clues": "Tidak berfungsi"
+  },
+  {
+    "questions": "Kenapa kalau ada yang datang, kita sambut?",
+    "answers": "Tamu adalah",
+    "clues": "Tamu adalah raja"
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan plankton?",
+    "answers": "Paus",
+    "clues": "Hewan laut besar"
+  },
+  {
+    "questions": "Kenapa kalau ada yang pergi, kita antar?",
+    "answers": "Selamat sampai",
+    "clues": "Selamat sampai tujuan"
+  },
+  {
+    "questions": "Apa yang punya mic tapi tidak bisa merekam?",
+    "answers": "Mic mainan",
+    "clues": "Untuk anak-anak"
+  },
+  {
+    "questions": "Kenapa kalau ada yang minta, kita beri?",
+    "answers": "Berbagi itu",
+    "clues": "Berbagi itu indah"
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan bangkai?",
+    "answers": "Burung nasar",
+    "clues": "Hewan pemakan bangkai"
+  },
+  {
+    "questions": "Kenapa kalau ada yang memberi, kita terima?",
+    "answers": "Rezeki",
+    "clues": "Rezeki tidak boleh ditolak"
+  },
+  {
+    "questions": "Apa yang punya layar tapi tidak bisa menampilkan gambar?",
+    "answers": "Layar tancap",
+    "clues": "Kalau tidak ada proyektor"
+  },
+  {
+    "questions": "Kenapa kalau ada yang bertanya, kita jawab?",
+    "answers": "Biar tidak",
+    "clues": "Biar tidak bingung"
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan nektar?",
+    "answers": "Kupu-kupu",
+    "clues": "Hinggap di bunga"
+  },
+  {
+    "questions": "Kenapa kalau ada yang menjawab, kita dengarkan?",
+    "answers": "Tahu jawabannya",
+    "clues": "Mendapat informasi"
+  },
+  {
+    "questions": "Apa yang punya tombol tapi tidak bisa ditekan?",
+    "answers": "Gambar tombol",
+    "clues": "Hanya ilusi"
+  },
+  {
+    "questions": "Kenapa kalau ada yang memerintah, kita turuti?",
+    "answers": "Biar disiplin",
+    "clues": "Aturan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan darah?",
+    "answers": "Nyamuk",
+    "clues": "Serangga kecil"
+  },
+  {
+    "questions": "Kenapa kalau ada yang melarang, kita patuhi?",
+    "answers": "Tidak celaka",
+    "clues": "Demi keselamatan"
+  },
+  {
+    "questions": "Apa yang punya remote tapi tidak bisa mengontrol?",
+    "answers": "Remote rusak",
+    "clues": "Baterainya habis"
+  },
+  {
+    "questions": "Kenapa kalau ada yang mengajak, kita ikut?",
+    "answers": "Tidak sendirian",
+    "clues": "Bersama-sama"
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan kayu?",
+    "answers": "Rayap",
+    "clues": "Merusak perabotan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang menolak, kita hargai?",
+    "answers": "Punya pilihan",
+    "clues": "Hak asasi"
+  },
+  {
+    "questions": "Apa yang punya antena tapi tidak bisa menangkap sinyal?",
+    "answers": "Semut",
+    "clues": "Bagian tubuh hewan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang setuju, kita senang?",
+    "answers": "Ada teman",
+    "clues": "Satu suara"
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan sampah?",
+    "answers": "Lalat",
+    "clues": "Hinggap di tempat kotor"
+  },
+  {
+    "questions": "Kenapa kalau ada yang tidak setuju, kita diskusikan?",
+    "answers": "Jalan tengah",
+    "clues": "Mencari solusi"
+  },
+  {
+    "questions": "Apa yang punya roda tapi tidak bisa berjalan?",
+    "answers": "Roda mainan",
+    "clues": "Tidak ada mesin"
+  },
+  {
+    "questions": "Kenapa kalau ada yang memuji, kita berterima kasih?",
+    "answers": "Sopan",
+    "clues": "Etika"
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan kotoran?",
+    "answers": "Kumbang",
+    "clues": "Kumbang kotoran"
+  },
+  {
+    "questions": "Kenapa kalau ada yang menghina, kita sabar?",
+    "answers": "Disayang Tuhan",
+    "clues": "Ujian kesabaran"
+  },
+  {
+    "questions": "Apa yang punya mesin tapi tidak bisa hidup?",
+    "answers": "Mesin tik",
+    "clues": "Alat ketik manual"
+  },
+  {
+    "questions": "Kenapa kalau ada yang menolong, kita berterima kasih?",
+    "answers": "Menghargai",
+    "clues": "Menghargai bantuan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan apa saja?",
+    "answers": "Babi",
+    "clues": "Omnivora"
+  },
+  {
+    "questions": "Kenapa kalau ada yang menyakiti, kita maafkan?",
+    "answers": "Memaafkan",
+    "clues": "Memaafkan itu mulia"
+  },
+  {
+    "questions": "Apa yang punya sayap tapi tidak bisa terbang?",
+    "answers": "Pesawat rusak",
+    "clues": "Butuh perbaikan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang mencintai, kita balas cintanya?",
+    "answers": "Biar bahagia",
+    "clues": "Hubungan timbal balik"
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan tulang?",
+    "answers": "Anjing",
+    "clues": "Suka menggerogoti"
+  },
+  {
+    "questions": "Kenapa kalau ada yang membenci, kita doakan?",
+    "answers": "Biar baik",
+    "clues": "Menyebarkan kebaikan"
+  },
+  {
+    "questions": "Rumah apa yang tidak bisa dihuni orang?",
+    "answers": "Rumah keong",
+    "clues": "Tempat tinggal hewan"
+  },
+  {
+    "questions": "Kalau kijang dan kuda tabrakan, yang mati siapa?",
+    "answers": "Supirnya",
+    "clues": "Yang mengemudi"
+  },
+  {
+    "questions": "Kenapa bensin campurannya timah?",
+    "answers": "Kalau dicampur",
+    "clues": "Kalau dicampur kamu namanya 'bensinta'"
+  },
+  {
+    "questions": "Artis apa yang jadi satpam?",
+    "answers": "Didi Petet",
+    "clues": "Bunyi peluit"
+  },
+  {
+    "questions": "Hewan apa yang paling penakut?",
+    "answers": "Kancil",
+    "clues": "Kancil-ik"
+  },
+  {
+    "questions": "Kenapa anak babi jalannya nunduk?",
+    "answers": "Karena malu",
+    "clues": "Ibunya babi"
+  },
+  {
+    "questions": "Apa yang bisa dilihat tapi tidak bisa disentuh?",
+    "answers": "Mimpi",
+    "clues": "Bunga tidur"
+  },
+  {
+    "questions": "Uang seratus ribu kalau dibakar jadi apa?",
+    "answers": "Jadi abu",
+    "clues": "Hasil pembakaran"
+  },
+  {
+    "questions": "Kenapa hantu sukanya di pojokan?",
+    "answers": "Kalau di tengah",
+    "clues": "Kalau di tengah namanya 'hantu center'"
+  },
+  {
+    "questions": "Kalau ada anjing ngejar kamu, kamu jadi apa?",
+    "answers": "Jadi-jadian",
+    "clues": "Panik"
+  },
+  {
+    "questions": "Hewan apa yang punya banyak keahlian?",
+    "answers": "Kukang",
+    "clues": "Tu-kukang-gali"
+  },
+  {
+    "questions": "Kenapa orang botak di depan?",
+    "answers": "Karena pintar",
+    "clues": "Banyak mikir"
+  },
+  {
+    "questions": "Susu apa yang bikin pegel?",
+    "answers": "Susu-sah",
+    "clues": "Susu-sah move on"
+  },
+  {
+    "questions": "Hewan apa yang jago silat?",
+    "answers": "Kura-kura",
+    "clues": "Punya jurus seribu bayangan"
+  },
+  {
+    "questions": "Kenapa kapal selam jendelanya bulat?",
+    "answers": "Kalau kotak",
+    "clues": "Kalau kotak namanya 'jendela'"
+  },
+  {
+    "questions": "Kalau kamu lagi sendiri, terus ada yang ngetok pintu tiga kali, yang buka siapa?",
+    "answers": "Satpam",
+    "clues": "Kamu kan lagi sendiri di pos"
+  },
+  {
+    "questions": "Telor apa yang kalau diinjak gak pecah?",
+    "answers": "Telor baja",
+    "clues": "Sangat kuat"
+  },
+  {
+    "questions": "Kenapa di angkasa tidak ada kehidupan?",
+    "answers": "Karena Cuma",
+    "clues": "Karena Cuma ada 'Bulan' dan 'Bintang'"
+  },
+  {
+    "questions": "Apa persamaan David Beckham sama tukang urut?",
+    "answers": "Sama-sama",
+    "clues": "Sama-sama bikin pegel linu hilang"
+  },
+  {
+    "questions": "Hewan apa yang bisa beranak dan bertelur?",
+    "answers": "Tukang hewan",
+    "clues": "Dia punya semuanya"
+  },
+  {
+    "questions": "Kenapa air liur rasanya asin?",
+    "answers": "Kalau manis",
+    "clues": "Kalau manis ntar kamu diabetes"
+  },
+  {
+    "questions": "Tahu apa yang tidak bisa dimakan?",
+    "answers": "Tahu-tahu",
+    "clues": "Tahu-tahu ujian"
+  },
+  {
+    "questions": "Apa yang dilakukan tikus kalo ulang tahun?",
+    "answers": "Tiup lilin",
+    "clues": "Sama seperti kita"
+  },
+  {
+    "questions": "Kenapa Spiderman warnanya biru merah?",
+    "answers": "Kalau hitam",
+    "clues": "Kalau hitam namanya 'Kopiman'"
+  },
+  {
+    "questions": "Ban apa yang paling berat?",
+    "answers": "Ban-tuin aku",
+    "clues": "Ban-tuin aku dong"
+  },
+  {
+    "questions": "Hewan apa yang paling sering disalahkan?",
+    "answers": "Kambing hitam",
+    "clues": "Sebuah istilah"
+  },
+  {
+    "questions": "Kenapa jerapah lehernya panjang?",
+    "answers": "Karena kalau",
+    "clues": "Karena kalau pendek namanya 'jerapendek'"
+  },
+  {
+    "questions": "Nenek apa yang bisa terbang?",
+    "answers": "Nenek-nenek",
+    "clues": "Nenek-nenek naik pesawat"
+  },
+  {
+    "questions": "Apa yang kalau turun lama, naiknya cepat?",
+    "answers": "Ingus",
+    "clues": "Saat pilek"
+  },
+  {
+    "questions": "Kenapa pohon mangga tidak berbuah durian?",
+    "answers": "Karena takdir",
+    "clues": "Sudah dari sananya"
+  },
+  {
+    "questions": "Ikan apa yang paling tua?",
+    "answers": "Ikan lele",
+    "clues": "Sudah punya kumis"
+  },
+  {
+    "questions": "Apa bedanya kamu sama jam?",
+    "answers": "Kalau jam",
+    "clues": "Kalau jam ada jarumnya kalau kamu ada di hatiku"
+  },
+  {
+    "questions": "Kenapa api warnanya merah?",
+    "answers": "Karena malu",
+    "clues": "Karena malu dilihatin banyak orang"
+  },
+  {
+    "questions": "Pintu apa yang tidak bisa ditutup?",
+    "answers": "Pintu terbuka",
+    "clues": "Logika sederhana"
+  },
+  {
+    "questions": "Hewan apa yang suka gonta-ganti pasangan?",
+    "answers": "Katak",
+    "clues": "Katak-an putus"
+  },
+  {
+    "questions": "Kenapa nyamuk suka gigit?",
+    "answers": "Karena kalau",
+    "clues": "Karena kalau nyubit nanti ketahuan"
+  },
+  {
+    "questions": "Penyanyi apa yang paling sabar?",
+    "answers": "Pasrah Ungu",
+    "clues": "Judul lagu"
+  },
+  {
+    "questions": "Apa yang masuknya miring, keluarnya miring?",
+    "answers": "Kancing",
+    "clues": "Ada di baju"
+  },
+  {
+    "questions": "Kenapa matematika pelajarannya susah?",
+    "answers": "Karena kalau",
+    "clues": "Karena kalau gampang namanya 'matematimudah'"
+  },
+  {
+    "questions": "Hewan apa yang paling suka kebersihan?",
+    "answers": "Cacing",
+    "clues": "Membersihkan tanah"
+  },
+  {
+    "questions": "Apa bahasa Arabnya 'aku cinta kamu'?",
+    "answers": "Al-hamdulillah",
+    "clues": "Sebuah anugerah"
+  },
+  {
+    "questions": "Kenapa saat wisuda pakai toga?",
+    "answers": "Kalau pakai",
+    "clues": "Kalau pakai daster dikira mau tidur"
+  },
+  {
+    "questions": "Gajah apa yang baik hati?",
+    "answers": "Gajah-at",
+    "clues": "Gajah-at nya dibuang"
+  },
+  {
+    "questions": "Hewan apa yang sering jadi korban pemerasan?",
+    "answers": "Sapi",
+    "clues": "Susu-nya diperas"
+  },
+  {
+    "questions": "Kenapa zombie kalau jalan pelan?",
+    "answers": "Karena kalau",
+    "clues": "Karena kalau cepat namanya 'zombur-zombur'"
+  },
+  {
+    "questions": "Makanan apa yang paling ditakuti?",
+    "answers": "Kerupuk",
+    "clues": "Kalau masuk angin"
+  },
+  {
+    "questions": "Apa bedanya bulan sama kamu?",
+    "answers": "Kalau bulan",
+    "clues": "Kalau bulan di langit kalau kamu di hatiku"
+  },
+  {
+    "questions": "Kenapa kelinci jalannya loncat-loncat?",
+    "answers": "Karena kalau",
+    "clues": "Karena kalau ngesot dikira ular"
+  },
+  {
+    "questions": "Pocong apa yang jalannya cepat?",
+    "answers": "Pocong-kling",
+    "clues": "Balapan"
+  },
+  {
+    "questions": "Hewan apa yang paling jorok?",
+    "answers": "Lalat",
+    "clues": "Suka di tempat sampah"
+  },
+  {
+    "questions": "Kenapa awan warnanya putih?",
+    "answers": "Kalau coklat",
+    "clues": "Kalau coklat namanya 'awan-susu'"
+  },
+  {
+    "questions": "Apa yang paling berharga dari seorang wanita?",
+    "answers": "Wanitanya",
+    "clues": "Dirinya sendiri"
+  },
+  {
+    "questions": "Gelas apa yang isinya tidak bisa diminum?",
+    "answers": "Gelas kosong",
+    "clues": "Tidak ada airnya"
+  },
+  {
+    "questions": "Kenapa kuntilanak rambutnya panjang?",
+    "answers": "Karena gak",
+    "clues": "Karena gak ada salon di kuburan"
+  },
+  {
+    "questions": "Hewan apa yang paling setia?",
+    "answers": "Anjing",
+    "clues": "Sahabat manusia"
+  },
+  {
+    "questions": "Apa bahasa Cinanya 'anak hilang'?",
+    "answers": "Ma-na-wae",
+    "clues": "Kemana saja"
+  },
+  {
+    "questions": "Kenapa orang kalau lari matanya ke depan?",
+    "answers": "Kalau ke",
+    "clues": "Kalau ke samping nabrak"
+  },
+  {
+    "questions": "Buah apa yang bisa bikin nangis?",
+    "answers": "Buah-gi",
+    "clues": "Buah-gi aku dengan yang lain"
+  },
+  {
+    "questions": "Hewan apa yang paling suka utang?",
+    "answers": "Kutu",
+    "clues": "Kutu-ang"
+  },
+  {
+    "questions": "Kenapa air laut tidak pernah habis?",
+    "answers": "Karena dipakai",
+    "clues": "Karena dipakai buat mandi ikan"
+  },
+  {
+    "questions": "Apa yang lebih sakit dari patah hati?",
+    "answers": "Patah tulang",
+    "clues": "Sakit fisik"
+  },
+  {
+    "questions": "Kota apa yang isinya bapak-bapak?",
+    "answers": "Purwa-daddy",
+    "clues": "Ayah"
+  },
+  {
+    "questions": "Kenapa tukang ojek pakai jaket?",
+    "answers": "Kalau pakai",
+    "clues": "Kalau pakai gaun jadi 'mbak ojek'"
+  },
+  {
+    "questions": "Hewan apa yang paling canggih?",
+    "answers": "Ular",
+    "clues": "Punya 'bisa'"
+  },
+  {
+    "questions": "Apa bahasa Jepangnya 'tidak punya uang'?",
+    "answers": "Sakurata",
+    "clues": "Kantong rata"
+  },
+  {
+    "questions": "Kenapa cicak nempel di dinding?",
+    "answers": "Kalau nempel",
+    "clues": "Kalau nempel di kamu nanti kamu geli"
+  },
+  {
+    "questions": "Bola apa yang bisa nangis?",
+    "answers": "Bola mata",
+    "clues": "Mengeluarkan air mata"
+  },
+  {
+    "questions": "Hewan apa yang paling pintar?",
+    "answers": "Udang",
+    "clues": "Punya 'otak' di kepala"
+  },
+  {
+    "questions": "Kenapa lampu merah berhenti?",
+    "answers": "Kalau jalan",
+    "clues": "Kalau jalan nanti ditabrak"
+  },
+  {
+    "questions": "Apa yang paling ditakuti ibu-ibu di jalan?",
+    "answers": "Sein kiri",
+    "clues": "Sein kiri belok kanan"
+  },
+  {
+    "questions": "Nasi apa yang paling dirindukan?",
+    "answers": "Nasi-b",
+    "clues": "Nasi-b kita bersama"
+  },
+  {
+    "questions": "Kenapa hantu tidak punya kaki?",
+    "answers": "Kalau punya",
+    "clues": "Kalau punya nanti sandalnya hilang sebelah"
+  },
+  {
+    "questions": "Hewan apa yang paling suka berpetualang?",
+    "answers": "Doraemon",
+    "clues": "Punya kantong ajaib"
+  },
+  {
+    "questions": "Apa bedanya satpam sama kamu?",
+    "answers": "Satpam jaga",
+    "clues": "Satpam jaga komplek kamu jaga hatiku"
+  },
+  {
+    "questions": "Kenapa kalau upacara bendera, tangannya hormat?",
+    "answers": "Kalau tepuk",
+    "clues": "Kalau tepuk tangan dikira nonton konser"
+  },
+  {
+    "questions": "Sapi apa yang bisa terbang?",
+    "answers": "Sapi-kir",
+    "clues": "Hanya dalam pikiran"
+  },
+  {
+    "questions": "Hewan apa yang paling boros?",
+    "answers": "Kupu-kupu",
+    "clues": "Suka beli barang"
+  },
+  {
+    "questions": "Kenapa di bioskop gelap?",
+    "answers": "Biar gak",
+    "clues": "Biar gak kelihatan kalau ada yang pacaran"
+  },
+  {
+    "questions": "Apa yang ada di antara langit dan bumi?",
+    "answers": "Dan",
+    "clues": "Kata hubung"
+  },
+  {
+    "questions": "Buah apa yang isinya durian, tapi kulitnya semangka?",
+    "answers": "Buah aneh",
+    "clues": "Tidak mungkin"
+  },
+  {
+    "questions": "Kenapa mayat jalannya lurus?",
+    "answers": "Karena kalau",
+    "clues": "Karena kalau zig-zag nanti dikira mabuk"
+  },
+  {
+    "questions": "Hewan apa yang paling suka kebersihan?",
+    "answers": "Ikan sapu-sapu",
+    "clues": "Membersihkan akuarium"
+  },
+  {
+    "questions": "Apa bahasa Cinanya 'sepeda motor'?",
+    "answers": "Chin-calang",
+    "clues": "Bunyi knalpot"
+  },
+  {
+    "questions": "Kenapa di laut ada ombak?",
+    "answers": "Karena kalau",
+    "clues": "Karena kalau ada 'kamu' namanya 'lautan asmara'"
+  },
+  {
+    "questions": "Pohon apa yang paling berani?",
+    "answers": "Pohon pisang",
+    "clues": "Jantungnya di luar"
+  },
+  {
+    "questions": "Hewan apa yang paling suka melanggar lalu lintas?",
+    "answers": "Zebra",
+    "clues": "Nyebrangnya di 'zebra cross'"
+  },
+  {
+    "questions": "Kenapa kalau mandi pakai sabun?",
+    "answers": "Kalau pakai",
+    "clues": "Kalau pakai semen nanti jadi patung"
+  },
+  {
+    "questions": "Apa yang paling manis selain gula?",
+    "answers": "Senyummu",
+    "clues": "Gombalan"
+  },
+  {
+    "questions": "Kota apa yang tidak pernah sedih?",
+    "answers": "Suka-bumi",
+    "clues": "Selalu suka"
+  },
+  {
+    "questions": "Kenapa tuyul suka ngambil uang?",
+    "answers": "Karena kalau",
+    "clues": "Karena kalau ngambil hati namanya 'tuyul baper'"
+  },
+  {
+    "questions": "Hewan apa yang paling suka begadang?",
+    "answers": "Burung hantu",
+    "clues": "Nokturnal"
+  },
+  {
+    "questions": "Apa bahasa Jepangnya 'ibu saya seorang guru'?",
+    "answers": "Mama-sensei",
+    "clues": "Panggilan guru"
+  },
+  {
+    "questions": "Kenapa kalau belajar ngantuk?",
+    "answers": "Karena bukunya",
+    "clues": "Karena bukunya sebagai bantal"
+  },
+  {
+    "questions": "Pulau apa yang penduduknya tidak pernah sakit?",
+    "answers": "Pulau-paru",
+    "clues": "Organ tubuh"
+  },
+  {
+    "questions": "Hewan apa yang paling jago berenang?",
+    "answers": "Bebek",
+    "clues": "Bisa mengapung"
+  },
+  {
+    "questions": "Kenapa ban mobil warnanya hitam?",
+    "answers": "Kalau putih",
+    "clues": "Kalau putih cepet kotor"
+  },
+  {
+    "questions": "Apa yang paling ditunggu saat Ramadhan?",
+    "answers": "Adzan Maghrib",
+    "clues": "Waktu berbuka"
+  },
+  {
+    "questions": "Sayur apa yang paling sering telat?",
+    "answers": "Sayur-nara",
+    "clues": "Sampai jumpa"
+  },
+  {
+    "questions": "Kenapa kalau orang meninggal, tetangga melayat?",
+    "answers": "Kalau melamar",
+    "clues": "Kalau melamar salah momen"
+  },
+  {
+    "questions": "Hewan apa yang suka korupsi?",
+    "answers": "Tikus",
+    "clues": "Tikus berdasi"
+  },
+  {
+    "questions": "Apa bahasa Cinanya 'dilarang masuk'?",
+    "answers": "Engkoh-lewat",
+    "clues": "Tidak boleh"
+  },
+  {
+    "questions": "Kenapa kalau makan harus pakai piring?",
+    "answers": "Kalau pakai",
+    "clues": "Kalau pakai topi nanti tumpah"
+  },
+  {
+    "questions": "Benda apa yang semakin dipotong semakin tinggi?",
+    "answers": "Rumput",
+    "clues": "Tumbuh lagi"
+  },
+  {
+    "questions": "Hewan apa yang paling romantis?",
+    "answers": "Merpati",
+    "clues": "Tidak pernah ingkar janji"
+  },
+  {
+    "questions": "Kenapa kalau nonton konser, penontonnya tepuk tangan?",
+    "answers": "Kalau tepuk",
+    "clues": "Kalau tepuk jidat dikira pusing"
+  },
+  {
+    "questions": "Apa yang lebih enak dari nasi padang?",
+    "answers": "Nasi padang",
+    "clues": "Nasi padang gratis"
+  },
+  {
+    "questions": "Jus apa yang warnanya hitam?",
+    "answers": "Jus-tru",
+    "clues": "Jus-tru itu kopi"
+  },
+  {
+    "questions": "Kenapa kalau orang tua marah, kita diam?",
+    "answers": "Karena kalau",
+    "clues": "Karena kalau ngelawan durhaka"
+  },
+  {
+    "questions": "Hewan apa yang paling suka kebersihan?",
+    "answers": "Gajah",
+    "clues": "Mandinya pakai belalai"
+  },
+  {
+    "questions": "Apa bahasa Indianya 'aku akan selalu ada untukmu'?",
+    "answers": "Tum-hi-ho",
+    "clues": "Lagu film"
+  },
+  {
+    "questions": "Kenapa kalau ada lomba lari, semua pesertanya lari?",
+    "answers": "Kalau jalan",
+    "clues": "Kalau jalan namanya 'lomba jalan'"
+  },
+  {
+    "questions": "Kopi apa yang paling pahit?",
+    "answers": "Kopi-lih",
+    "clues": "Kopi-lih dia daripada aku"
+  },
+  {
+    "questions": "Hewan apa yang paling suka menabung?",
+    "answers": "Babi",
+    "clues": "Celengan babi"
+  },
+  {
+    "questions": "Kenapa kalau hujan, ada petir?",
+    "answers": "Biar seru",
+    "clues": "Efek suara"
+  },
+  {
+    "questions": "Apa yang paling ditakuti pohon?",
+    "answers": "Tukang tebang",
+    "clues": "Musuh alami"
+  },
+  {
+    "questions": "Benda apa yang kalau dibanting tidak pecah?",
+    "answers": "Banting stir",
+    "clues": "Manuver mobil"
+  },
+  {
+    "questions": "Kenapa kalau ada ulangan, murid-muridnya tegang?",
+    "answers": "Karena soalnya",
+    "clues": "Karena soalnya susah"
+  },
+  {
+    "questions": "Hewan apa yang paling suka teknologi?",
+    "answers": "Ulat",
+    "clues": "Ulat-book"
+  },
+  {
+    "questions": "Apa bahasa Inggrisnya 'kamar kosong'?",
+    "answers": "Room-beng",
+    "clues": "Rusak"
+  },
+  {
+    "questions": "Kenapa kalau ada orang nikah, ada penghulunya?",
+    "answers": "Kalau ada",
+    "clues": "Kalau ada wasit dikira pertandingan"
+  },
+  {
+    "questions": "Ayam apa yang tidak bisa mundur?",
+    "answers": "Ayam betutu",
+    "clues": "Maju terus pantang mundur"
+  },
+  {
+    "questions": "Hewan apa yang paling suka begadang?",
+    "answers": "Jangkrik",
+    "clues": "Bunyi di malam hari"
+  },
+  {
+    "questions": "Kenapa matahari cuma satu?",
+    "answers": "Kalau dua",
+    "clues": "Kalau dua namanya 'mata-mata'"
+  },
+  {
+    "questions": "Apa yang paling dicari saat tersesat di hutan?",
+    "answers": "Jalan keluar",
+    "clues": "Solusi"
+  },
+  {
+    "questions": "Susu apa yang paling segar?",
+    "answers": "Susu-ngai",
+    "clues": "Airnya jernih"
+  },
+  {
+    "questions": "Kenapa kalau ada orang jatuh, kita ketawa?",
+    "answers": "Karena lucu",
+    "clues": "Reaksi spontan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka pakai helm?",
+    "answers": "Kumbang",
+    "clues": "Kumbang tanduk"
+  },
+  {
+    "questions": "Apa bahasa Koreanya 'selamat pagi'?",
+    "answers": "Anyeong-haseyo",
+    "clues": "Sapaan umum"
+  },
+  {
+    "questions": "Kenapa kalau liburan, orang suka ke pantai?",
+    "answers": "Kalau ke",
+    "clues": "Kalau ke kuburan namanya 'ziarah'"
+  },
+  {
+    "questions": "Tali apa yang bisa di makan?",
+    "answers": "Tali-wang",
+    "clues": "Ayam taliwang"
+  },
+  {
+    "questions": "Hewan apa yang paling suka matematika?",
+    "answers": "Ular",
+    "clues": "Punya 'phi-ton'"
+  },
+  {
+    "questions": "Kenapa kalau ada polisi, semua orang jadi taat?",
+    "answers": "Karena takut",
+    "clues": "Karena takut ditilang"
+  },
+  {
+    "questions": "Apa yang paling dibutuhkan saat pacaran?",
+    "answers": "Restu",
+    "clues": "Restu orang tua"
+  },
+  {
+    "questions": "Garam apa yang paling asin?",
+    "answers": "Garam-uk",
+    "clues": "Garam-uk kamu nanti"
+  },
+  {
+    "questions": "Kenapa kalau ada demo, suka bakar ban?",
+    "answers": "Kalau bakar",
+    "clues": "Kalau bakar rumah nanti gak punya tempat tinggal"
+  },
+  {
+    "questions": "Hewan apa yang paling suka ke sawah?",
+    "answers": "Kerbau",
+    "clues": "Membantu petani"
+  },
+  {
+    "questions": "Apa bahasa Jermannya 'aku lapar'?",
+    "answers": "Ich bin",
+    "clues": "Ich bin-lapar"
+  },
+  {
+    "questions": "Kenapa kalau ada pejabat korupsi, masuk penjara?",
+    "answers": "Kalau masuk",
+    "clues": "Kalau masuk surga aneh"
+  },
+  {
+    "questions": "Benda apa yang kalau dipakai, bikin pintar?",
+    "answers": "Kacamata",
+    "clues": "Membantu membaca"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di salon?",
+    "answers": "Singa",
+    "clues": "Blow dry rambut"
+  },
+  {
+    "questions": "Kenapa kalau ada pemilu, banyak spanduk?",
+    "answers": "Kalau banyak",
+    "clues": "Kalau banyak kenangan namanya 'gagal move on'"
+  },
+  {
+    "questions": "Apa yang paling ditakuti anak-anak saat malam?",
+    "answers": "PR",
+    "clues": "PR belum selesai"
+  },
+  {
+    "questions": "Mie apa yang paling pedas?",
+    "answers": "Mie-kirin",
+    "clues": "Mie-kirin cicilan"
+  },
+  {
+    "questions": "Kenapa kalau ada orang ulang tahun, dikasih kue?",
+    "answers": "Kalau dikasih",
+    "clues": "Kalau dikasih batu nanti marah"
+  },
+  {
+    "questions": "Hewan apa yang paling suka begadang?",
+    "answers": "Musang",
+    "clues": "Mencari makan di malam hari"
+  },
+  {
+    "questions": "Apa bahasa Belandanya 'maaf'?",
+    "answers": "Sorry",
+    "clues": "Sama saja"
+  },
+  {
+    "questions": "Kenapa kalau ada bayi nangis, ibunya panik?",
+    "answers": "Karena bingung",
+    "clues": "Karena bingung mau apa"
+  },
+  {
+    "questions": "Bank apa yang tidak punya uang?",
+    "answers": "Bank-u",
+    "clues": "Tempat duduk"
+  },
+  {
+    "questions": "Hewan apa yang paling suka pakai dasi?",
+    "answers": "Tikus",
+    "clues": "Tikus kantor"
+  },
+  {
+    "questions": "Kenapa kalau mau masuk surga, harus meninggal dulu?",
+    "answers": "Karena kalau",
+    "clues": "Karena kalau hidup-hidup penuh"
+  },
+  {
+    "questions": "Apa yang paling dicari saat haus?",
+    "answers": "Air",
+    "clues": "Minuman"
+  },
+  {
+    "questions": "Kacang apa yang paling besar?",
+    "answers": "Kacang-an",
+    "clues": "Kacang-an Arab Saudi"
+  },
+  {
+    "questions": "Kenapa kalau ada badut, semua orang tertawa?",
+    "answers": "Karena lucu",
+    "clues": "Tingkahnya"
+  },
+  {
+    "questions": "Hewan apa yang paling suka berjemur?",
+    "answers": "Buaya",
+    "clues": "Di pinggir sungai"
+  },
+  {
+    "questions": "Apa bahasa Spanyolnya 'satu'?",
+    "answers": "Uno",
+    "clues": "Permainan kartu"
+  },
+  {
+    "questions": "Kenapa kalau ada film baru, bioskopnya ramai?",
+    "answers": "Karena penasaran",
+    "clues": "Ingin nonton"
+  },
+  {
+    "questions": "Bulan apa yang paling ditakuti?",
+    "answers": "Bulan-an",
+    "clues": "Tagihan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di air?",
+    "answers": "Lumba-lumba",
+    "clues": "Mamalia laut"
+  },
+  {
+    "questions": "Kenapa kalau ada diskon, ibu-ibu jadi semangat?",
+    "answers": "Karena murah",
+    "clues": "Suka belanja"
+  },
+  {
+    "questions": "Apa yang paling dibutuhkan saat mendaki gunung?",
+    "answers": "Niat",
+    "clues": "Tanpa niat tidak akan sampai"
+  },
+  {
+    "questions": "Batu apa yang paling sakit?",
+    "answers": "Batu-k",
+    "clues": "Penyakit"
+  },
+  {
+    "questions": "Kenapa kalau ada mantan, suka teringat?",
+    "answers": "Karena punya",
+    "clues": "Karena punya kenangan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di pohon?",
+    "answers": "Burung",
+    "clues": "Membuat sarang"
+  },
+  {
+    "questions": "Apa bahasa Thailandnya 'terima kasih'?",
+    "answers": "Khop khun",
+    "clues": "Khop khun khap/kha"
+  },
+  {
+    "questions": "Kenapa kalau ada gosip, cepat menyebar?",
+    "answers": "Karena seru",
+    "clues": "Untuk dibicarakan"
+  },
+  {
+    "questions": "Mata apa yang tidak bisa berkedip?",
+    "answers": "Mata-hari",
+    "clues": "Pusat tata surya"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di gurun?",
+    "answers": "Unta",
+    "clues": "Punya punuk"
+  },
+  {
+    "questions": "Kenapa kalau ada macet, semua orang marah?",
+    "answers": "Karena telat",
+    "clues": "Menghambat waktu"
+  },
+  {
+    "questions": "Apa yang paling penting dalam hidup?",
+    "answers": "Napas",
+    "clues": "Kalau tidak ada mati"
+  },
+  {
+    "questions": "Kucing apa yang paling ditakuti?",
+    "answers": "Kucing-gar",
+    "clues": "Senjata tajam"
+  },
+  {
+    "questions": "Kenapa kalau ada libur panjang, jalanan ramai?",
+    "answers": "Karena semua",
+    "clues": "Karena semua mau liburan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di salju?",
+    "answers": "Beruang kutub",
+    "clues": "Warnanya putih"
+  },
+  {
+    "questions": "Apa bahasa Rusianya 'ya'?",
+    "answers": "Da",
+    "clues": "Singkat"
+  },
+  {
+    "questions": "Kenapa kalau ada teman nikah, kita kasih amplop?",
+    "answers": "Karena kalau",
+    "clues": "Karena kalau kasih piring dikira mau nyumbang"
+  },
+  {
+    "questions": "Jalan apa yang tidak pernah macet?",
+    "answers": "Jalan-jalan",
+    "clues": "Jalan-jalan di mimpi"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di hutan?",
+    "answers": "Monyet",
+    "clues": "Bergelantungan"
+  },
+  {
+    "questions": "Kenapa kalau ada orang pintar, kita segan?",
+    "answers": "Karena ilmunya",
+    "clues": "Karena ilmunya banyak"
+  },
+  {
+    "questions": "Apa yang paling dibutuhkan saat ujian?",
+    "answers": "Jawaban",
+    "clues": "Untuk diisi"
+  },
+  {
+    "questions": "Daun apa yang paling lucu?",
+    "answers": "Daun-der",
+    "clues": "Daun-der Woman"
+  },
+  {
+    "questions": "Kenapa kalau ada pertandingan bola, ada suporter?",
+    "answers": "Biar ramai",
+    "clues": "Memberi semangat"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di rumah?",
+    "answers": "Kucing",
+    "clues": "Hewan peliharaan"
+  },
+  {
+    "questions": "Apa bahasa Italianya 'cinta'?",
+    "answers": "Amore",
+    "clues": "Romantis"
+  },
+  {
+    "questions": "Kenapa kalau ada yang curhat, kita dengarkan?",
+    "answers": "Karena teman",
+    "clues": "Saling mendukung"
+  },
+  {
+    "questions": "Paku apa yang paling ditakuti?",
+    "answers": "Paku-mis",
+    "clues": "Bisa beracun"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di kebun binatang?",
+    "answers": "Pengunjung",
+    "clues": "Manusia"
+  },
+  {
+    "questions": "Kenapa kalau ada bos, semua karyawan jadi rajin?",
+    "answers": "Karena dinilai",
+    "clues": "Takut dipecat"
+  },
+  {
+    "questions": "Apa yang paling ditakuti saat malam jumat?",
+    "answers": "Dompet kosong",
+    "clues": "Malam sabtu tidak bisa jalan"
+  },
+  {
+    "questions": "Sate apa yang tidak bisa dimakan?",
+    "answers": "Sate-ria",
+    "clues": "Sate-ria Baja Hitam"
+  },
+  {
+    "questions": "Kenapa kalau ada kecoa terbang, semua orang lari?",
+    "answers": "Karena geli",
+    "clues": "Menakutkan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di sawah?",
+    "answers": "Burung pipit",
+    "clues": "Makan padi"
+  },
+  {
+    "questions": "Apa bahasa Arabnya 'pasar'?",
+    "answers": "Souk",
+    "clues": "Tempat jual beli"
+  },
+  {
+    "questions": "Kenapa kalau ada kamera, semua orang senyum?",
+    "answers": "Biar ganteng",
+    "clues": "Biar ganteng dan cantik"
+  },
+  {
+    "questions": "Api apa yang tidak panas?",
+    "answers": "Api-k",
+    "clues": "Bagus sekali"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di danau?",
+    "answers": "Angsa",
+    "clues": "Lehernya panjang"
+  },
+  {
+    "questions": "Kenapa kalau ada yang wisuda, dikasih bunga?",
+    "answers": "Kalau dikasih",
+    "clues": "Kalau dikasih sertifikat tanah nanti jadi sengketa"
+  },
+  {
+    "questions": "Apa yang paling menyakitkan saat jatuh?",
+    "answers": "Jatuh miskin",
+    "clues": "Kehilangan harta"
+  },
+  {
+    "questions": "Mobil apa yang bikin galau?",
+    "answers": "Mobil-ang",
+    "clues": "Mobil-ang cinta"
+  },
+  {
+    "questions": "Kenapa kalau ada film sedih, penontonnya nangis?",
+    "answers": "Karena baper",
+    "clues": "Terbawa suasana"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di kutub?",
+    "answers": "Pinguin",
+    "clues": "Tidak bisa terbang"
+  },
+  {
+    "questions": "Apa bahasa Portugisnya 'terima kasih'?",
+    "answers": "Obrigado",
+    "clues": "Untuk pria"
+  },
+  {
+    "questions": "Kenapa kalau ada yang ulang tahun, ada balon?",
+    "answers": "Biar meriah",
+    "clues": "Dekorasi"
+  },
+  {
+    "questions": "Kembang apa yang paling ditakuti?",
+    "answers": "Kembang-krut",
+    "clues": "Bangkrut"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di padang rumput?",
+    "answers": "Zebra",
+    "clues": "Warnanya hitam putih"
+  },
+  {
+    "questions": "Kenapa kalau ada yang pamer, kita tidak suka?",
+    "answers": "Karena sombong",
+    "clues": "Sifat tercela"
+  },
+  {
+    "questions": "Apa yang paling dicari saat ngantuk?",
+    "answers": "Kasur",
+    "clues": "Tempat tidur"
+  },
+  {
+    "questions": "Tas apa yang paling berat?",
+    "answers": "Tas-bih",
+    "clues": "Dosa"
+  },
+  {
+    "questions": "Kenapa kalau ada teman yang berhasil, kita ikut senang?",
+    "answers": "Karena sahabat",
+    "clues": "Ikut bangga"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di lumpur?",
+    "answers": "Kerbau",
+    "clues": "Suka berkubang"
+  },
+  {
+    "questions": "Apa bahasa Jawanya 'saya'?",
+    "answers": "Kulo",
+    "clues": "Bahasa halus"
+  },
+  {
+    "questions": "Kenapa kalau ada yang kentut, semua orang tutup hidung?",
+    "answers": "Karena bau",
+    "clues": "Aroma tidak sedap"
+  },
+  {
+    "questions": "Roti apa yang paling kejam?",
+    "answers": "Roti-bek",
+    "clues": "Roti-bek leher"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di atas genteng?",
+    "answers": "Kucing",
+    "clues": "Suka mencari tempat tinggi"
+  },
+  {
+    "questions": "Kenapa kalau ada yang melawak, kita tertawa?",
+    "answers": "Karena lucu",
+    "clues": "Humor"
+  },
+  {
+    "questions": "Apa yang paling ditakuti saat bangun tidur?",
+    "answers": "Kesiangan",
+    "clues": "Terlambat"
+  },
+  {
+    "questions": "Warteg apa yang ada di luar negeri?",
+    "answers": "Warteg-al",
+    "clues": "Portugal"
+  },
+  {
+    "questions": "Kenapa kalau ada yang meninggal, benderanya setengah tiang?",
+    "answers": "Karena kalau",
+    "clues": "Karena kalau satu tiang ketinggian"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di perpustakaan?",
+    "answers": "Kutu buku",
+    "clues": "Suka membaca"
+  },
+  {
+    "questions": "Apa bahasa Sundanya 'makan'?",
+    "answers": "Tuang",
+    "clues": "Bahasa halus"
+  },
+  {
+    "questions": "Kenapa kalau ada yang nyontek, gurunya marah?",
+    "answers": "Karena curang",
+    "clues": "Tidak jujur"
+  },
+  {
+    "questions": "Pintu apa yang paling aman?",
+    "answers": "Pintu-mat",
+    "clues": "Checkmate"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di gua?",
+    "answers": "Kelelawar",
+    "clues": "Hewan nokturnal"
+  },
+  {
+    "questions": "Kenapa kalau ada yang juara, dapat piala?",
+    "answers": "Sebagai hadiah",
+    "clues": "Penghargaan"
+  },
+  {
+    "questions": "Apa yang paling ditakuti saat punya hutang?",
+    "answers": "Debt collector",
+    "clues": "Penagih hutang"
+  },
+  {
+    "questions": "Gaji apa yang tidak pernah naik?",
+    "answers": "Gaji-gaji",
+    "clues": "Gaji-gaji dinding"
+  },
+  {
+    "questions": "Kenapa kalau ada yang telat, kita kesal?",
+    "answers": "Karena menunggu",
+    "clues": "Tidak tepat waktu"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di laboratorium?",
+    "answers": "Tikus putih",
+    "clues": "Objek penelitian"
+  },
+  {
+    "questions": "Apa bahasa Bataknya 'terima kasih'?",
+    "answers": "Mauliate",
+    "clues": "Ucapan syukur"
+  },
+  {
+    "questions": "Kenapa kalau ada yang minta tolong, kita bantu?",
+    "answers": "Karena peduli",
+    "clues": "Sifat sosial"
+  },
+  {
+    "questions": "Coklat apa yang paling besar?",
+    "answers": "Coklat-tah",
+    "clues": "Coklat-tah tak akan kulupakan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di sirkus?",
+    "answers": "Gajah",
+    "clues": "Atraksi"
+  },
+  {
+    "questions": "Kenapa kalau ada yang berbohong, kita marah?",
+    "answers": "Karena dibohongi",
+    "clues": "Tidak suka ditipu"
+  },
+  {
+    "questions": "Apa yang paling ditakuti saat di pantai?",
+    "answers": "Tsunami",
+    "clues": "Bencana alam"
+  },
+  {
+    "questions": "Bis apa yang tidak bisa jalan?",
+    "answers": "Bis-u",
+    "clues": "Tidak bisa bicara"
+  },
+  {
+    "questions": "Kenapa kalau ada yang sedih, kita peluk?",
+    "answers": "Memberi kekuatan",
+    "clues": "Dukungan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di film?",
+    "answers": "Anjing",
+    "clues": "Hachiko"
+  },
+  {
+    "questions": "Apa bahasa Minangnya 'berapa'?",
+    "answers": "Bara",
+    "clues": "Menanyakan harga"
+  },
+  {
+    "questions": "Kenapa kalau ada yang kedinginan, kita kasih selimut?",
+    "answers": "Biar hangat",
+    "clues": "Menjaga suhu tubuh"
+  },
+  {
+    "questions": "Kuda apa yang tidak punya kaki?",
+    "answers": "Kuda-catur",
+    "clues": "Bidak catur"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di taman?",
+    "answers": "Kupu-kupu",
+    "clues": "Indah"
+  },
+  {
+    "questions": "Kenapa kalau ada yang kepanasan, kita kasih kipas?",
+    "answers": "Biar adem",
+    "clues": "Menurunkan suhu"
+  },
+  {
+    "questions": "Apa yang paling ditakuti saat naik pesawat?",
+    "answers": "Turbulensi",
+    "clues": "Guncangan"
+  },
+  {
+    "questions": "Lampu apa yang paling terang?",
+    "answers": "Lampu-ng",
+    "clues": "Salah satu provinsi"
+  },
+  {
+    "questions": "Kenapa kalau ada yang lapar, kita kasih makan?",
+    "answers": "Biar kenyang",
+    "clues": "Kebutuhan dasar"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di dapur?",
+    "answers": "Tikus",
+    "clues": "Mencari makanan"
+  },
+  {
+    "questions": "Apa bahasa Balinya 'tidak'?",
+    "answers": "Ten",
+    "clues": "Angka"
+  },
+  {
+    "questions": "Kenapa kalau ada yang haus, kita kasih minum?",
+    "answers": "Biar tidak",
+    "clues": "Biar tidak dehidrasi"
+  },
+  {
+    "questions": "Jamu apa yang paling kuat?",
+    "answers": "Jamu-ntukmu",
+    "clues": "Hanya untukmu"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di atap rumah?",
+    "answers": "Burung gereja",
+    "clues": "Membuat sarang"
+  },
+  {
+    "questions": "Kenapa kalau ada yang ngantuk, kita suruh tidur?",
+    "answers": "Biar segar",
+    "clues": "Mengembalikan energi"
+  },
+  {
+    "questions": "Apa yang paling ditakuti saat musim hujan?",
+    "answers": "Banjir",
+    "clues": "Air meluap"
+  },
+  {
+    "questions": "Kain apa yang paling berat?",
+    "answers": "Kain-sin",
+    "clues": "Kain-sin aku ya Allah"
+  },
+  {
+    "questions": "Kenapa kalau ada yang sakit, kita jenguk?",
+    "answers": "Memberi semangat",
+    "clues": "Biar cepat sembuh"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di sekolah?",
+    "answers": "Siswa",
+    "clues": "Manusia"
+  },
+  {
+    "questions": "Apa bahasa Dayaknya 'air'?",
+    "answers": "Danum",
+    "clues": "Sumber kehidupan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang capek, kita suruh istirahat?",
+    "answers": "Memulihkan tenaga",
+    "clues": "Relaksasi"
+  },
+  {
+    "questions": "Buku apa yang tidak bisa dibaca?",
+    "answers": "Buku-ruas",
+    "clues": "Ada di jari"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di kantor?",
+    "answers": "Karyawan",
+    "clues": "Bekerja"
+  },
+  {
+    "questions": "Kenapa kalau ada yang menangis, kita tenangkan?",
+    "answers": "Biar berhenti",
+    "clues": "Biar berhenti menangis"
+  },
+  {
+    "questions": "Apa yang paling ditakuti saat kemarau?",
+    "answers": "Kekeringan",
+    "clues": "Kekurangan air"
+  },
+  {
+    "questions": "Pulau apa yang isinya penyesalan?",
+    "answers": "Pulau-pulang",
+    "clues": "Pulau-pulang saja"
+  },
+  {
+    "questions": "Kenapa kalau ada yang jatuh cinta, hatinya berdebar?",
+    "answers": "Karena senang",
+    "clues": "Perasaan bahagia"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di pasar?",
+    "answers": "Pembeli",
+    "clues": "Mencari kebutuhan"
+  },
+  {
+    "questions": "Apa bahasa Bugisnya 'rumah'?",
+    "answers": "Bola",
+    "clues": "Benda bulat"
+  },
+  {
+    "questions": "Kenapa kalau ada yang patah hati, jadi galau?",
+    "answers": "Karena sedih",
+    "clues": "Kecewa"
+  },
+  {
+    "questions": "Kera apa yang paling sakti?",
+    "answers": "Kera-sak",
+    "clues": "Sun Go Kong"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di masjid?",
+    "answers": "Jamaah",
+    "clues": "Beribadah"
+  },
+  {
+    "questions": "Kenapa kalau ada yang ulang tahun, dinyanyikan lagu?",
+    "answers": "Biar ramai",
+    "clues": "Memeriahkan suasana"
+  },
+  {
+    "questions": "Apa yang paling ditakuti saat pacaran?",
+    "answers": "Putus",
+    "clues": "Berpisah"
+  },
+  {
+    "questions": "Sapu apa yang paling cepat?",
+    "answers": "Sapu-erman",
+    "clues": "Pahlawan super"
+  },
+  {
+    "questions": "Kenapa kalau ada yang meninggal, ada tahlilan?",
+    "answers": "Mendoakan",
+    "clues": "Untuk arwah"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di gereja?",
+    "answers": "Umat",
+    "clues": "Mengikuti misa"
+  },
+  {
+    "questions": "Apa bahasa Maduranya 'garam'?",
+    "answers": "Uyah",
+    "clues": "Bumbu dapur"
+  },
+  {
+    "questions": "Kenapa kalau ada yang menikah, ada resepsi?",
+    "answers": "Merayakan",
+    "clues": "Berbagi kebahagiaan"
+  },
+  {
+    "questions": "Baju apa yang paling besar?",
+    "answers": "Baju-rag",
+    "clues": "Bajak laut"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di pura?",
+    "answers": "Pemedek",
+    "clues": "Bersembahyang"
+  },
+  {
+    "questions": "Kenapa kalau ada yang lulus, ada wisuda?",
+    "answers": "Seremoni",
+    "clues": "Kelulusan"
+  },
+  {
+    "questions": "Apa yang paling ditakuti saat menikah?",
+    "answers": "Cerai",
+    "clues": "Perceraian"
+  },
+  {
+    "questions": "Timun apa yang berbahaya?",
+    "answers": "Timun-curi",
+    "clues": "Mencuri"
+  },
+  {
+    "questions": "Kenapa kalau ada yang punya anak, ada aqiqah?",
+    "answers": "Syukuran",
+    "clues": "Atas kelahiran"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di vihara?",
+    "answers": "Biksu",
+    "clues": "Biarawan"
+  },
+  {
+    "questions": "Apa bahasa Sasaknya 'kamu'?",
+    "answers": "Side",
+    "clues": "Sisi"
+  },
+  {
+    "questions": "Kenapa kalau ada yang naik jabatan, ada syukuran?",
+    "answers": "Berterima kasih",
+    "clues": "Atas pencapaian"
+  },
+  {
+    "questions": "Kacang apa yang bisa terbang?",
+    "answers": "Kacang-kasa",
+    "clues": "Angkasa"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di klenteng?",
+    "answers": "Umat Konghucu",
+    "clues": "Beribadah"
+  },
+  {
+    "questions": "Kenapa kalau ada yang pindah rumah, ada selamatan?",
+    "answers": "Meminta berkah",
+    "clues": "Di tempat baru"
+  },
+  {
+    "questions": "Apa yang paling ditakuti saat punya anak?",
+    "answers": "Sakit",
+    "clues": "Kesehatan anak"
+  },
+  {
+    "questions": "Kue apa yang tidak bisa dimakan?",
+    "answers": "Kue-jar",
+    "clues": "Kue-jar maling"
+  },
+  {
+    "questions": "Kenapa kalau ada yang pergi haji, ada syukuran?",
+    "answers": "Mendoakan",
+    "clues": "Mendoakan keselamatan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di pengadilan?",
+    "answers": "Hakim",
+    "clues": "Manusia"
+  },
+  {
+    "questions": "Apa bahasa Osingnya 'matahari'?",
+    "answers": "Srengenge",
+    "clues": "Sumber cahaya"
+  },
+  {
+    "questions": "Kenapa kalau ada yang pulang haji, ada syukuran?",
+    "answers": "Bersyukur",
+    "clues": "Bersyukur sudah kembali"
+  },
+  {
+    "questions": "Ikan apa yang tidak punya kepala?",
+    "answers": "Ikan-bilang",
+    "clues": "Ikan-bilang saja"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di rumah sakit?",
+    "answers": "Pasien",
+    "clues": "Orang sakit"
+  },
+  {
+    "questions": "Kenapa kalau ada yang bangun rumah, ada selamatan?",
+    "answers": "Meminta izin",
+    "clues": "Meminta izin kepada leluhur"
+  },
+  {
+    "questions": "Apa yang paling ditakuti saat tua?",
+    "answers": "Penyakit",
+    "clues": "Kesehatan menurun"
+  },
+  {
+    "questions": "Tembok apa yang bisa bicara?",
+    "answers": "Tembok-ar",
+    "clues": "Tembok-ar rahasia"
+  },
+  {
+    "questions": "Kenapa kalau ada yang panen, ada syukuran?",
+    "answers": "Bersyukur",
+    "clues": "Bersyukur atas hasil panen"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di panggung?",
+    "answers": "Penyanyi",
+    "clues": "Menghibur"
+  },
+  {
+    "questions": "Apa bahasa Betawinya 'saya'?",
+    "answers": "Gue",
+    "clues": "Kata ganti orang"
+  },
+  {
+    "questions": "Kenapa kalau ada yang buka usaha, ada syukuran?",
+    "answers": "Meminta kelancaran",
+    "clues": "Biar sukses"
+  },
+  {
+    "questions": "Anjing apa yang tidak menggonggong?",
+    "answers": "Anjing-an",
+    "clues": "Anjing-an palsu"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di studio?",
+    "answers": "Artis",
+    "clues": "Syuting"
+  },
+  {
+    "questions": "Kenapa kalau ada yang mau berangkat, kita doakan?",
+    "answers": "Biar selamat",
+    "clues": "Harapan"
+  },
+  {
+    "questions": "Apa yang paling ditakuti saat mati?",
+    "answers": "Dosa",
+    "clues": "Perbuatan buruk"
+  },
+  {
+    "questions": "Kambing apa yang paling ditakuti?",
+    "answers": "Kambing-atan",
+    "clues": "Kambing-atan setan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang datang, kita sambut?",
+    "answers": "Menghormati",
+    "clues": "Tamu"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di lapangan?",
+    "answers": "Pemain bola",
+    "clues": "Olahraga"
+  },
+  {
+    "questions": "Apa bahasa Gayonya 'satu'?",
+    "answers": "Sara",
+    "clues": "Nama orang"
+  },
+  {
+    "questions": "Kenapa kalau ada yang pergi, kita lambaikan tangan?",
+    "answers": "Salam perpisahan",
+    "clues": "Sampai jumpa"
+  },
+  {
+    "questions": "Bebek apa yang paling berat?",
+    "answers": "Bebek-al",
+    "clues": "Bebek-al dosa"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di ring tinju?",
+    "answers": "Petinju",
+    "clues": "Bertarung"
+  },
+  {
+    "questions": "Kenapa kalau ada yang memberi, kita ucapkan terima kasih?",
+    "answers": "Menghargai",
+    "clues": "Pemberian"
+  },
+  {
+    "questions": "Apa yang paling dirindukan saat jauh dari rumah?",
+    "answers": "Keluarga",
+    "clues": "Orang tua"
+  },
+  {
+    "questions": "Ular apa yang paling lucu?",
+    "answers": "Ular-ang",
+    "clues": "Ular-ang tahun"
+  },
+  {
+    "questions": "Kenapa kalau ada yang dibantu, kita ucapkan terima kasih?",
+    "answers": "Sopan santun",
+    "clues": "Etika"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di lintasan balap?",
+    "answers": "Pembalap",
+    "clues": "Mengendarai"
+  },
+  {
+    "questions": "Apa bahasa Acehnya 'lima'?",
+    "answers": "Leumo",
+    "clues": "Sapi"
+  },
+  {
+    "questions": "Kenapa kalau ada yang minta maaf, kita maafkan?",
+    "answers": "Biar tidak",
+    "clues": "Biar tidak ada dendam"
+  },
+  {
+    "questions": "Ayam apa yang paling dingin?",
+    "answers": "Ayam-bek",
+    "clues": "Membeku"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di kolam renang?",
+    "answers": "Perenang",
+    "clues": "Atlet"
+  },
+  {
+    "questions": "Kenapa kalau ada yang berterima kasih, kita jawab sama-sama?",
+    "answers": "Balasan",
+    "clues": "Respon"
+  },
+  {
+    "questions": "Apa yang paling diingat dari sekolah?",
+    "answers": "Kenangan",
+    "clues": "Masa lalu"
+  },
+  {
+    "questions": "Tikus apa yang paling besar?",
+    "answers": "Tikus-ruk",
+    "clues": "Tikus-ruk kontainer"
+  },
+  {
+    "questions": "Kenapa kalau ada yang memaafkan, kita merasa lega?",
+    "answers": "Beban hilang",
+    "clues": "Perasaan ringan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di panggung sandiwara?",
+    "answers": "Aktor",
+    "clues": "Pemeran"
+  },
+  {
+    "questions": "Apa bahasa Rejangnya 'tiga'?",
+    "answers": "Telu",
+    "clues": "Angka"
+  },
+  {
+    "questions": "Kenapa kalau ada yang berbuat baik, kita puji?",
+    "answers": "Motivasi",
+    "clues": "Biar terus berbuat baik"
+  },
+  {
+    "questions": "Cicak apa yang paling ditakuti?",
+    "answers": "Cicak-ram",
+    "clues": "Cicak-ram kuku"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di lokasi syuting?",
+    "answers": "Sutradara",
+    "clues": "Mengatur"
+  },
+  {
+    "questions": "Kenapa kalau ada yang berbuat jahat, kita hukum?",
+    "answers": "Biar jera",
+    "clues": "Efek jera"
+  },
+  {
+    "questions": "Apa yang paling berkesan dari masa kecil?",
+    "answers": "Permainan",
+    "clues": "Bermain bersama teman"
+  },
+  {
+    "questions": "Burung apa yang paling kaya?",
+    "answers": "Burung-gas",
+    "clues": "Burung-gas jualan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang jujur, kita hargai?",
+    "answers": "Karena langka",
+    "clues": "Sifat mulia"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di podium?",
+    "answers": "Juara",
+    "clues": "Pemenang"
+  },
+  {
+    "questions": "Apa bahasa Melayunya 'enam'?",
+    "answers": "Enam",
+    "clues": "Sama saja"
+  },
+  {
+    "questions": "Kenapa kalau ada yang curang, kita benci?",
+    "answers": "Tidak adil",
+    "clues": "Merugikan orang lain"
+  },
+  {
+    "questions": "Katak apa yang paling berat?",
+    "answers": "Katak-utan",
+    "clues": "Dosa"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di belakang layar?",
+    "answers": "Kru",
+    "clues": "Tim produksi"
+  },
+  {
+    "questions": "Kenapa kalau ada yang adil, kita dukung?",
+    "answers": "Keadilan",
+    "clues": "Keadilan harus ditegakkan"
+  },
+  {
+    "questions": "Apa yang paling dirindukan dari mantan?",
+    "answers": "Tidak ada",
+    "clues": "Sudah move on"
+  },
+  {
+    "questions": "Monyet apa yang paling besar?",
+    "answers": "Monyet-rumen",
+    "clues": "Monumen"
+  },
+  {
+    "questions": "Kenapa kalau ada yang bijaksana, kita hormati?",
+    "answers": "Penuh nasihat",
+    "clues": "Panutan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di mimbar?",
+    "answers": "Khatib",
+    "clues": "Berceramah"
+  },
+  {
+    "questions": "Apa bahasa Gorontalonya 'sembilan'?",
+    "answers": "Tiyo",
+    "clues": "Angka"
+  },
+  {
+    "questions": "Kenapa kalau ada yang sombong, kita jauhi?",
+    "answers": "Menyebalkan",
+    "clues": "Sifat buruk"
+  },
+  {
+    "questions": "Kuda apa yang paling enak?",
+    "answers": "Kuda-pat",
+    "clues": "Kuda-pat makan gratis"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di kelas?",
+    "answers": "Guru",
+    "clues": "Mengajar"
+  },
+  {
+    "questions": "Kenapa kalau ada yang rendah hati, kita suka?",
+    "answers": "Tidak sombong",
+    "clues": "Sifat baik"
+  },
+  {
+    "questions": "Apa yang paling membahagiakan di dunia?",
+    "answers": "Keluarga",
+    "clues": "Harta yang paling berharga"
+  },
+  {
+    "questions": "Sapi apa yang paling cepat?",
+    "answers": "Sapi-da",
+    "clues": "Sepeda motor"
+  },
+  {
+    "questions": "Kenapa kalau ada yang sabar, kita kagum?",
+    "answers": "Tahan uji",
+    "clues": "Kuat mental"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di bengkel?",
+    "answers": "Mekanik",
+    "clues": "Montir"
+  },
+  {
+    "questions": "Apa bahasa Makassarnya 'ikan'?",
+    "answers": "Bale",
+    "clues": "Bangunan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang pemarah, kita takuti?",
+    "answers": "Gampang emosi",
+    "clues": "Tidak stabil"
+  },
+  {
+    "questions": "Kelinci apa yang paling besar?",
+    "answers": "Kelinci-ngan",
+    "clues": "Kelinci-ngan dunia"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di restoran?",
+    "answers": "Koki",
+    "clues": "Memasak"
+  },
+  {
+    "questions": "Kenapa kalau ada yang penyayang, kita suka?",
+    "answers": "Penuh kasih",
+    "clues": "Perhatian"
+  },
+  {
+    "questions": "Apa yang paling menyedihkan di dunia?",
+    "answers": "Perpisahan",
+    "clues": "Kehilangan"
+  },
+  {
+    "questions": "Kambing apa yang paling tinggi?",
+    "answers": "Kambing-kat",
+    "clues": "Kambing-kat gedung"
+  },
+  {
+    "questions": "Kenapa kalau ada yang pendendam, kita jauhi?",
+    "answers": "Berbahaya",
+    "clues": "Penuh kebencian"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di hotel?",
+    "answers": "Tamu",
+    "clues": "Menginap"
+  },
+  {
+    "questions": "Apa bahasa Belitungnya 'pulang'?",
+    "answers": "Balek",
+    "clues": "Kembali"
+  },
+  {
+    "questions": "Kenapa kalau ada yang pemaaf, kita hargai?",
+    "answers": "Hatinya lapang",
+    "clues": "Baik hati"
+  },
+  {
+    "questions": "Ular apa yang paling panjang?",
+    "answers": "Ular-asan",
+    "clues": "Ular-asan macet"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di toko?",
+    "answers": "Penjaga toko",
+    "clues": "Melayani"
+  },
+  {
+    "questions": "Kenapa kalau ada yang dermawan, kita kagum?",
+    "answers": "Suka memberi",
+    "clues": "Tidak pelit"
+  },
+  {
+    "questions": "Apa yang paling menakutkan di dunia?",
+    "answers": "Kematian",
+    "clues": "Akhir dari kehidupan"
+  },
+  {
+    "questions": "Ayam apa yang paling besar?",
+    "answers": "Ayam-an",
+    "clues": "Ayam-an dunia"
+  },
+  {
+    "questions": "Kenapa kalau ada yang pelit, kita tidak suka?",
+    "answers": "Susah diminta",
+    "clues": "Tidak mau berbagi"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di bank?",
+    "answers": "Teller",
+    "clues": "Pegawai"
+  },
+  {
+    "questions": "Apa bahasa Niasnya 'babi'?",
+    "answers": "Bawi",
+    "clues": "Hewan ternak"
+  },
+  {
+    "questions": "Kenapa kalau ada yang rajin, kita contoh?",
+    "answers": "Biar sukses",
+    "clues": "Teladan"
+  },
+  {
+    "questions": "Tikus apa yang paling ditakuti?",
+    "answers": "Tikus-ut",
+    "clues": "Tikus-ut neraka"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di bandara?",
+    "answers": "Pilot",
+    "clues": "Menerbangkan pesawat"
+  },
+  {
+    "questions": "Kenapa kalau ada yang malas, kita tegur?",
+    "answers": "Biar rajin",
+    "clues": "Masa depan suram"
+  },
+  {
+    "questions": "Apa yang paling membosankan di dunia?",
+    "answers": "Menunggu",
+    "clues": "Ketidakpastian"
+  },
+  {
+    "questions": "Cicak apa yang paling besar?",
+    "answers": "Cicak-rawala",
+    "clues": "Cakrawala"
+  },
+  {
+    "questions": "Kenapa kalau ada yang disiplin, kita kagum?",
+    "answers": "Tepat waktu",
+    "clues": "Teratur"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di stasiun?",
+    "answers": "Masinis",
+    "clues": "Menjalankan kereta"
+  },
+  {
+    "questions": "Apa bahasa Tolakinya 'sawah'?",
+    "answers": "Oma",
+    "clues": "Nenek"
+  },
+  {
+    "questions": "Kenapa kalau ada yang suka telat, kita kesal?",
+    "answers": "Tidak menghargai",
+    "clues": "Tidak menghargai waktu"
+  },
+  {
+    "questions": "Burung apa yang paling berat?",
+    "answers": "Burung-kas",
+    "clues": "Burung-kas masalah"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di pelabuhan?",
+    "answers": "Nahkoda",
+    "clues": "Mengemudikan kapal"
+  },
+  {
+    "questions": "Kenapa kalau ada yang sopan, kita suka?",
+    "answers": "Beretika",
+    "clues": "Menghormati orang lain"
+  },
+  {
+    "questions": "Apa yang paling menyenangkan di dunia?",
+    "answers": "Liburan",
+    "clues": "Jalan-jalan"
+  },
+  {
+    "questions": "Katak apa yang paling ditakuti?",
+    "answers": "Katak-utan",
+    "clues": "Katak-utan akan masa depan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang kasar, kita tidak suka?",
+    "answers": "Tidak sopan",
+    "clues": "Menyakiti perasaan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di terminal?",
+    "answers": "Supir bus",
+    "clues": "Mengantar penumpang"
+  },
+  {
+    "questions": "Apa bahasa Mandonya 'tidur'?",
+    "answers": "Leno",
+    "clues": "Istirahat"
+  },
+  {
+    "questions": "Kenapa kalau ada yang ramah, kita senang?",
+    "answers": "Mudah bergaul",
+    "clues": "Menyenangkan"
+  },
+  {
+    "questions": "Monyet apa yang paling ditakuti?",
+    "answers": "Monyet-op",
+    "clues": "Monyet-op jantung"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di halte?",
+    "answers": "Penumpang",
+    "clues": "Menunggu bus"
+  },
+  {
+    "questions": "Kenapa kalau ada yang jutek, kita jauhi?",
+    "answers": "Tidak ramah",
+    "clues": "Bikin tidak nyaman"
+  },
+  {
+    "questions": "Apa yang paling melelahkan di dunia?",
+    "answers": "Kerja",
+    "clues": "Mencari uang"
+  },
+  {
+    "questions": "Kuda apa yang paling ditakuti?",
+    "answers": "Kuda-pat",
+    "clues": "Kuda-pat musibah"
+  },
+  {
+    "questions": "Kenapa kalau ada yang ceria, kita ikut senang?",
+    "answers": "Menularkan",
+    "clues": "Menularkan energi positif"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di jalan raya?",
+    "answers": "Pengendara",
+    "clues": "Berkendara"
+  },
+  {
+    "questions": "Apa bahasa Sumbawanya 'kucing'?",
+    "answers": "Meong",
+    "clues": "Suaranya"
+  },
+  {
+    "questions": "Kenapa kalau ada yang murung, kita hibur?",
+    "answers": "Biar ceria",
+    "clues": "Rasa simpati"
+  },
+  {
+    "questions": "Sapi apa yang paling ditakuti?",
+    "answers": "Sapi-t",
+    "clues": "Sapi-t tank"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di trotoar?",
+    "answers": "Pejalan kaki",
+    "clues": "Berjalan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang optimis, kita kagum?",
+    "answers": "Selalu positif",
+    "clues": "Penuh harapan"
+  },
+  {
+    "questions": "Apa yang paling menantang di dunia?",
+    "answers": "Masa depan",
+    "clues": "Penuh misteri"
+  },
+  {
+    "questions": "Kelinci apa yang paling ditakuti?",
+    "answers": "Kelinci-rit",
+    "clues": "Kelinci-rit utang"
+  },
+  {
+    "questions": "Kenapa kalau ada yang pesimis, kita semangati?",
+    "answers": "Biar optimis",
+    "clues": "Memberi harapan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di jembatan penyeberangan?",
+    "answers": "Penyeberang",
+    "clues": "Melintas"
+  },
+  {
+    "questions": "Apa bahasa Biaknya 'tangan'?",
+    "answers": "Rima",
+    "clues": "Sajak"
+  },
+  {
+    "questions": "Kenapa kalau ada yang pemberani, kita kagum?",
+    "answers": "Tidak takut",
+    "clues": "Mengambil risiko"
+  },
+  {
+    "questions": "Kambing apa yang paling menakutkan?",
+    "answers": "Kambing-kar",
+    "clues": "Kambing-kar rumah"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di zebra cross?",
+    "answers": "Zebra",
+    "clues": "Sesuai namanya"
+  },
+  {
+    "questions": "Kenapa kalau ada yang penakut, kita lindungi?",
+    "answers": "Biar berani",
+    "clues": "Memberi rasa aman"
+  },
+  {
+    "questions": "Apa yang paling misterius di dunia?",
+    "answers": "Hati manusia",
+    "clues": "Sulit ditebak"
+  },
+  {
+    "questions": "Ular apa yang paling ditakuti?",
+    "answers": "Ular-angan",
+    "clues": "Ular-angan dosa"
+  },
+  {
+    "questions": "Kenapa kalau ada yang kreatif, kita apresiasi?",
+    "answers": "Penuh ide",
+    "clues": "Inovatif"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di lampu merah?",
+    "answers": "Pengamen",
+    "clues": "Mencari uang"
+  },
+  {
+    "questions": "Apa bahasa Simalungnya 'pergi'?",
+    "answers": "Lao",
+    "clues": "Negara tetangga"
+  },
+  {
+    "questions": "Kenapa kalau ada yang monoton, kita bosan?",
+    "answers": "Tidak ada",
+    "clues": "Tidak ada variasi"
+  },
+  {
+    "questions": "Ayam apa yang paling menakutkan?",
+    "answers": "Ayam-an",
+    "clues": "Ayam-an kematian"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di pos polisi?",
+    "answers": "Polisi",
+    "clues": "Bertugas"
+  },
+  {
+    "questions": "Kenapa kalau ada yang humoris, kita suka?",
+    "answers": "Bikin tertawa",
+    "clues": "Menghibur"
+  },
+  {
+    "questions": "Apa yang paling indah di dunia?",
+    "answers": "Kebersamaan",
+    "clues": "Bersama keluarga"
+  },
+  {
+    "questions": "Tikus apa yang paling menakutkan?",
+    "answers": "Tikus-uk",
+    "clues": "Tikus-uk dari belakang"
+  },
+  {
+    "questions": "Kenapa kalau ada yang serius, kita segan?",
+    "answers": "Tidak suka",
+    "clues": "Tidak suka bercanda"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di pos satpam?",
+    "answers": "Satpam",
+    "clues": "Menjaga"
+  },
+  {
+    "questions": "Apa bahasa Kailinya 'kaki'?",
+    "answers": "Aje",
+    "clues": "Kata ajakan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang setia, kita hargai?",
+    "answers": "Tidak berkhianat",
+    "clues": "Bisa dipercaya"
+  },
+  {
+    "questions": "Cicak apa yang paling menakutkan?",
+    "answers": "Cicak-ar",
+    "clues": "Cicak-ar maut"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di pos hansip?",
+    "answers": "Hansip",
+    "clues": "Ronda"
+  },
+  {
+    "questions": "Kenapa kalau ada yang suka selingkuh, kita benci?",
+    "answers": "Tidak setia",
+    "clues": "Pengkhianat"
+  },
+  {
+    "questions": "Apa yang paling berharga di dunia?",
+    "answers": "Waktu",
+    "clues": "Tidak bisa diulang"
+  },
+  {
+    "questions": "Burung apa yang paling menakutkan?",
+    "answers": "Burung-kasan",
+    "clues": "Burung-kasan maut"
+  },
+  {
+    "questions": "Kenapa kalau ada yang mandiri, kita kagum?",
+    "answers": "Tidak bergantung",
+    "clues": "Bisa sendiri"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di pos ronda?",
+    "answers": "Warga",
+    "clues": "Jaga malam"
+  },
+  {
+    "questions": "Apa bahasa Bangkanya 'ikan'?",
+    "answers": "Iken",
+    "clues": "Nama orang"
+  },
+  {
+    "questions": "Kenapa kalau ada yang manja, kita tidak suka?",
+    "answers": "Selalu bergantung",
+    "clues": "Tidak mandiri"
+  },
+  {
+    "questions": "Katak apa yang paling menakutkan?",
+    "answers": "Katak-ut",
+    "clues": "Katak-ut kehilanganmu"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di istana?",
+    "answers": "Raja",
+    "clues": "Pemimpin"
+  },
+  {
+    "questions": "Kenapa kalau ada yang tanggung jawab, kita hargai?",
+    "answers": "Amanah",
+    "clues": "Bisa diandalkan"
+  },
+  {
+    "questions": "Apa yang paling cepat di dunia?",
+    "answers": "Pikiran",
+    "clues": "Bisa kemana saja"
+  },
+  {
+    "questions": "Monyet apa yang paling menakutkan?",
+    "answers": "Monyet-rum",
+    "clues": "Monyet-rum listrik"
+  },
+  {
+    "questions": "Kenapa kalau ada yang lari dari tanggung jawab, kita benci?",
+    "answers": "Tidak amanah",
+    "clues": "Tidak bisa diandalkan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di kerajaan?",
+    "answers": "Ratu",
+    "clues": "Istri raja"
+  },
+  {
+    "questions": "Apa bahasa Tidungnya 'satu'?",
+    "answers": "Salat",
+    "clues": "Ibadah"
+  },
+  {
+    "questions": "Kenapa kalau ada yang berani berbuat, berani bertanggung jawab, kita puji?",
+    "answers": "Ksatria",
+    "clues": "Sikap jantan"
+  },
+  {
+    "questions": "Kuda apa yang paling menakutkan?",
+    "answers": "Kuda-pat",
+    "clues": "Kuda-pat azab"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di DPR?",
+    "answers": "Anggota DPR",
+    "clues": "Wakil rakyat"
+  },
+  {
+    "questions": "Kenapa kalau ada yang hanya berani berbuat, tidak berani bertanggung jawab, kita caci?",
+    "answers": "Pengecut",
+    "clues": "Tidak jantan"
+  },
+  {
+    "questions": "Apa yang paling lambat di dunia?",
+    "answers": "Siput",
+    "clues": "Jalannya pelan"
+  },
+  {
+    "questions": "Sapi apa yang paling menakutkan?",
+    "answers": "Sapi-kratul",
+    "clues": "Sapi-kratul maut"
+  },
+  {
+    "questions": "Kenapa kalau ada yang berprestasi, kita beri penghargaan?",
+    "answers": "Apresiasi",
+    "clues": "Menghargai usaha"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di MPR?",
+    "answers": "Anggota MPR",
+    "clues": "Lembaga tinggi"
+  },
+  {
+    "questions": "Apa bahasa Kanayatnya 'mata'?",
+    "answers": "Mata'",
+    "clues": "Sama saja"
+  },
+  {
+    "questions": "Kenapa kalau ada yang gagal, kita beri dukungan?",
+    "answers": "Biar bangkit",
+    "clues": "Jangan menyerah"
+  },
+  {
+    "questions": "Kelinci apa yang paling menakutkan?",
+    "answers": "Kelinci-lakaan",
+    "clues": "Kecelakaan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di DPD?",
+    "answers": "Anggota DPD",
+    "clues": "Senator"
+  },
+  {
+    "questions": "Kenapa kalau ada yang sukses, kita jadikan inspirasi?",
+    "answers": "Contoh",
+    "clues": "Role model"
+  },
+  {
+    "questions": "Apa yang paling kuat di dunia?",
+    "answers": "Doa ibu",
+    "clues": "Mustajab"
+  },
+  {
+    "questions": "Kambing apa yang paling seram?",
+    "answers": "Kambing-sun",
+    "clues": "Kambing-sun kubur"
+  },
+  {
+    "questions": "Kenapa kalau ada yang terpuruk, kita bantu bangkit?",
+    "answers": "Solidaritas",
+    "clues": "Rasa persaudaraan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di Mahkamah Agung?",
+    "answers": "Hakim Agung",
+    "clues": "Jabatan tinggi"
+  },
+  {
+    "questions": "Apa bahasa Abunnya 'duduk'?",
+    "answers": "Win",
+    "clues": "Menang"
+  },
+  {
+    "questions": "Kenapa kalau ada yang di atas, kita hormati?",
+    "answers": "Menghargai",
+    "clues": "Menghargai posisi"
+  },
+  {
+    "questions": "Ular apa yang paling seram?",
+    "answers": "Ular-i",
+    "clues": "Ular-i dari kenyataan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di Mahkamah Konstitusi?",
+    "answers": "Hakim",
+    "clues": "Hakim Konstitusi"
+  },
+  {
+    "questions": "Kenapa kalau ada yang di bawah, kita bantu naik?",
+    "answers": "Kemanusiaan",
+    "clues": "Saling menolong"
+  },
+  {
+    "questions": "Apa yang paling lemah di dunia?",
+    "answers": "Hati",
+    "clues": "Hati yang tersakiti"
+  },
+  {
+    "questions": "Ayam apa yang paling seram?",
+    "answers": "Ayam-an",
+    "clues": "Ayam-an neraka"
+  },
+  {
+    "questions": "Kenapa kalau ada yang di depan, kita ikuti?",
+    "answers": "Pemimpin",
+    "clues": "Memberi arah"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di Komisi Yudisial?",
+    "answers": "Anggota",
+    "clues": "Anggota Komisi Yudisial"
+  },
+  {
+    "questions": "Apa bahasa Wolionya 'bulan'?",
+    "answers": "Wula",
+    "clues": "Benda langit"
+  },
+  {
+    "questions": "Kenapa kalau ada yang di belakang, kita dorong?",
+    "answers": "Memberi semangat",
+    "clues": "Biar maju"
+  },
+  {
+    "questions": "Tikus apa yang paling seram?",
+    "answers": "Tikus-uk",
+    "clues": "Tikus-uk kubur"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di KPU?",
+    "answers": "Anggota KPU",
+    "clues": "Penyelenggara pemilu"
+  },
+  {
+    "questions": "Kenapa kalau ada yang memimpin, kita dukung?",
+    "answers": "Biar maju",
+    "clues": "Untuk kemajuan bersama"
+  },
+  {
+    "questions": "Apa yang paling panas di dunia?",
+    "answers": "Api cemburu",
+    "clues": "Membakar hati"
+  },
+  {
+    "questions": "Cicak apa yang paling seram?",
+    "answers": "Cicak-arat",
+    "clues": "Cicak-arat maut"
+  },
+  {
+    "questions": "Kenapa kalau ada yang dipimpin, kita patuh?",
+    "answers": "Tertib",
+    "clues": "Mengikuti aturan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di Bawaslu?",
+    "answers": "Anggota",
+    "clues": "Anggota Bawaslu"
+  },
+  {
+    "questions": "Apa bahasa Baduynya 'angin'?",
+    "answers": "Angin",
+    "clues": "Sama saja"
+  },
+  {
+    "questions": "Kenapa kalau ada yang memberi arahan, kita ikuti?",
+    "answers": "Biar tidak",
+    "clues": "Biar tidak tersesat"
+  },
+  {
+    "questions": "Burung apa yang paling seram?",
+    "answers": "Burung-sian",
+    "clues": "Burung-sian kubur"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di BPK?",
+    "answers": "Anggota BPK",
+    "clues": "Auditor"
+  },
+  {
+    "questions": "Kenapa kalau ada yang memberi petunjuk, kita ikuti?",
+    "answers": "Menemukan jalan",
+    "clues": "Solusi"
+  },
+  {
+    "questions": "Apa yang paling dingin di dunia?",
+    "answers": "Sikapmu",
+    "clues": "Cuek"
+  },
+  {
+    "questions": "Katak apa yang paling seram?",
+    "answers": "Katak-waan",
+    "clues": "Katak-waan kepada Tuhan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang mengajar, kita belajar?",
+    "answers": "Biar pintar",
+    "clues": "Menambah ilmu"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di Bank Indonesia?",
+    "answers": "Gubernur BI",
+    "clues": "Pejabat"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'what'?",
+    "answers": "Apa",
+    "clues": "Kata tanya"
+  },
+  {
+    "questions": "Kenapa kalau ada yang belajar, kita dukung?",
+    "answers": "Mencerdaskan",
+    "clues": "Mencerdaskan bangsa"
+  },
+  {
+    "questions": "Monyet apa yang paling seram?",
+    "answers": "Monyet-an",
+    "clues": "Monyet-an palsu"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di OJK?",
+    "answers": "Anggota OJK",
+    "clues": "Pengawas"
+  },
+  {
+    "questions": "Kenapa kalau ada yang bekerja, kita hargai?",
+    "answers": "Mencari nafkah",
+    "clues": "Usaha"
+  },
+  {
+    "questions": "Apa yang paling terang di dunia?",
+    "answers": "Masa depanmu",
+    "clues": "Masa depanmu bersamaku"
+  },
+  {
+    "questions": "Kuda apa yang paling seram?",
+    "answers": "Kuda-tangi",
+    "clues": "Kuda-tangi malaikat maut"
+  },
+  {
+    "questions": "Kenapa kalau ada yang menganggur, kita bantu cari kerja?",
+    "answers": "Biar produktif",
+    "clues": "Gotong royong"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di LPS?",
+    "answers": "Anggota LPS",
+    "clues": "Penjamin"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'who'?",
+    "answers": "Siapa",
+    "clues": "Menanyakan orang"
+  },
+  {
+    "questions": "Kenapa kalau ada yang berusaha, kita dukung?",
+    "answers": "Menuju sukses",
+    "clues": "Proses"
+  },
+  {
+    "questions": "Sapi apa yang paling seram?",
+    "answers": "Sapi-ru",
+    "clues": "Sapi-ru neraka"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di KPK?",
+    "answers": "Penyidik",
+    "clues": "Pemberantas korupsi"
+  },
+  {
+    "questions": "Kenapa kalau ada yang menyerah, kita semangati?",
+    "answers": "Jangan putus",
+    "clues": "Jangan putus asa"
+  },
+  {
+    "questions": "Apa yang paling gelap di dunia?",
+    "answers": "Masa lalu",
+    "clues": "Masa lalu kelam"
+  },
+  {
+    "questions": "Kelinci apa yang paling seram?",
+    "answers": "Kelinci-rat",
+    "clues": "Kelinci-rat kematian"
+  },
+  {
+    "questions": "Kenapa kalau ada yang berjuang, kita bantu?",
+    "answers": "Saling mendukung",
+    "clues": "Kawan sejati"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di Komnas HAM?",
+    "answers": "Anggota",
+    "clues": "Anggota Komnas HAM"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'where'?",
+    "answers": "Di mana",
+    "clues": "Menanyakan tempat"
+  },
+  {
+    "questions": "Kenapa kalau ada yang pasrah, kita kuatkan?",
+    "answers": "Biar tegar",
+    "clues": "Menghadapi cobaan"
+  },
+  {
+    "questions": "Kambing apa yang paling menakutkan?",
+    "answers": "Kambing-karat",
+    "clues": "Kambing-karat jiwa"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di Ombudsman?",
+    "answers": "Anggota",
+    "clues": "Anggota Ombudsman"
+  },
+  {
+    "questions": "Kenapa kalau ada yang bersyukur, kita ikut senang?",
+    "answers": "Menghargai",
+    "clues": "Menghargai nikmat"
+  },
+  {
+    "questions": "Apa yang paling manis di dunia?",
+    "answers": "Janji manismu",
+    "clues": "Gombal"
+  },
+  {
+    "questions": "Ular apa yang paling menakutkan?",
+    "answers": "Ular-angan",
+    "clues": "Ular-angan dosa masa lalu"
+  },
+  {
+    "questions": "Kenapa kalau ada yang mengeluh, kita dengarkan?",
+    "answers": "Beban berkurang",
+    "clues": "Teman curhat"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di KPAI?",
+    "answers": "Anggota KPAI",
+    "clues": "Pelindung anak"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'when'?",
+    "answers": "Kapan",
+    "clues": "Menanyakan waktu"
+  },
+  {
+    "questions": "Kenapa kalau ada yang bahagia, kita ikut bahagia?",
+    "answers": "Bahagia itu",
+    "clues": "Bahagia itu menular"
+  },
+  {
+    "questions": "Ayam apa yang paling menakutkan?",
+    "answers": "Ayam-an",
+    "clues": "Ayam-an kematian yang mendekat"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di Komisi Kejaksaan?",
+    "answers": "Anggota",
+    "clues": "Anggota Komisi Kejaksaan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang sedih, kita hibur?",
+    "answers": "Biar tersenyum",
+    "clues": "Mengembalikan keceriaan"
+  },
+  {
+    "questions": "Apa yang paling pahit di dunia?",
+    "answers": "Kenyataan",
+    "clues": "Tidak sesuai harapan"
+  },
+  {
+    "questions": "Tikus apa yang paling menakutkan?",
+    "answers": "Tikus-ut",
+    "clues": "Tikus-ut akan kehilanganmu"
+  },
+  {
+    "questions": "Kenapa kalau ada yang marah, kita redam?",
+    "answers": "Biar tidak",
+    "clues": "Biar tidak berlarut-larut"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di Komisi Kepolisian?",
+    "answers": "Anggota",
+    "clues": "Anggota Komisi Kepolisian"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'why'?",
+    "answers": "Mengapa",
+    "clues": "Menanyakan sebab"
+  },
+  {
+    "questions": "Kenapa kalau ada yang kecewa, kita semangati?",
+    "answers": "Biar tidak",
+    "clues": "Biar tidak putus asa"
+  },
+  {
+    "questions": "Cicak apa yang paling menakutkan?",
+    "answers": "Cicak-ap",
+    "clues": "Cicak-ap berkata kasar"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di Dewan Pers?",
+    "answers": "Anggota",
+    "clues": "Anggota Dewan Pers"
+  },
+  {
+    "questions": "Kenapa kalau ada yang gembira, kita ikut gembira?",
+    "answers": "Ikut merasakan",
+    "clues": "Ikut merasakan kegembiraan"
+  },
+  {
+    "questions": "Apa yang paling asin di dunia?",
+    "answers": "Air mata",
+    "clues": "Air mata kesedihan"
+  },
+  {
+    "questions": "Burung apa yang paling menakutkan?",
+    "answers": "Burung-sangka",
+    "clues": "Burung-sangka maut"
+  },
+  {
+    "questions": "Kenapa kalau ada yang berduka, kita ucapkan belasungkawa?",
+    "answers": "Ikut berduka",
+    "clues": "Simpati"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di KPI?",
+    "answers": "Anggota KPI",
+    "clues": "Pengawas penyiaran"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'how'?",
+    "answers": "Bagaimana",
+    "clues": "Menanyakan cara"
+  },
+  {
+    "questions": "Kenapa kalau ada yang merayakan, kita ikut merayakan?",
+    "answers": "Berbagi",
+    "clues": "Berbagi kebahagiaan"
+  },
+  {
+    "questions": "Katak apa yang paling menakutkan?",
+    "answers": "Katak-utan",
+    "clues": "Katak-utan dosa"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di KPPU?",
+    "answers": "Anggota KPPU",
+    "clues": "Pengawas persaingan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang berdoa, kita aminkan?",
+    "answers": "Semoga terkabul",
+    "clues": "Harapan bersama"
+  },
+  {
+    "questions": "Apa yang paling asam di dunia?",
+    "answers": "Wajahmu",
+    "clues": "Wajahmu saat cemberut"
+  },
+  {
+    "questions": "Monyet apa yang paling menakutkan?",
+    "answers": "Monyet-an",
+    "clues": "Monyet-an jahat"
+  },
+  {
+    "questions": "Kenapa kalau ada yang berusaha, kita doakan?",
+    "answers": "Biar berhasil",
+    "clues": "Dukungan spiritual"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di BKN?",
+    "answers": "PNS",
+    "clues": "Pegawai negeri"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'I'?",
+    "answers": "Saya",
+    "clues": "Aku"
+  },
+  {
+    "questions": "Kenapa kalau ada yang beribadah, kita hormati?",
+    "answers": "Toleransi",
+    "clues": "Menghargai keyakinan"
+  },
+  {
+    "questions": "Kuda apa yang paling menakutkan?",
+    "answers": "Kuda-patkan",
+    "clues": "Kuda-patkan hukuman"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di LAN?",
+    "answers": "Peserta diklat",
+    "clues": "Belajar"
+  },
+  {
+    "questions": "Kenapa kalau ada yang berbeda, kita hargai?",
+    "answers": "Bhinneka",
+    "clues": "Bhinneka Tunggal Ika"
+  },
+  {
+    "questions": "Apa yang paling pedas di dunia?",
+    "answers": "Omongan tetangga",
+    "clues": "Menyakitkan"
+  },
+  {
+    "questions": "Sapi apa yang paling menakutkan?",
+    "answers": "Sapi-kir",
+    "clues": "Sapi-kir ajal"
+  },
+  {
+    "questions": "Kenapa kalau ada yang sama, kita syukuri?",
+    "answers": "Ada teman",
+    "clues": "Tidak sendiri"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di ANRI?",
+    "answers": "Arsiparis",
+    "clues": "Menjaga arsip"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'you'?",
+    "answers": "Kamu",
+    "clues": "Anda"
+  },
+  {
+    "questions": "Kenapa kalau ada yang bersatu, kita dukung?",
+    "answers": "Biar kuat",
+    "clues": "Persatuan"
+  },
+  {
+    "questions": "Kelinci apa yang paling menakutkan?",
+    "answers": "Kelinci-laka",
+    "clues": "Kelinci-laka dunia"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di Perpusnas?",
+    "answers": "Pustakawan",
+    "clues": "Menjaga buku"
+  },
+  {
+    "questions": "Kenapa kalau ada yang bercerai, kita sayangkan?",
+    "answers": "Perpisahan",
+    "clues": "Tidak baik"
+  },
+  {
+    "questions": "Apa yang paling hambar di dunia?",
+    "answers": "Hidup",
+    "clues": "Hidup tanpa cinta"
+  },
+  {
+    "questions": "Kambing apa yang paling menakutkan?",
+    "answers": "Kambing-karat",
+    "clues": "Kambing-karat dalam kubur"
+  },
+  {
+    "questions": "Kenapa kalau ada yang rukun, kita senang?",
+    "answers": "Damai",
+    "clues": "Tentram"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di BPS?",
+    "answers": "Petugas sensus",
+    "clues": "Mendata"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'he'?",
+    "answers": "Dia (laki-laki)",
+    "clues": "Kata ganti"
+  },
+  {
+    "questions": "Kenapa kalau ada yang bertengkar, kita lerai?",
+    "answers": "Mencari damai",
+    "clues": "Menengahi"
+  },
+  {
+    "questions": "Ular apa yang paling menakutkan?",
+    "answers": "Ular-i",
+    "clues": "Ular-i dari tanggung jawab"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di BIG?",
+    "answers": "Surveyor",
+    "clues": "Memetakan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang damai, kita syukuri?",
+    "answers": "Nikmat",
+    "clues": "Anugerah"
+  },
+  {
+    "questions": "Apa yang paling rapuh di dunia?",
+    "answers": "Kepercayaan",
+    "clues": "Mudah hancur"
+  },
+  {
+    "questions": "Ayam apa yang paling menakutkan?",
+    "answers": "Ayam-an",
+    "clues": "Ayam-an dosa"
+  },
+  {
+    "questions": "Kenapa kalau ada yang perang, kita sedih?",
+    "answers": "Banyak korban",
+    "clues": "Penderitaan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di BMKG?",
+    "answers": "Prakirawan",
+    "clues": "Cuaca"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'she'?",
+    "answers": "Dia (perempuan)",
+    "clues": "Kata ganti"
+  },
+  {
+    "questions": "Kenapa kalau ada yang bersahabat, kita senang?",
+    "answers": "Indah",
+    "clues": "Persahabatan"
+  },
+  {
+    "questions": "Tikus apa yang paling menakutkan?",
+    "answers": "Tikus-ut",
+    "clues": "Tikus-ut Tuhan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di BNPB?",
+    "answers": "Tim SAR",
+    "clues": "Penanggulangan bencana"
+  },
+  {
+    "questions": "Kenapa kalau ada yang bermusuhan, kita sayangkan?",
+    "answers": "Tidak baik",
+    "clues": "Merusak hubungan"
+  },
+  {
+    "questions": "Apa yang paling kuat di alam semesta?",
+    "answers": "Kehendak",
+    "clues": "Kehendak Tuhan"
+  },
+  {
+    "questions": "Cicak apa yang paling menakutkan?",
+    "answers": "Cicak-ap",
+    "clues": "Cicak-ap dan perbuatan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang saling menyayangi, kita dukung?",
+    "answers": "Cinta",
+    "clues": "Cinta itu indah"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di BNPT?",
+    "answers": "Aparat",
+    "clues": "Anti teror"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'it'?",
+    "answers": "Itu",
+    "clues": "Benda"
+  },
+  {
+    "questions": "Kenapa kalau ada yang saling membenci, kita cegah?",
+    "answers": "Menimbulkan",
+    "clues": "Menimbulkan perpecahan"
+  },
+  {
+    "questions": "Burung apa yang paling menakutkan?",
+    "answers": "Burung-sangkaan",
+    "clues": "Burung-sangkaan jelek"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di BNN?",
+    "answers": "Petugas",
+    "clues": "Petugas anti narkoba"
+  },
+  {
+    "questions": "Kenapa kalau ada yang tolong-menolong, kita puji?",
+    "answers": "Gotong royong",
+    "clues": "Budaya bangsa"
+  },
+  {
+    "questions": "Apa yang paling abadi di dunia?",
+    "answers": "Perubahan",
+    "clues": "Selalu terjadi"
+  },
+  {
+    "questions": "Katak apa yang paling menakutkan?",
+    "answers": "Katak-waan",
+    "clues": "Katak-waan yang luntur"
+  },
+  {
+    "questions": "Kenapa kalau ada yang egois, kita tegur?",
+    "answers": "Mementingkan",
+    "clues": "Mementingkan diri sendiri"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di Basarnas?",
+    "answers": "Tim penyelamat",
+    "clues": "Mencari korban"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'we'?",
+    "answers": "Kita",
+    "clues": "Kami"
+  },
+  {
+    "questions": "Kenapa kalau ada yang berkorban, kita hargai?",
+    "answers": "Pengorbanan",
+    "clues": "Pengorbanan itu mulia"
+  },
+  {
+    "questions": "Monyet apa yang paling menakutkan?",
+    "answers": "Monyet-op",
+    "clues": "Monyet-op napas"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di Bakamla?",
+    "answers": "Penjaga laut",
+    "clues": "Keamanan laut"
+  },
+  {
+    "questions": "Kenapa kalau ada yang serakah, kita benci?",
+    "answers": "Tidak pernah",
+    "clues": "Tidak pernah puas"
+  },
+  {
+    "questions": "Apa yang paling fana di dunia?",
+    "answers": "Kehidupan",
+    "clues": "Hanya sementara"
+  },
+  {
+    "questions": "Kuda apa yang paling menakutkan?",
+    "answers": "Kuda-pat",
+    "clues": "Kuda-pat murka Tuhan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang ikhlas, kita kagum?",
+    "answers": "Tanpa pamrih",
+    "clues": "Tulus"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di Bapeten?",
+    "answers": "Pengawas nuklir",
+    "clues": "Tenaga atom"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'they'?",
+    "answers": "Mereka",
+    "clues": "Orang banyak"
+  },
+  {
+    "questions": "Kenapa kalau ada yang pamrih, kita tidak suka?",
+    "answers": "Tidak tulus",
+    "clues": "Ada maunya"
+  },
+  {
+    "questions": "Sapi apa yang paling menakutkan?",
+    "answers": "Sapi-krat",
+    "clues": "Sapi-krat maut"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di BSN?",
+    "answers": "Standardisasi",
+    "clues": "Ahli standar"
+  },
+  {
+    "questions": "Kenapa kalau ada yang bersatu padu, kita dukung?",
+    "answers": "Kekuatan",
+    "clues": "Kekuatan dalam persatuan"
+  },
+  {
+    "questions": "Apa yang paling nyata di dunia?",
+    "answers": "Kematian",
+    "clues": "Pasti datang"
+  },
+  {
+    "questions": "Kelinci apa yang paling menakutkan?",
+    "answers": "Kelinci-laka",
+    "clues": "Kelinci-laka maut"
+  },
+  {
+    "questions": "Kenapa kalau ada yang terpecah belah, kita sedih?",
+    "answers": "Lemah",
+    "clues": "Mudah dikalahkan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di LIPI?",
+    "answers": "Peneliti",
+    "clues": "Ilmu pengetahuan"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'is'?",
+    "answers": "Adalah",
+    "clues": "To be"
+  },
+  {
+    "questions": "Kenapa kalau ada yang kompak, kita senang?",
+    "answers": "Solid",
+    "clues": "Satu tujuan"
+  },
+  {
+    "questions": "Kambing apa yang paling menakutkan?",
+    "answers": "Kambing-kar",
+    "clues": "Kambing-kar api neraka"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di BATAN?",
+    "answers": "Ilmuwan nuklir",
+    "clues": "Atom"
+  },
+  {
+    "questions": "Kenapa kalau ada yang berselisih, kita damaikan?",
+    "answers": "Biar rukun",
+    "clues": "Menjaga persatuan"
+  },
+  {
+    "questions": "Apa yang paling semu di dunia?",
+    "answers": "Dunia maya",
+    "clues": "Internet"
+  },
+  {
+    "questions": "Ular apa yang paling menakutkan?",
+    "answers": "Ular-i",
+    "clues": "Ular-i dari panggilan Tuhan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang sepakat, kita lega?",
+    "answers": "Mufakat",
+    "clues": "Keputusan bersama"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di LAPAN?",
+    "answers": "Antariksawan",
+    "clues": "Luar angkasa"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'am'?",
+    "answers": "Adalah",
+    "clues": "To be"
+  },
+  {
+    "questions": "Kenapa kalau ada yang berdebat, kita jadi penengah?",
+    "answers": "Biar adil",
+    "clues": "Tidak memihak"
+  },
+  {
+    "questions": "Ayam apa yang paling menakutkan?",
+    "answers": "Ayam-an",
+    "clues": "Ayam-an kubur"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di BPPT?",
+    "answers": "Insinyur",
+    "clues": "Teknologi"
+  },
+  {
+    "questions": "Kenapa kalau ada yang musyawarah, kita hargai?",
+    "answers": "Mencari solusi",
+    "clues": "Demokrasi"
+  },
+  {
+    "questions": "Apa yang paling universal di dunia?",
+    "answers": "Musik",
+    "clues": "Bahasa universal"
+  },
+  {
+    "questions": "Tikus apa yang paling menakutkan?",
+    "answers": "Tikus-uk",
+    "clues": "Tikus-uk duri"
+  },
+  {
+    "questions": "Kenapa kalau ada yang memaksakan kehendak, kita tentang?",
+    "answers": "Tidak demokratis",
+    "clues": "Otoriter"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di Lemhannas?",
+    "answers": "Pejabat",
+    "clues": "Ketahanan nasional"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'are'?",
+    "answers": "Adalah",
+    "clues": "To be"
+  },
+  {
+    "questions": "Kenapa kalau ada yang menghargai pendapat, kita suka?",
+    "answers": "Demokratis",
+    "clues": "Menghormati"
+  },
+  {
+    "questions": "Cicak apa yang paling menakutkan?",
+    "answers": "Cicak-ap",
+    "clues": "Cicak-ap yang menyakitkan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di Wantannas?",
+    "answers": "Anggota dewan",
+    "clues": "Pertahanan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang meremehkan pendapat, kita tidak suka?",
+    "answers": "Tidak menghargai",
+    "clues": "Sombong"
+  },
+  {
+    "questions": "Apa yang paling beragam di dunia?",
+    "answers": "Budaya",
+    "clues": "Kekayaan bangsa"
+  },
+  {
+    "questions": "Burung apa yang paling menakutkan?",
+    "answers": "Burung-sangka",
+    "clues": "Burung-sangka kematian"
+  },
+  {
+    "questions": "Kenapa kalau ada yang mau mendengarkan, kita senang?",
+    "answers": "Dihargai",
+    "clues": "Merasa penting"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di BIN?",
+    "answers": "Intelijen",
+    "clues": "Agen rahasia"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'eat'?",
+    "answers": "Makan",
+    "clues": "Mengisi perut"
+  },
+  {
+    "questions": "Kenapa kalau ada yang tidak mau mendengarkan, kita kesal?",
+    "answers": "Tidak dihargai",
+    "clues": "Diabaikan"
+  },
+  {
+    "questions": "Katak apa yang paling menakutkan?",
+    "answers": "Katak-utan",
+    "clues": "Katak-utan pada-Mu"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di BSSN?",
+    "answers": "Hacker",
+    "clues": "Keamanan siber"
+  },
+  {
+    "questions": "Kenapa kalau ada yang memberi solusi, kita terima?",
+    "answers": "Membantu",
+    "clues": "Memecahkan masalah"
+  },
+  {
+    "questions": "Apa yang paling menantang dalam hubungan?",
+    "answers": "Komunikasi",
+    "clues": "Kunci hubungan"
+  },
+  {
+    "questions": "Monyet apa yang paling menakutkan?",
+    "answers": "Monyet-an",
+    "clues": "Monyet-an palsu yang beredar"
+  },
+  {
+    "questions": "Kenapa kalau ada yang hanya mengkritik, kita tidak suka?",
+    "answers": "Tidak memberi",
+    "clues": "Tidak memberi solusi"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di Istana Negara?",
+    "answers": "Presiden",
+    "clues": "Kepala negara"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'drink'?",
+    "answers": "Minum",
+    "clues": "Melepas dahaga"
+  },
+  {
+    "questions": "Kenapa kalau ada yang mendukung, kita semangat?",
+    "answers": "Dapat energi",
+    "clues": "Motivasi"
+  },
+  {
+    "questions": "Kuda apa yang paling menakutkan?",
+    "answers": "Kuda-pat",
+    "clues": "Kuda-pat siksa kubur"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di Istana Merdeka?",
+    "answers": "Tamu negara",
+    "clues": "Kunjungan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang menjatuhkan, kita sedih?",
+    "answers": "Hilang semangat",
+    "clues": "Demotivasi"
+  },
+  {
+    "questions": "Apa yang paling penting dalam persahabatan?",
+    "answers": "Kepercayaan",
+    "clues": "Dasar hubungan"
+  },
+  {
+    "questions": "Sapi apa yang paling menakutkan?",
+    "answers": "Sapi-kratul",
+    "clues": "Sapi-kratul maut yang menyakitkan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang jujur pada diri sendiri, kita kagum?",
+    "answers": "Mengenal diri",
+    "clues": "Introspeksi"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di Istana Bogor?",
+    "answers": "Rusa",
+    "clues": "Hewan di sana"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'sleep'?",
+    "answers": "Tidur",
+    "clues": "Istirahat"
+  },
+  {
+    "questions": "Kenapa kalau ada yang membohongi diri sendiri, kita kasihan?",
+    "answers": "Tidak menerima",
+    "clues": "Tidak menerima kenyataan"
+  },
+  {
+    "questions": "Kelinci apa yang paling menakutkan?",
+    "answers": "Kelinci-lakaan",
+    "clues": "Kelinci-lakaan di jalan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di Istana Cipanas?",
+    "answers": "Tukang kebun",
+    "clues": "Merawat taman"
+  },
+  {
+    "questions": "Kenapa kalau ada yang berani mengakui kesalahan, kita hargai?",
+    "answers": "Jantan",
+    "clues": "Berjiwa besar"
+  },
+  {
+    "questions": "Apa yang paling penting dalam pekerjaan?",
+    "answers": "Integritas",
+    "clues": "Kejujuran"
+  },
+  {
+    "questions": "Kambing apa yang paling menakutkan?",
+    "answers": "Kambing-kar",
+    "clues": "Kambing-kar dosa"
+  },
+  {
+    "questions": "Kenapa kalau ada yang menyalahkan orang lain, kita tidak suka?",
+    "answers": "Lempar batu",
+    "clues": "Lempar batu sembunyi tangan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di Gedung Agung?",
+    "answers": "Wisatawan",
+    "clues": "Di Yogyakarta"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'run'?",
+    "answers": "Lari",
+    "clues": "Bergerak cepat"
+  },
+  {
+    "questions": "Kenapa kalau ada yang mau belajar, kita dukung?",
+    "answers": "Masa depan",
+    "clues": "Masa depan cerah"
+  },
+  {
+    "questions": "Ular apa yang paling menakutkan?",
+    "answers": "Ular-angan",
+    "clues": "Ular-angan masa depan yang suram"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di Tampaksiring?",
+    "answers": "Turis",
+    "clues": "Di Bali"
+  },
+  {
+    "questions": "Kenapa kalau ada yang tidak mau belajar, kita sayangkan?",
+    "answers": "Masa depan",
+    "clues": "Masa depan suram"
+  },
+  {
+    "questions": "Apa yang paling penting dalam keluarga?",
+    "answers": "Keharmonisan",
+    "clues": "Rukun"
+  },
+  {
+    "questions": "Ayam apa yang paling menakutkan?",
+    "answers": "Ayam-an",
+    "clues": "Ayam-an perpisahan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang menabung, kita puji?",
+    "answers": "Mempersiapkan",
+    "clues": "Mempersiapkan masa depan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di Kementerian?",
+    "answers": "Menteri",
+    "clues": "Pejabat"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'walk'?",
+    "answers": "Jalan",
+    "clues": "Bergerak"
+  },
+  {
+    "questions": "Kenapa kalau ada yang boros, kita ingatkan?",
+    "answers": "Tidak baik",
+    "clues": "Untuk masa depan"
+  },
+  {
+    "questions": "Tikus apa yang paling menakutkan?",
+    "answers": "Tikus-ut",
+    "clues": "Tikus-ut akan kegagalan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di Kedutaan Besar?",
+    "answers": "Duta Besar",
+    "clues": "Perwakilan negara"
+  },
+  {
+    "questions": "Kenapa kalau ada yang berinvestasi, kita dukung?",
+    "answers": "Masa depan",
+    "clues": "Masa depan lebih baik"
+  },
+  {
+    "questions": "Apa yang paling penting dalam beragama?",
+    "answers": "Keyakinan",
+    "clues": "Iman"
+  },
+  {
+    "questions": "Cicak apa yang paling menakutkan?",
+    "answers": "Cicak-ap",
+    "clues": "Cicak-ap kasar dari orang tua"
+  },
+  {
+    "questions": "Kenapa kalau ada yang berjudi, kita larang?",
+    "answers": "Merusak",
+    "clues": "Merusak masa depan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di Konsulat Jenderal?",
+    "answers": "Konsul",
+    "clues": "Pejabat diplomatik"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'talk'?",
+    "answers": "Bicara",
+    "clues": "Berbicara"
+  },
+  {
+    "questions": "Kenapa kalau ada yang beribadah dengan taat, kita kagum?",
+    "answers": "Imannya kuat",
+    "clues": "Dekat dengan Tuhan"
+  },
+  {
+    "questions": "Burung apa yang paling menakutkan?",
+    "answers": "Burung-sangka",
+    "clues": "Burung-sangka dari teman"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di Perwakilan Tetap PBB?",
+    "answers": "Diplomat",
+    "clues": "Hubungan internasional"
+  },
+  {
+    "questions": "Kenapa kalau ada yang melalaikan ibadah, kita ingatkan?",
+    "answers": "Jalan yang",
+    "clues": "Jalan yang salah"
+  },
+  {
+    "questions": "Apa yang paling penting dalam bermasyarakat?",
+    "answers": "Toleransi",
+    "clues": "Saling menghargai"
+  },
+  {
+    "questions": "Katak apa yang paling menakutkan?",
+    "answers": "Katak-utan",
+    "clues": "Katak-utan tidak punya teman"
+  },
+  {
+    "questions": "Kenapa kalau ada yang menjaga lingkungan, kita puji?",
+    "answers": "Peduli",
+    "clues": "Peduli bumi"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di kantor gubernur?",
+    "answers": "Gubernur",
+    "clues": "Kepala daerah"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'see'?",
+    "answers": "Lihat",
+    "clues": "Melihat"
+  },
+  {
+    "questions": "Kenapa kalau ada yang merusak lingkungan, kita tegur?",
+    "answers": "Tidak peduli",
+    "clues": "Tidak peduli bumi"
+  },
+  {
+    "questions": "Monyet apa yang paling menakutkan?",
+    "answers": "Monyet-an",
+    "clues": "Monyet-an yang merusak"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di kantor walikota?",
+    "answers": "Walikota",
+    "clues": "Kepala kota"
+  },
+  {
+    "questions": "Kenapa kalau ada yang menanam pohon, kita dukung?",
+    "answers": "Penghijauan",
+    "clues": "Untuk bumi"
+  },
+  {
+    "questions": "Apa yang paling penting dalam bernegara?",
+    "answers": "Persatuan",
+    "clues": "Kesatuan"
+  },
+  {
+    "questions": "Kuda apa yang paling menakutkan?",
+    "answers": "Kuda-pat",
+    "clues": "Kuda-pat nilai jelek"
+  },
+  {
+    "questions": "Kenapa kalau ada yang menebang pohon sembarangan, kita larang?",
+    "answers": "Merusak",
+    "clues": "Merusak alam"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di kantor bupati?",
+    "answers": "Bupati",
+    "clues": "Kepala kabupaten"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'look'?",
+    "answers": "Lihat",
+    "clues": "Melihat"
+  },
+  {
+    "questions": "Kenapa kalau ada yang membuang sampah pada tempatnya, kita puji?",
+    "answers": "Menjaga",
+    "clues": "Menjaga kebersihan"
+  },
+  {
+    "questions": "Sapi apa yang paling menakutkan?",
+    "answers": "Sapi-kir",
+    "clues": "Sapi-kir kamu terus"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di kantor camat?",
+    "answers": "Camat",
+    "clues": "Kepala kecamatan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang membuang sampah sembarangan, kita tegur?",
+    "answers": "Mengotori",
+    "clues": "Mengotori lingkungan"
+  },
+  {
+    "questions": "Apa yang paling penting dalam belajar?",
+    "answers": "Kemauan",
+    "clues": "Niat"
+  },
+  {
+    "questions": "Kelinci apa yang paling menakutkan?",
+    "answers": "Kelinci-lakaan",
+    "clues": "Kelinci-lakaan beruntun"
+  },
+  {
+    "questions": "Kenapa kalau ada yang hemat energi, kita dukung?",
+    "answers": "Menjaga",
+    "clues": "Menjaga bumi"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di kantor lurah?",
+    "answers": "Lurah",
+    "clues": "Kepala kelurahan"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'listen'?",
+    "answers": "Dengar",
+    "clues": "Mendengar"
+  },
+  {
+    "questions": "Kenapa kalau ada yang boros energi, kita ingatkan?",
+    "answers": "Tidak baik",
+    "clues": "Tidak baik untuk bumi"
+  },
+  {
+    "questions": "Kambing apa yang paling menakutkan?",
+    "answers": "Kambing-kar",
+    "clues": "Kambing-kar kenangan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di balai desa?",
+    "answers": "Kepala desa",
+    "clues": "Pemimpin desa"
+  },
+  {
+    "questions": "Kenapa kalau ada yang menggunakan produk daur ulang, kita puji?",
+    "answers": "Mengurangi",
+    "clues": "Mengurangi sampah"
+  },
+  {
+    "questions": "Apa yang paling penting dalam mengajar?",
+    "answers": "Kesabaran",
+    "clues": "Menghadapi murid"
+  },
+  {
+    "questions": "Ular apa yang paling menakutkan?",
+    "answers": "Ular-i",
+    "clues": "Ular-i dan tak kembali"
+  },
+  {
+    "questions": "Kenapa kalau ada yang menggunakan plastik sekali pakai, kita kurangi?",
+    "answers": "Menumpuk",
+    "clues": "Menumpuk sampah"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di RT?",
+    "answers": "Ketua RT",
+    "clues": "Rukun Tetangga"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'hear'?",
+    "answers": "Dengar",
+    "clues": "Mendengar"
+  },
+  {
+    "questions": "Kenapa kalau ada yang menjaga kesehatan, kita dukung?",
+    "answers": "Aset",
+    "clues": "Aset berharga"
+  },
+  {
+    "questions": "Ayam apa yang paling menakutkan?",
+    "answers": "Ayam-an",
+    "clues": "Ayam-an kegelapan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di RW?",
+    "answers": "Ketua RW",
+    "clues": "Rukun Warga"
+  },
+  {
+    "questions": "Kenapa kalau ada yang tidak menjaga kesehatan, kita ingatkan?",
+    "answers": "Sakit itu",
+    "clues": "Sakit itu mahal"
+  },
+  {
+    "questions": "Apa yang paling penting dalam bekerja?",
+    "answers": "Profesionalisme",
+    "clues": "Sikap kerja"
+  },
+  {
+    "questions": "Tikus apa yang paling menakutkan?",
+    "answers": "Tikus-ut",
+    "clues": "Tikus-ut tidak bisa membahagiakanmu"
+  },
+  {
+    "questions": "Kenapa kalau ada yang makan makanan sehat, kita puji?",
+    "answers": "Investasi",
+    "clues": "Investasi kesehatan"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di keluarga?",
+    "answers": "Ayah",
+    "clues": "Kepala keluarga"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'give'?",
+    "answers": "Beri",
+    "clues": "Memberi"
+  },
+  {
+    "questions": "Kenapa kalau ada yang makan makanan tidak sehat, kita ingatkan?",
+    "answers": "Sumber",
+    "clues": "Sumber penyakit"
+  },
+  {
+    "questions": "Cicak apa yang paling menakutkan?",
+    "answers": "Cicak-ap",
+    "clues": "Cicak-ap manismu"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di perusahaan?",
+    "answers": "Direktur",
+    "clues": "Pimpinan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang rajin olahraga, kita dukung?",
+    "answers": "Badan sehat",
+    "clues": "Jiwa kuat"
+  },
+  {
+    "questions": "Apa yang paling penting dalam berbisnis?",
+    "answers": "Keuntungan",
+    "clues": "Tujuan bisnis"
+  },
+  {
+    "questions": "Burung apa yang paling menakutkan?",
+    "answers": "Burung-sangka",
+    "clues": "Burung-sangka ku kau setia"
+  },
+  {
+    "questions": "Kenapa kalau ada yang malas olahraga, kita ajak?",
+    "answers": "Biar sehat",
+    "clues": "Bergerak"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di organisasi?",
+    "answers": "Ketua",
+    "clues": "Pemimpin organisasi"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'take'?",
+    "answers": "Ambil",
+    "clues": "Mengambil"
+  },
+  {
+    "questions": "Kenapa kalau ada yang cukup tidur, kita puji?",
+    "answers": "Baik untuk",
+    "clues": "Baik untuk kesehatan"
+  },
+  {
+    "questions": "Katak apa yang paling menakutkan?",
+    "answers": "Katak-utan",
+    "clues": "Katak-utan sendiri"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di komunitas?",
+    "answers": "Anggota",
+    "clues": "Bagian dari"
+  },
+  {
+    "questions": "Kenapa kalau ada yang suka begadang, kita ingatkan?",
+    "answers": "Tidak baik",
+    "clues": "Tidak baik untuk kesehatan"
+  },
+  {
+    "questions": "Apa yang paling penting dalam berteman?",
+    "answers": "Kesetiaan",
+    "clues": "Kawan sejati"
+  },
+  {
+    "questions": "Monyet apa yang paling menakutkan?",
+    "answers": "Monyet-an",
+    "clues": "Monyet-an palsu yang kau berikan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang tidak stres, kita senang?",
+    "answers": "Hidup bahagia",
+    "clues": "Tenang"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di perkumpulan?",
+    "answers": "Peserta",
+    "clues": "Ikut serta"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'make'?",
+    "answers": "Buat",
+    "clues": "Membuat"
+  },
+  {
+    "questions": "Kenapa kalau ada yang stres, kita hibur?",
+    "answers": "Biar tidak",
+    "clues": "Biar tidak stres"
+  },
+  {
+    "questions": "Kuda apa yang paling menakutkan?",
+    "answers": "Kuda-pat",
+    "clues": "Kuda-pat karma"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di yayasan?",
+    "answers": "Pengurus",
+    "clues": "Mengelola"
+  },
+  {
+    "questions": "Kenapa kalau ada yang berpikir positif, kita dukung?",
+    "answers": "Aura positif",
+    "clues": "Menular"
+  },
+  {
+    "questions": "Apa yang paling penting dalam mencintai?",
+    "answers": "Ketulusan",
+    "clues": "Dari hati"
+  },
+  {
+    "questions": "Sapi apa yang paling menakutkan?",
+    "answers": "Sapi-kir",
+    "clues": "Sapi-kir dosa-dosaku"
+  },
+  {
+    "questions": "Kenapa kalau ada yang berpikir negatif, kita luruskan?",
+    "answers": "Biar positif",
+    "clues": "Melihat dari sisi baik"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di koperasi?",
+    "answers": "Anggota",
+    "clues": "Usaha bersama"
+  },
+  {
+    "questions": "Apa bahasa Indonesianya 'do'?",
+    "answers": "Lakukan",
+    "clues": "Melakukan"
+  },
+  {
+    "questions": "Kenapa kalau ada yang menjaga lisan, kita puji?",
+    "answers": "Tidak menyakiti",
+    "clues": "Berkata baik"
+  },
+  {
+    "questions": "Kelinci apa yang paling menakutkan?",
+    "answers": "Kelinci-lakaan",
+    "clues": "Kelinci-lakaan dalam hidup"
+  },
+  {
+    "questions": "Hewan apa yang paling suka di partai?",
+    "answers": "Kader",
+    "clues": "Politik"
+  },
+  {
+    "questions": "Kenapa kalau ada yang tidak menjaga lisan, kita ingatkan?",
+    "answers": "Menyakiti",
+    "clues": "Menyakiti perasaan"
+  },
+  {
+    "questions": "Apa yang paling penting dalam hidup ini?",
+    "answers": "Ibadah",
+    "clues": "Tujuan hidup"
+  }
+]
